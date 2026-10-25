@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>zdarma/praha</title>
+  <meta name="description" content="Free openings, club nights, concerts and talks in Prague. Updated daily.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1 class="mark"><span data-i18n="mark">zdarma</span><i>/</i>praha</h1>
+    <p class="tagline" data-i18n="tagline"></p>
+    <nav class="lang" aria-label="Language">
+      <button data-lang="cs">cs</button><span>/</span><button data-lang="en">en</button>
+    </nav>
+  </header>
+
+  <section class="filters">
+    <div class="row" role="group" aria-label="When" id="when"></div>
+    <div class="row" role="group" aria-label="What" id="cats"></div>
+    <input type="search" id="q" autocomplete="off">
+  </section>
+
+  <main id="list" aria-live="polite"></main>
+
+  <footer>
+    <p id="count"></p>
+    <p><span data-i18n="sources"></span>
+      <a href="https://www.artmap.cz">artmap</a>, <a href="https://goout.net">goout</a>,
+      <a href="https://prague.eu">prague.eu</a>, <a href="https://www.crossclub.cz">cross club</a>,
+      <a href="https://punctum.cz">punctum</a>, <a href="https://www.meetfactory.cz">meetfactory</a>,
+      <a href="https://www.petrohradskakolektiv.com">petrohradská</a>,
+      <a href="https://www.galerierudolfinum.cz">rudolfinum</a>.
+      <span data-i18n="disclaimer"></span></p>
+    <p id="updated"></p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
