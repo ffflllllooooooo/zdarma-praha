@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T16:48+01:00",
+ "generated": "2026-10-26T04:41+01:00",
  "events": [
   {
    "id": "goout:8277192",
@@ -98,55 +98,28 @@
    "free": "likely"
   },
   {
-   "id": "prague.eu:dyzajn-market-podzim",
-   "source": "prague.eu",
+   "id": "artmap:54481",
+   "source": "artmap",
    "name": {
-    "cs": "Dyzajn market Podzim"
+    "cs": "Jana Klenorová – What Remains"
    },
    "summary": {
-    "cs": "Další výběrový trh proběhne v říjnu v areálu Výstaviště Praha v Holešovicích. U každého stánku se můžete potkat s autory naživo, víte tedy, od koho si výrobky kupujete. Prezentují se zde návrháři oblečení, šperkaři, drobní výrobci přírodní kosmetiky, tvůrci doplňků módních i bytových, produkty jako je porcelán, keramika, batohy, kabelky, hračky, svíčky, papírenské výrobky... Akce se účastní lokální tvůrci z České republiky, Slovenska, Maďarska, Rakouska, Německa. Dyzajn market je nejen místem pro objevování a nákupy, ale i pro setkávání a inspiraci. Součástí akce je také pestrý food festival s výběrovou kávou, street foodem i sladkými a slanými specialitami pro vegetariány, vegany i milovníky masa."
+    "cs": "Malba, Socha a objekt"
    },
    "url": {
-    "cs": "https://prague.eu/cs/akce/dyzajn-market-podzim/",
-    "en": "https://prague.eu/en/akce/dyzajn-market-autumn/"
-   },
-   "image": "https://cdn.praguecitytourism.city/2025/09/01122323/825293013_2059769334751799_8844864413575676622_n.jpg",
-   "dates": [
-    {
-     "end": "2026-10-25T18:00",
-     "start": "2026-10-24T10:00"
-    }
-   ],
-   "venue": "Výstaviště Praha",
-   "area": "Holešovice",
-   "lat": 50.10591838193963,
-   "lng": 14.430306983853146,
-   "cat": "city",
-   "free": true
-  },
-  {
-   "id": "goout:9548290",
-   "source": "goout",
-   "name": {
-    "cs": "Na Antarktidu!"
-   },
-   "summary": {
-    "cs": "Jaké dobrodružství se může ukrývat na listu bílého papíru? A co když to není papír, ale zasněžená Antaktida, na kterou se díváme z letadla? A co se s Antaktidou stane, když vezmeme do ruky tužku? Necháme fantazii volně běhat po papíře, prozkoumáme , co všechno umí obyčejná tužka a vyzkoušíme si práci se šablonami. Výtvarná dílna od autorek dětské knihy *Diviška a červený provázek,* volně…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/na-antarktidu/szpgcly/"
+    "cs": "https://www.artmap.cz/eventy/jana-klenorova-what-remains-2"
    },
    "dates": [
     {
-     "start": "2026-10-25T15:00",
-     "end": "2026-10-25T16:30"
+     "start": "2026-10-26T18:00",
+     "end": "2026-10-26T18:00"
     }
    ],
-   "venue": "Vzlet",
-   "area": "Praha 10 – Vršovice",
-   "lat": 50.0701,
-   "lng": 14.4548,
-   "cat": "kids",
+   "venue": "HIDDEN gallery",
+   "area": "Praha 7",
+   "lat": 50.1083183,
+   "lng": 14.4404202,
+   "cat": "opening",
    "free": true
   },
   {
@@ -1517,6 +1490,31 @@
    "lat": 50.0866,
    "lng": 14.416,
    "cat": "city",
+   "free": true
+  },
+  {
+   "id": "artmap:54491",
+   "source": "artmap",
+   "name": {
+    "cs": "Jesse van Epenhuijsen – Even a Tree Dreams of Becoming an Antenna Some Days"
+   },
+   "summary": {
+    "cs": "Socha a objekt"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/jesse-van-epenhuijsen-even-a-tree-dreams-of-becoming-an-antenna-some-days-2"
+   },
+   "dates": [
+    {
+     "start": "2026-11-03T18:00",
+     "end": "2026-11-03T18:00"
+    }
+   ],
+   "venue": "Galerie Sklad M1",
+   "area": "Praha 7",
+   "lat": 50.10263,
+   "lng": 14.42455,
+   "cat": "opening",
    "free": true
   },
   {
@@ -4494,6 +4492,31 @@
    "lat": 50.0891,
    "lng": 14.3969,
    "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "artmap:54489",
+   "source": "artmap",
+   "name": {
+    "cs": "Bára Mrázková – Charge Flipping"
+   },
+   "summary": {
+    "cs": "Video, Současné umění"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/bara-mrazkova-charge-flipping-2"
+   },
+   "dates": [
+    {
+     "start": "2026-11-13T18:00",
+     "end": "2026-11-13T18:00"
+    }
+   ],
+   "venue": "etc. galerie",
+   "area": "Praha 2",
+   "lat": 50.067215,
+   "lng": 14.435556,
+   "cat": "opening",
    "free": true
   },
   {
