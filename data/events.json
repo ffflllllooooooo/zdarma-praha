@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T04:41+01:00",
+ "generated": "2026-10-27T04:40+01:00",
  "events": [
   {
    "id": "goout:8277192",
@@ -96,104 +96,6 @@
    "lng": null,
    "cat": "art",
    "free": "likely"
-  },
-  {
-   "id": "artmap:54481",
-   "source": "artmap",
-   "name": {
-    "cs": "Jana Klenorová – What Remains"
-   },
-   "summary": {
-    "cs": "Malba, Socha a objekt"
-   },
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/jana-klenorova-what-remains-2"
-   },
-   "dates": [
-    {
-     "start": "2026-10-26T18:00",
-     "end": "2026-10-26T18:00"
-    }
-   ],
-   "venue": "HIDDEN gallery",
-   "area": "Praha 7",
-   "lat": 50.1083183,
-   "lng": 14.4404202,
-   "cat": "opening",
-   "free": true
-  },
-  {
-   "id": "punctum:yoga-s-ivetou-nykodymovou-45@punctum.cz",
-   "source": "punctum",
-   "name": {
-    "en": "Yoga s Ivetou Nykodýmovou"
-   },
-   "summary": {
-    "en": "V Punctum máme také pravidelné lekce jógy obvykle v pondělí v pondělí večer od 18:30 do 20:00.Naše lektorka jógy Iveta Nykodýmová je certifikovaná lektorka Ashtanga vinyasa jógy, která také v létě 2018 ukončila pokročilý kurz lektorky Forrest jógy u Any Forrest v Berlíně.Iveta měla první lekci jógy v 17 letech a od té doby je jóga vždy součástí jejího života. Během svého 11 letého pobytu v…"
-   },
-   "url": {
-    "en": "https://punctum.cz/event/yoga-s-ivetou-nykodymovou-45"
-   },
-   "dates": [
-    {
-     "start": "2026-10-26T18:15",
-     "end": "2026-10-26T20:00"
-    }
-   ],
-   "venue": "Punctum",
-   "area": "Žižkov",
-   "lat": null,
-   "lng": null,
-   "cat": "music",
-   "free": true
-  },
-  {
-   "id": "goout:9576583",
-   "source": "goout",
-   "name": {
-    "cs": "Feinkošt 2026 – přehlídka krátkých dokumentárních filmů."
-   },
-   "summary": {
-    "cs": "**Sedm krátkých dokumentů česko-německého turné filmů 2026 se zaměřuje na lidi, kteří se snaží najít své místo ve stále rychlejším a náročnějším světě.** Mezi tlakem na výkon, společenskými očekáváními a osobními výzvami hledají vlastní cestu, pocit sounáležitosti a prostor, kde mohou být sami sebou. České filmy vyprávějí příběhy mužů, kteří nacházejí útěchu v kulturistice, letové dispečerky…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/feinkost-2026-prehlidka-kratkych-dokumentarnich-filmu/szinwmy/"
-   },
-   "dates": [
-    {
-     "start": "2026-10-26T19:00",
-     "end": "2026-10-26T23:59"
-    }
-   ],
-   "venue": "Kampus Hybernská",
-   "area": "Praha 1 – Nové Město",
-   "lat": 50.0871,
-   "lng": 14.4299,
-   "cat": "film",
-   "free": true
-  },
-  {
-   "id": "crossclub:8693-los-tekkenos",
-   "source": "crossclub",
-   "name": {
-    "cs": "Los Tekkenos"
-   },
-   "summary": {},
-   "url": {
-    "cs": "https://www.crossclub.cz/cs/program/8693-los-tekkenos/"
-   },
-   "dates": [
-    {
-     "start": "2026-10-26T20:00",
-     "end": "2026-10-26T20:00"
-    }
-   ],
-   "venue": "Cross Club",
-   "area": "Holešovice",
-   "lat": null,
-   "lng": null,
-   "cat": "club",
-   "free": true
   },
   {
    "id": "goout:9576593",
@@ -594,12 +496,24 @@
    "free": true
   },
   {
+   "area": "Malá Strana",
+   "cat": "city",
+   "dates": [
+    {
+     "end": "2026-10-28T23:59",
+     "start": "2026-10-28T00:00"
+    }
+   ],
+   "free": true,
    "id": "prague.eu:strakova-akademie-den-otevrenych-dveri",
-   "source": "prague.eu",
+   "image": "https://cdn.praguecitytourism.city/2024/07/07101237/Strakova.jpg",
+   "lat": 50.09206450000001,
+   "lng": 14.4120647,
    "name": {
     "cs": "Strakova akademie — Den otevřených dveří",
     "en": "Straka academy — Open House"
    },
+   "source": "prague.eu",
    "summary": {
     "cs": "Den otevřených dveří ve Strakově akademie nabídne jedinečnou příležitost nahlédnout do sídla vlády České republiky, které je běžně veřejnosti nepřístupné. Návštěvníci si projdou reprezentativní prostory této historické budovy, dozvědí se více o její architektuře i fungování státní správy a zažijí atmosféru místa, kde se rozhoduje o směřování země. Program tradičně doplní komentované prohlídky a doprovodné aktivity pro širokou veřejnost. Prohlídková trasa zavede návštěvníky do jednacího sálu vlády, do nového i historického tiskového sálu a vyvrcholí v přilehlé zahradě.",
     "en": "The Open House at Straka Academy will offer a unique opportunity to explore the premises of the Czech government, which are normally closed to the public. Visitors will walk through the representative halls of this historic building, learn more about its architecture and the workings of the state administration, and experience the atmosphere of the place where decisions about the country’s future are made. As is tradition, the program will include guided tours and accompanying activities for the general public. The tour route will take visitors to the government’s meeting hall, the new and historic press rooms, and will conclude in the neighboring garden."
@@ -608,179 +522,167 @@
     "cs": "https://prague.eu/cs/akce/strakova-akademie-den-otevrenych-dveri/",
     "en": "https://prague.eu/en/akce/straka-academy-open-house/"
    },
-   "image": "https://cdn.praguecitytourism.city/2024/07/07101237/Strakova.jpg",
-   "dates": [
-    {
-     "end": "2026-10-28T23:59",
-     "start": "2026-10-28T00:00"
-    }
-   ],
-   "venue": "Strakova akademie (Úřad vlády ČR)",
-   "area": "Malá Strana",
-   "lat": 50.09206450000001,
-   "lng": 14.4120647,
-   "cat": "city",
-   "free": true
+   "venue": "Strakova akademie (Úřad vlády ČR)"
   },
   {
-   "id": "prague.eu:senat-den-otevrenych-dveri",
-   "source": "prague.eu",
-   "name": {
-    "en": "Senate — Open Day",
-    "cs": "Senát — Den otevřených dveří"
-   },
-   "summary": {
-    "en": "Every year, on the occasion of the national holidays of 8 May and 28 October, the Senate of the Parliament of the Czech Republic organises an Open Day for the public. In addition to the historical spaces of the Waldstein Palace (which you can see every Saturday), you can also visit the normally inaccessible spaces, the Meeting Hall or the Kolovrat Palace.",
-    "cs": "U příležitosti státních svátků 8. května a 28. října pořádá Senát Parlamentu ČR každoročně Den otevřených dveří pro širokou veřejnost. Vedle historických prostor Valdštejnského paláce, které jsou běžně přístupné každou sobotu, se návštěvníci mohou podívat i do jinak nepřístupných míst, jako je Jednací sál či Kolovratský palác. "
-   },
-   "url": {
-    "en": "https://prague.eu/en/akce/senate-open-day/",
-    "cs": "https://prague.eu/cs/akce/senat-den-otevrenych-dveri/"
-   },
-   "image": "https://cdn.praguecitytourism.city/2024/10/24085032/559993906_1215919710562791_5036105737284225641_n.jpg",
+   "area": "Malá Strana",
+   "cat": "city",
    "dates": [
     {
      "end": "2026-10-28T23:59",
      "start": "2026-10-28T00:00"
     }
    ],
-   "venue": "Waldstein Palace",
-   "area": "Malá Strana",
+   "free": true,
+   "id": "prague.eu:senat-den-otevrenych-dveri",
+   "image": "https://cdn.praguecitytourism.city/2024/10/24085032/559993906_1215919710562791_5036105737284225641_n.jpg",
    "lat": 50.090059753221496,
    "lng": 14.405701492030708,
-   "cat": "city",
-   "free": true
-  },
-  {
-   "id": "prague.eu:ministerstvo-skolstvi-den-otevrenych-dveri",
-   "source": "prague.eu",
    "name": {
-    "cs": "Ministerstvo školství, mládeže a tělovýchovy — Den otevřených dveří"
+    "cs": "Senát — Den otevřených dveří",
+    "en": "Senate — Open Day"
    },
+   "source": "prague.eu",
    "summary": {
-    "cs": "Na státní svátek 28. října otevře Den otevřených dveří na MŠMT veřejnosti brány historického Rohanského paláce. Návštěvníci si během komentovaných prohlídek prohlédnou reprezentativní prostory ministerstva včetně kanceláře ministra, užijí si hudební vystoupení studentů a získají informace o pracovních příležitostech ve veřejné správě."
+    "cs": "U příležitosti státních svátků 8. května a 28. října pořádá Senát Parlamentu ČR každoročně Den otevřených dveří pro širokou veřejnost. Vedle historických prostor Valdštejnského paláce, které jsou běžně přístupné každou sobotu, se návštěvníci mohou podívat i do jinak nepřístupných míst, jako je Jednací sál či Kolovratský palác. ",
+    "en": "Every year, on the occasion of the national holidays of 8 May and 28 October, the Senate of the Parliament of the Czech Republic organises an Open Day for the public. In addition to the historical spaces of the Waldstein Palace (which you can see every Saturday), you can also visit the normally inaccessible spaces, the Meeting Hall or the Kolovrat Palace."
    },
    "url": {
-    "cs": "https://prague.eu/cs/akce/ministerstvo-skolstvi-den-otevrenych-dveri/"
+    "cs": "https://prague.eu/cs/akce/senat-den-otevrenych-dveri/",
+    "en": "https://prague.eu/en/akce/senate-open-day/"
    },
-   "image": "https://cdn.praguecitytourism.city/2024/10/01140025/Velky_zrcadlovy_sal.jpg",
+   "venue": "Waldstein Palace"
+  },
+  {
+   "area": "Malá Strana",
+   "cat": "city",
    "dates": [
     {
      "end": "2026-10-28T16:00",
      "start": "2026-10-28T09:00"
     }
    ],
-   "venue": "Ministerstvo školství, mládeže a tělovýchovy",
-   "area": "Malá Strana",
+   "free": true,
+   "id": "prague.eu:ministerstvo-skolstvi-den-otevrenych-dveri",
+   "image": "https://cdn.praguecitytourism.city/2024/10/01140025/Velky_zrcadlovy_sal.jpg",
    "lat": 50.085248601834664,
    "lng": 14.404149750926218,
-   "cat": "city",
-   "free": true
-  },
-  {
-   "id": "prague.eu:obecni-dum-den-otevrenych-dveri",
-   "source": "prague.eu",
    "name": {
-    "en": "Municipal House — open house"
+    "cs": "Ministerstvo školství, mládeže a tělovýchovy — Den otevřených dveří"
    },
+   "source": "prague.eu",
    "summary": {
-    "en": "As every year on 28 October, Prague’s Municipal House will commemorate the anniversary of the founding of independent Czechoslovakia with a special Open House Day. Visitors will have a unique opportunity to explore the representative spaces of this remarkable Art Nouveau landmark free of charge, a building closely associated with key moments in Czech history. The tour route will lead through the ceremonial halls on the first floor, including Smetana Hall, the Mayor’s Hall adorned with decorations by Alfons Mucha, and a series of historic salons. The programme will also feature regular guided talks offering insights into the history of the building and its role in the establishment of Czechoslovakia."
+    "cs": "Na státní svátek 28. října otevře Den otevřených dveří na MŠMT veřejnosti brány historického Rohanského paláce. Návštěvníci si během komentovaných prohlídek prohlédnou reprezentativní prostory ministerstva včetně kanceláře ministra, užijí si hudební vystoupení studentů a získají informace o pracovních příležitostech ve veřejné správě."
    },
    "url": {
-    "en": "https://prague.eu/en/akce/municipal-house-open-house/",
-    "cs": "https://prague.eu/cs/akce/obecni-dum-den-otevrenych-dveri/"
+    "cs": "https://prague.eu/cs/akce/ministerstvo-skolstvi-den-otevrenych-dveri/"
    },
-   "image": "https://cdn.praguecitytourism.city/2024/09/20114429/DSC_7981-e1755683170748.jpg",
+   "venue": "Ministerstvo školství, mládeže a tělovýchovy"
+  },
+  {
+   "area": "Staré Město",
+   "cat": "city",
    "dates": [
     {
      "end": "2026-10-28T15:00",
      "start": "2026-10-28T09:00"
     }
    ],
-   "venue": "Municipal House",
-   "area": "Staré Město",
+   "free": true,
+   "id": "prague.eu:obecni-dum-den-otevrenych-dveri",
+   "image": "https://cdn.praguecitytourism.city/2024/09/20114429/DSC_7981-e1755683170748.jpg",
    "lat": 50.08777187188487,
    "lng": 14.427797070500192,
-   "cat": "city",
-   "free": true
+   "name": {
+    "en": "Municipal House — open house"
+   },
+   "source": "prague.eu",
+   "summary": {
+    "en": "As every year on 28 October, Prague’s Municipal House will commemorate the anniversary of the founding of independent Czechoslovakia with a special Open House Day. Visitors will have a unique opportunity to explore the representative spaces of this remarkable Art Nouveau landmark free of charge, a building closely associated with key moments in Czech history. The tour route will lead through the ceremonial halls on the first floor, including Smetana Hall, the Mayor’s Hall adorned with decorations by Alfons Mucha, and a series of historic salons. The programme will also feature regular guided talks offering insights into the history of the building and its role in the establishment of Czechoslovakia."
+   },
+   "url": {
+    "cs": "https://prague.eu/cs/akce/obecni-dum-den-otevrenych-dveri/",
+    "en": "https://prague.eu/en/akce/municipal-house-open-house/"
+   },
+   "venue": "Municipal House"
   },
   {
+   "area": "Nové Město",
+   "cat": "city",
+   "dates": [
+    {
+     "end": "2026-10-28T18:00",
+     "start": "2026-10-28T10:00"
+    }
+   ],
+   "free": true,
    "id": "prague.eu:skoduv-palac-den-otevrenych-dveri",
-   "source": "prague.eu",
+   "image": "https://cdn.praguecitytourism.city/2024/10/23104145/Skodovy-salonky.jpg",
+   "lat": 50.08210131717753,
+   "lng": 14.422233688954943,
    "name": {
     "cs": "Škodův palác — Den otevřených dveří"
    },
+   "source": "prague.eu",
    "summary": {
     "cs": "Veřejnosti běžně nepřístupné Škodovy salonky ve Škodově paláci se výjimečně otevřou v rámci Dne otevřených dveří Magistrátu hl. m. Prahy, který se uskuteční 28. října. Reprezentativní soubor pěti propojených místností patří k nejcennějším interiérům budovy a i přes řadu stavebních úprav si zachoval svůj původní charakter. Díky citlivé restaurátorské obnově dnes znovu vyniká bohatá řemeslná práce, od dřevěného obložení stěn a stropů s precizními řezbářskými detaily až po historické lustry, nábytek, tapiserie a další původní vybavení. Návštěva salónků nabídne jedinečný pohled do historie paláce, který je dnes spojen především s fungováním městské správy, a umožní objevit jeho architektonickou i uměleckou hodnotu."
    },
    "url": {
     "cs": "https://prague.eu/cs/akce/skoduv-palac-den-otevrenych-dveri/"
    },
-   "image": "https://cdn.praguecitytourism.city/2024/10/23104145/Skodovy-salonky.jpg",
+   "venue": "Škodův palác"
+  },
+  {
+   "area": "Staré Město",
+   "cat": "city",
    "dates": [
     {
      "end": "2026-10-28T18:00",
      "start": "2026-10-28T10:00"
     }
    ],
-   "venue": "Škodův palác",
-   "area": "Nové Město",
-   "lat": 50.08210131717753,
-   "lng": 14.422233688954943,
-   "cat": "city",
-   "free": true
-  },
-  {
+   "free": true,
    "id": "prague.eu:nova-radnice-den-otevrenych-dveri",
-   "source": "prague.eu",
+   "image": "https://cdn.praguecitytourism.city/2024/10/07114107/NOVARADNICE_24.jpg",
+   "lat": 50.08710143979734,
+   "lng": 14.417860026389308,
    "name": {
     "cs": "Nová radnice — Den otevřených dveří"
    },
+   "source": "prague.eu",
    "summary": {
     "cs": "V rámci Dne otevřených dveří Magistrátu hl. m. Prahy se 28. října 2026 veřejnosti otevře také Nová radnice na Mariánském náměstí, sídlo vedení české metropole. Návštěvníci budou mít příležitost nahlédnout do reprezentativních prostor, kde působí pražský primátor, Rada hl. m. Prahy i pražské zastupitelstvo, a seznámit se s historií této významné budovy. Nová radnice, navržená architektem Osvaldem Polívkou, patří k ukázkám pražské secese a zaujme monumentální dvoranou i bohatou uměleckou výzdobou. Komentované prohlídky zavedou návštěvníky do míst, která jsou běžně nepřístupná, a přiblíží nejen architektonické kvality stavby, ale také fungování správy hlavního města. "
    },
    "url": {
     "cs": "https://prague.eu/cs/akce/nova-radnice-den-otevrenych-dveri/"
    },
-   "image": "https://cdn.praguecitytourism.city/2024/10/07114107/NOVARADNICE_24.jpg",
+   "venue": "Nová radnice"
+  },
+  {
+   "area": "Staré Město",
+   "cat": "city",
    "dates": [
     {
      "end": "2026-10-28T18:00",
      "start": "2026-10-28T10:00"
     }
    ],
-   "venue": "Nová radnice",
-   "area": "Staré Město",
-   "lat": 50.08710143979734,
-   "lng": 14.417860026389308,
-   "cat": "city",
-   "free": true
-  },
-  {
+   "free": true,
    "id": "prague.eu:rezidence-primatora-den-otevrenych-dveri",
-   "source": "prague.eu",
+   "image": "https://cdn.praguecitytourism.city/2024/10/23115719/PCT-sjezd-concierges-002.jpg",
+   "lat": 50.0873831,
+   "lng": 14.4173879,
    "name": {
     "cs": "Rezidence primátora — Den otevřených dveří"
    },
+   "source": "prague.eu",
    "summary": {
     "cs": "Umělecký skvost ve stylu art deco otevře své dveře u příležitosti státního svátku 28. října. Reprezentativní prostory Rezidence primátora hlavního města Prahy, situované v budově Městské knihovny na Mariánském náměstí, nabídnou návštěvníkům jedinečnou příležitost nahlédnout do interiérů, jež patří k architektonickým perlám meziválečné Prahy. Během Dne otevřených dveří bude možné obdivovat cenné umělecké a řemeslné detaily, elegantní vybavení i atmosféru míst, kde se odehrávají významná společenská a diplomatická setkání. Výjimečná událost zve k objevování historie, architektury i reprezentační tváře české metropole v kulisách jednoho z nejpozoruhodnějších pražských interiérů."
    },
    "url": {
     "cs": "https://prague.eu/cs/akce/rezidence-primatora-den-otevrenych-dveri/"
    },
-   "image": "https://cdn.praguecitytourism.city/2024/10/23115719/PCT-sjezd-concierges-002.jpg",
-   "dates": [
-    {
-     "end": "2026-10-28T18:00",
-     "start": "2026-10-28T10:00"
-    }
-   ],
-   "venue": "Rezidence primátora",
-   "area": "Staré Město",
-   "lat": 50.0873831,
-   "lng": 14.4173879,
-   "cat": "city",
-   "free": true
+   "venue": "Rezidence primátora"
   },
   {
    "id": "crossclub:8695-biocross",
@@ -803,6 +705,31 @@
    "lat": null,
    "lng": null,
    "cat": "club",
+   "free": true
+  },
+  {
+   "id": "artmap:54486",
+   "source": "artmap",
+   "name": {
+    "cs": "Petra Švejdarová a Klára Vaculíková – PRIME FAST"
+   },
+   "summary": {
+    "cs": "Socha a objekt, Design"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/petra-svejdarova-a-klara-vaculikova-prime-fast-2"
+   },
+   "dates": [
+    {
+     "start": "2026-10-29T17:00",
+     "end": "2026-10-29T17:00"
+    }
+   ],
+   "venue": "Artium",
+   "area": "Praha 6",
+   "lat": 50.0978324,
+   "lng": 14.3649295,
+   "cat": "opening",
    "free": true
   },
   {
@@ -877,19 +804,8 @@
    "free": true
   },
   {
-   "id": "prague.eu:farmarske-trhy-na-kulataku",
-   "source": "prague.eu",
-   "name": {
-    "cs": "Farmářské trhy na Kulaťáku"
-   },
-   "summary": {
-    "cs": "Farmářský trh Kulaťák patří k největším pravidelným trhům v Praze a dlouhodobě nabízí kvalitní produkty od českých farmářů a výrobců. Od začátku března vždy v sobotu proměňuje Vítězné náměstí v příjemné místo plné sezónních chutí a sousedské atmosféry. Každý týden zde pořídíte čerstvé ovoce a zeleninu, pečivo, maso, ryby, sýry, květiny i další produkty s jasným původem, doplněné o pestrý street food a vybrané zahraniční delikatesy.   "
-   },
-   "url": {
-    "cs": "https://prague.eu/cs/akce/farmarske-trhy-na-kulataku/",
-    "en": "https://prague.eu/en/akce/farmers-markets-at-kulatak-vitezne-namesti/"
-   },
-   "image": "https://cdn.praguecitytourism.city/2024/12/15122142/481086264_1041559144679445_6937361057754772119_n.jpg",
+   "area": "Dejvice",
+   "cat": "city",
    "dates": [
     {
      "end": "2026-10-31T14:00",
@@ -924,51 +840,27 @@
      "start": "2026-12-19T08:00"
     }
    ],
-   "venue": "Farmářské trhy na Kulaťáku",
-   "area": "Dejvice",
+   "free": true,
+   "id": "prague.eu:farmarske-trhy-na-kulataku",
+   "image": "https://cdn.praguecitytourism.city/2024/12/15122142/481086264_1041559144679445_6937361057754772119_n.jpg",
    "lat": 50.10155087680153,
    "lng": 14.393436381861893,
-   "cat": "city",
-   "free": true
-  },
-  {
-   "id": "artmap:54355",
-   "source": "artmap",
    "name": {
-    "cs": "Magdaléna Manderlová, Ewa Jacobsson – Singing Wires"
+    "cs": "Farmářské trhy na Kulaťáku"
    },
-   "summary": {
-    "cs": "Socha a objekt"
-   },
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/magdalena-manderlova-ewa-jacobsson-singing-wires-2"
-   },
-   "dates": [
-    {
-     "start": "2026-10-31T18:30",
-     "end": "2026-10-31T18:30"
-    }
-   ],
-   "venue": "Krajinou přílivu",
-   "area": "Praha 8",
-   "lat": 50.1041006,
-   "lng": 14.4740263,
-   "cat": "opening",
-   "free": true
-  },
-  {
-   "id": "prague.eu:jazz-harmony-collective",
    "source": "prague.eu",
-   "name": {
-    "cs": "Jazz Harmony Collective"
-   },
    "summary": {
-    "cs": "Zažijte večer, kde se autentický jazz tradičního swingu prolíná s improvizací a živou energií v podání kapely Jazz Harmony Collective v klubu Jazz Republic. Kvarteto vedené saxofonistou Bedřichem Šmardou, známým svou precizní swingovou frázi a jedinečnou schopností propojit klasický styl 30. let s moderní jazzovou energií,přináší do pražského klubu hudbu, která má šarm, rytmus i hloubku."
+    "cs": "Farmářský trh Kulaťák patří k největším pravidelným trhům v Praze a dlouhodobě nabízí kvalitní produkty od českých farmářů a výrobců. Od začátku března vždy v sobotu proměňuje Vítězné náměstí v příjemné místo plné sezónních chutí a sousedské atmosféry. Každý týden zde pořídíte čerstvé ovoce a zeleninu, pečivo, maso, ryby, sýry, květiny i další produkty s jasným původem, doplněné o pestrý street food a vybrané zahraniční delikatesy.   "
    },
    "url": {
-    "cs": "https://prague.eu/cs/akce/jazz-harmony-collective/"
+    "cs": "https://prague.eu/cs/akce/farmarske-trhy-na-kulataku/",
+    "en": "https://prague.eu/en/akce/farmers-markets-at-kulatak-vitezne-namesti/"
    },
-   "image": "https://cdn.praguecitytourism.city/2024/12/04134713/008_20260216_DSC7013_edit.jpg",
+   "venue": "Farmářské trhy na Kulaťáku"
+  },
+  {
+   "area": "Staré Město",
+   "cat": "music",
    "dates": [
     {
      "end": "2026-10-31T23:59",
@@ -987,12 +879,22 @@
      "start": "2026-12-26T20:00"
     }
    ],
-   "venue": "Jazz Republic",
-   "area": "Staré Město",
+   "free": true,
+   "id": "prague.eu:jazz-harmony-collective",
+   "image": "https://cdn.praguecitytourism.city/2024/12/04134713/008_20260216_DSC7013_edit.jpg",
    "lat": 50.08414963409315,
    "lng": 14.418556430024706,
-   "cat": "music",
-   "free": true
+   "name": {
+    "cs": "Jazz Harmony Collective"
+   },
+   "source": "prague.eu",
+   "summary": {
+    "cs": "Zažijte večer, kde se autentický jazz tradičního swingu prolíná s improvizací a živou energií v podání kapely Jazz Harmony Collective v klubu Jazz Republic. Kvarteto vedené saxofonistou Bedřichem Šmardou, známým svou precizní swingovou frázi a jedinečnou schopností propojit klasický styl 30. let s moderní jazzovou energií,přináší do pražského klubu hudbu, která má šarm, rytmus i hloubku."
+   },
+   "url": {
+    "cs": "https://prague.eu/cs/akce/jazz-harmony-collective/"
+   },
+   "venue": "Jazz Republic"
   },
   {
    "id": "crossclub:8688-sundej-se-sunday",
@@ -1018,11 +920,23 @@
    "free": true
   },
   {
+   "area": null,
+   "cat": "city",
+   "dates": [
+    {
+     "end": "2026-11-08T23:59",
+     "start": "2026-11-02T00:00"
+    }
+   ],
+   "free": true,
    "id": "prague.eu:tyden-akademie-ved",
-   "source": "prague.eu",
+   "image": "https://cdn.praguecitytourism.city/2024/07/09132250/tvt2019_03.jpg",
+   "lat": null,
+   "lng": null,
    "name": {
     "cs": "Týden akademie věd"
    },
+   "source": "prague.eu",
    "summary": {
     "cs": "Objevte svět vědy zblízka a nechte se vtáhnout do dění tam, kde vznikají nové poznatky! Týden Akademie věd 2026 nabídne pestrý program plný přednášek, workshopů, výstav i exkurzí na špičková vědecká pracoviště po celé České republice. Během jednoho týdne se otevřou laboratoře, knihovny i výzkumné ústavy a umožní nahlédnout do zákulisí práce vědců napříč obory od přírodních věd až po humanitní disciplíny. Festival je určen všem — studentům, rodinám s dětmi i široké veřejnosti. Dopolední program láká především školy, odpoledne a večery pak patří všem zvídavým návštěvníkům. Přijďte se inspirovat, diskutovat s odborníky a zjistit, jak věda ovlivňuje náš každodenní život. Vstup na všechny akce je zdarma, stačí si jen vybrat z bohaté nabídky a přijít zažít vědu na vlastní kůži."
    },
@@ -1030,19 +944,7 @@
     "cs": "https://prague.eu/cs/akce/tyden-akademie-ved/",
     "en": "https://prague.eu/en/akce/the-week-of-the-czech-academy-of-sciences/"
    },
-   "image": "https://cdn.praguecitytourism.city/2024/07/09132250/tvt2019_03.jpg",
-   "dates": [
-    {
-     "end": "2026-11-08T23:59",
-     "start": "2026-11-02T00:00"
-    }
-   ],
-   "venue": null,
-   "area": null,
-   "lat": null,
-   "lng": null,
-   "cat": "city",
-   "free": true
+   "venue": null
   },
   {
    "id": "artmap:54287",
@@ -3536,30 +3438,30 @@
    "free": true
   },
   {
-   "id": "prague.eu:svatomartinsky-lampionovy-pruvod",
-   "source": "prague.eu",
-   "name": {
-    "cs": "Svatomartinský lampionový průvod"
-   },
-   "summary": {
-    "cs": "Svatomartinský lampionový průvod rozzáří 11. listopadu podvečerní Vyšehrad. Tradiční oslava svátku svatého Martina začne v 16 hodin u Starého purkrabství, odkud účastníci po doprovodném programu vyrazí s rozsvícenými lampiony na společnou podvečerní cestu areálem Vyšehradu.\r\n"
-   },
-   "url": {
-    "cs": "https://prague.eu/cs/akce/svatomartinsky-lampionovy-pruvod/"
-   },
-   "image": "https://cdn.praguecitytourism.city/2024/10/20130541/474761567_917446623779295_2724480725372801166_n.jpg",
+   "area": "Vyšehrad",
+   "cat": "city",
    "dates": [
     {
      "end": "2026-11-11T23:59",
      "start": "2026-11-11T16:00"
     }
    ],
-   "venue": "Vyšehrad",
-   "area": "Vyšehrad",
+   "free": true,
+   "id": "prague.eu:svatomartinsky-lampionovy-pruvod",
+   "image": "https://cdn.praguecitytourism.city/2024/10/20130541/474761567_917446623779295_2724480725372801166_n.jpg",
    "lat": 50.06441205644067,
    "lng": 14.420023699999986,
-   "cat": "city",
-   "free": true
+   "name": {
+    "cs": "Svatomartinský lampionový průvod"
+   },
+   "source": "prague.eu",
+   "summary": {
+    "cs": "Svatomartinský lampionový průvod rozzáří 11. listopadu podvečerní Vyšehrad. Tradiční oslava svátku svatého Martina začne v 16 hodin u Starého purkrabství, odkud účastníci po doprovodném programu vyrazí s rozsvícenými lampiony na společnou podvečerní cestu areálem Vyšehradu.\r\n"
+   },
+   "url": {
+    "cs": "https://prague.eu/cs/akce/svatomartinsky-lampionovy-pruvod/"
+   },
+   "venue": "Vyšehrad"
   },
   {
    "id": "goout:9587560",
@@ -4526,7 +4428,7 @@
     "cs": "Fred Worden: 16mm retrospektiva I"
    },
    "summary": {
-    "cs": "*Particles in Space* / Len Lye / 1979 / 4 min. \\ *Chinese Series* / Stan Brakhage / 2003 / 3 min. \\ *Throbs* / Fred Worden / 1972 / 7 min. \\ *Four Frames* / Fred Worden / 1976 / 10 min. \\ *Bon Ami* / Fred Worden / 1977 / 7 min. \\ *In & Out* / Fred Worden / 1983 / 3 min. \\ *Here There Now Later* / Fred Worden / 1983 / 3 min. \\ *Boulevard* / Fred Worden / 1989 / 9 min. \\ *Automatic Writing* / Fred…"
+    "cs": "Fred Worden, označovaný za *„průkopníka kinematografického optického zkoumání po roce 1960“*, strávil více než pět desetiletí zkoumáním toho, co filmový restaurátor Mark Toscano nazývá *„vnějšími hranicemi našeho vidění“*. Na California Institute of the Arts (CalArts) studoval u Pata O’Neilla a Roberta Nelsona a experimentoval s širokou škálou přístupů k filmové tvorbě. Postupně si tak vytvořil…"
    },
    "url": {
     "cs": "https://goout.net/cs/fred-worden-16mm-retrospektiva-i/sztctny/"
@@ -4573,12 +4475,24 @@
    "free": true
   },
   {
+   "area": "Malá Strana",
+   "cat": "city",
+   "dates": [
+    {
+     "end": "2026-11-17T23:59",
+     "start": "2026-11-17T00:00"
+    }
+   ],
+   "free": true,
    "id": "prague.eu:lichtenstejnsky-palac-den-otevrenych-dveri",
-   "source": "prague.eu",
+   "image": "https://cdn.praguecitytourism.city/2024/05/10092135/Lichtenstejnky-palac.jpg",
+   "lat": 50.08554874903095,
+   "lng": 14.408869826983626,
    "name": {
     "cs": "Lichtenštejnský palác — Den otevřených dveří",
     "en": "Liechtenstein Palace – Open House Day"
    },
+   "source": "prague.eu",
    "summary": {
     "cs": "Lichtenštejnský palác na pražské Kampě se v roce 2026 ještě jednou otevře veřejnosti a nabídne jedinečnou příležitost nahlédnout do jeho reprezentačních prostor i bohaté historie. Prohlídková trasa zahrnuje modrý salonek, salonek Kampa, zlatý a hnědý sál i zahradní salon, přičemž závěr prohlídky tvoří malebný výhled na Vltavu a Karlův most. Návštěvníci se seznámí s historií paláce sahající až do 16. století i s jeho současnou funkcí vládní reprezentační budovy, která hostí konference, protokolární akce a slouží k ubytování významných zahraničních delegací. V minulosti zde pobývali například španělský král Juan Carlos s chotí Sofií, britská královna Alžběta II. či japonský císař Akihito s císařovnou Mičiko.",
     "en": "The Liechtenstein Palace on Prague's Kampa Island will once again open to the public in 2026, offering a rare opportunity to explore its historic state rooms and rich heritage. Visitors will pass through the Blue Salon, the Kampa Salon, the Golden Hall, the Brown Hall, and the Garden Salon before concluding the tour with a stunning view of the Vltava River and Charles Bridge. Visitors will learn about the palace’s history, which dates back to the 16th century, as well as its current function as a government representative building that hosts conferences and protocol events and serves as accommodation for important foreign delegations. In the past, guests have included, for example, King Juan Carlos of Spain and his wife Sofia, Queen Elizabeth II of the United Kingdom, and Emperor Akihito of Japan and Empress Michiko."
@@ -4587,19 +4501,7 @@
     "cs": "https://prague.eu/cs/akce/lichtenstejnsky-palac-den-otevrenych-dveri/",
     "en": "https://prague.eu/en/akce/liechtenstein-palace-open-house-day/"
    },
-   "image": "https://cdn.praguecitytourism.city/2024/05/10092135/Lichtenstejnky-palac.jpg",
-   "dates": [
-    {
-     "end": "2026-11-17T23:59",
-     "start": "2026-11-17T00:00"
-    }
-   ],
-   "venue": "Lichtenštejnský palác — Kampa",
-   "area": "Malá Strana",
-   "lat": 50.08554874903095,
-   "lng": 14.408869826983626,
-   "cat": "city",
-   "free": true
+   "venue": "Lichtenštejnský palác — Kampa"
   },
   {
    "id": "artmap:54448",
@@ -4652,30 +4554,30 @@
    "free": "likely"
   },
   {
-   "id": "prague.eu:zimni-apetit-piknik",
-   "source": "prague.eu",
-   "name": {
-    "cs": "Zimní apetit piknik"
-   },
-   "summary": {
-    "cs": "Milovníky dobrého jídla, kvalitních surovin a kulinářské inspirace zve 21. listopadu do prostor Národního zemědělského muzea na Letné Zimní Apetit piknik. Oblíbený food festival magazínu Apetit nabídne celodenní program plný ochutnávek, setkání s výrobci, kuchaři i osobnostmi české gastronomické scény a inspirace pro sezonní i sváteční vaření. Součástí programu budou kuchařské show, rozhovory i další vystoupení na festivalové scéně. Atmosféru doplní předadventní nálada, vůně zimních specialit a program určený návštěvníkům všech generací. Zimní Apetit piknik je příležitostí objevovat nové chutě, poznat zajímavé gastronomické projekty a strávit den ve společnosti lidí, které spojuje láska k dobrému jídlu."
-   },
-   "url": {
-    "cs": "https://prague.eu/cs/akce/zimni-apetit-piknik/"
-   },
-   "image": "https://cdn.praguecitytourism.city/2024/10/12132915/5998-Apetit20Piknik20Zima2025-407.jpg",
+   "area": "Holešovice",
+   "cat": "city",
    "dates": [
     {
      "end": "2026-11-21T18:00",
      "start": "2026-11-21T09:00"
     }
    ],
-   "venue": "Národní zemědělské muzeum",
-   "area": "Holešovice",
+   "free": true,
+   "id": "prague.eu:zimni-apetit-piknik",
+   "image": "https://cdn.praguecitytourism.city/2024/10/12132915/5998-Apetit20Piknik20Zima2025-407.jpg",
    "lat": 50.0971388,
    "lng": 14.4232407,
-   "cat": "city",
-   "free": true
+   "name": {
+    "cs": "Zimní apetit piknik"
+   },
+   "source": "prague.eu",
+   "summary": {
+    "cs": "Milovníky dobrého jídla, kvalitních surovin a kulinářské inspirace zve 21. listopadu do prostor Národního zemědělského muzea na Letné Zimní Apetit piknik. Oblíbený food festival magazínu Apetit nabídne celodenní program plný ochutnávek, setkání s výrobci, kuchaři i osobnostmi české gastronomické scény a inspirace pro sezonní i sváteční vaření. Součástí programu budou kuchařské show, rozhovory i další vystoupení na festivalové scéně. Atmosféru doplní předadventní nálada, vůně zimních specialit a program určený návštěvníkům všech generací. Zimní Apetit piknik je příležitostí objevovat nové chutě, poznat zajímavé gastronomické projekty a strávit den ve společnosti lidí, které spojuje láska k dobrému jídlu."
+   },
+   "url": {
+    "cs": "https://prague.eu/cs/akce/zimni-apetit-piknik/"
+   },
+   "venue": "Národní zemědělské muzeum"
   },
   {
    "id": "artmap:54443",
@@ -4970,11 +4872,23 @@
    "free": "likely"
   },
   {
+   "area": null,
+   "cat": "city",
+   "dates": [
+    {
+     "end": "2027-01-06T23:59",
+     "start": "2027-01-06T15:00"
+    }
+   ],
+   "free": true,
    "id": "prague.eu:trikralovy-pruvod",
-   "source": "prague.eu",
+   "image": "https://cdn.praguecitytourism.city/2024/12/30101524/PCT_Lide-DSC_2751.jpg",
+   "lat": null,
+   "lng": null,
    "name": {
     "cs": "Tříkrálový průvod"
    },
+   "source": "prague.eu",
    "summary": {
     "cs": "Historickým centrem Prahy projde ve středu 6. ledna 2027 tradiční průvod v čele se třemi králi na velbloudech. Slavnostní podívaná s doprovodem bubeníků a trubačů povede z Malostranského náměstí přes Karlův most na Staroměstské náměstí, kde program vyvrcholí koncertem a symbolickým předáním darů Ježíškovi v betlémě. Akce připomíná svátek Tří králů, který uzavírá vánoční období, a zároveň vyjadřuje podporu Tříkrálové sbírce pomáhající lidem v nouzi. Návštěvníci všech generací se mohou těšit na jedinečnou atmosféru jedné z tradičních zimních akcí v Praze."
    },
@@ -4982,19 +4896,7 @@
     "cs": "https://prague.eu/cs/akce/trikralovy-pruvod/",
     "en": "https://prague.eu/en/akce/three-kings-procession/"
    },
-   "image": "https://cdn.praguecitytourism.city/2024/12/30101524/PCT_Lide-DSC_2751.jpg",
-   "dates": [
-    {
-     "end": "2027-01-06T23:59",
-     "start": "2027-01-06T15:00"
-    }
-   ],
-   "venue": null,
-   "area": null,
-   "lat": null,
-   "lng": null,
-   "cat": "city",
-   "free": true
+   "venue": null
   }
  ]
 }
