@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T04:50+01:00",
+ "generated": "2026-10-29T04:52+01:00",
  "events": [
   {
    "id": "goout:8277192",
@@ -52,27 +52,27 @@
    "free": true
   },
   {
-   "area": "Praha 1",
-   "cat": "talk",
-   "dates": [
-    {
-     "end": "2026-11-02T19:00",
-     "start": "2026-10-05T18:00"
-    }
-   ],
-   "free": "likely",
    "id": "artmap:53808",
-   "lat": 50.0924553,
-   "lng": 14.4095389,
+   "source": "artmap",
    "name": {
     "cs": "TransformArt: Tělo a materiál v současném umění"
    },
-   "source": "artmap",
    "summary": {},
    "url": {
     "cs": "https://www.artmap.cz/eventy/transformart-telo-a-material-v-soucasnem-umeni"
    },
-   "venue": "Kunsthalle Praha"
+   "dates": [
+    {
+     "start": "2026-10-05T18:00",
+     "end": "2026-11-02T19:00"
+    }
+   ],
+   "venue": "Kunsthalle Praha",
+   "area": "Praha 1",
+   "lat": 50.0924553,
+   "lng": 14.4095389,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "petrohradska:e9376a45-bae7-4127-bddb-07ba0fca4ffa",
@@ -98,264 +98,52 @@
    "free": "likely"
   },
   {
-   "id": "prague.eu:strakova-akademie-den-otevrenych-dveri",
-   "source": "prague.eu",
-   "name": {
-    "cs": "Strakova akademie — Den otevřených dveří",
-    "en": "Straka academy — Open House"
-   },
-   "summary": {
-    "cs": "Den otevřených dveří ve Strakově akademie nabídne jedinečnou příležitost nahlédnout do sídla vlády České republiky, které je běžně veřejnosti nepřístupné. Návštěvníci si projdou reprezentativní prostory této historické budovy, dozvědí se více o její architektuře i fungování státní správy a zažijí atmosféru místa, kde se rozhoduje o směřování země. Program tradičně doplní komentované prohlídky a doprovodné aktivity pro širokou veřejnost. Prohlídková trasa zavede návštěvníky do jednacího sálu vlády, do nového i historického tiskového sálu a vyvrcholí v přilehlé zahradě.",
-    "en": "The Open House at Straka Academy will offer a unique opportunity to explore the premises of the Czech government, which are normally closed to the public. Visitors will walk through the representative halls of this historic building, learn more about its architecture and the workings of the state administration, and experience the atmosphere of the place where decisions about the country’s future are made. As is tradition, the program will include guided tours and accompanying activities for the general public. The tour route will take visitors to the government’s meeting hall, the new and historic press rooms, and will conclude in the neighboring garden."
-   },
-   "url": {
-    "cs": "https://prague.eu/cs/akce/strakova-akademie-den-otevrenych-dveri/",
-    "en": "https://prague.eu/en/akce/straka-academy-open-house/"
-   },
-   "image": "https://cdn.praguecitytourism.city/2024/07/07101237/Strakova.jpg",
-   "dates": [
-    {
-     "end": "2026-10-28T23:59",
-     "start": "2026-10-28T00:00"
-    }
-   ],
-   "venue": "Strakova akademie (Úřad vlády ČR)",
-   "area": "Malá Strana",
-   "lat": 50.09206450000001,
-   "lng": 14.4120647,
-   "cat": "city",
-   "free": true
-  },
-  {
-   "id": "prague.eu:senat-den-otevrenych-dveri",
-   "source": "prague.eu",
-   "name": {
-    "en": "Senate — Open Day",
-    "cs": "Senát — Den otevřených dveří"
-   },
-   "summary": {
-    "en": "Every year, on the occasion of the national holidays of 8 May and 28 October, the Senate of the Parliament of the Czech Republic organises an Open Day for the public. In addition to the historical spaces of the Waldstein Palace (which you can see every Saturday), you can also visit the normally inaccessible spaces, the Meeting Hall or the Kolovrat Palace.",
-    "cs": "U příležitosti státních svátků 8. května a 28. října pořádá Senát Parlamentu ČR každoročně Den otevřených dveří pro širokou veřejnost. Vedle historických prostor Valdštejnského paláce, které jsou běžně přístupné každou sobotu, se návštěvníci mohou podívat i do jinak nepřístupných míst, jako je Jednací sál či Kolovratský palác. "
-   },
-   "url": {
-    "en": "https://prague.eu/en/akce/senate-open-day/",
-    "cs": "https://prague.eu/cs/akce/senat-den-otevrenych-dveri/"
-   },
-   "image": "https://cdn.praguecitytourism.city/2024/10/24085032/559993906_1215919710562791_5036105737284225641_n.jpg",
-   "dates": [
-    {
-     "end": "2026-10-28T23:59",
-     "start": "2026-10-28T00:00"
-    }
-   ],
-   "venue": "Waldstein Palace",
-   "area": "Malá Strana",
-   "lat": 50.090059753221496,
-   "lng": 14.405701492030708,
-   "cat": "city",
-   "free": true
-  },
-  {
-   "id": "prague.eu:ministerstvo-skolstvi-den-otevrenych-dveri",
-   "source": "prague.eu",
-   "name": {
-    "cs": "Ministerstvo školství, mládeže a tělovýchovy — Den otevřených dveří"
-   },
-   "summary": {
-    "cs": "Na státní svátek 28. října otevře Den otevřených dveří na MŠMT veřejnosti brány historického Rohanského paláce. Návštěvníci si během komentovaných prohlídek prohlédnou reprezentativní prostory ministerstva včetně kanceláře ministra, užijí si hudební vystoupení studentů a získají informace o pracovních příležitostech ve veřejné správě."
-   },
-   "url": {
-    "cs": "https://prague.eu/cs/akce/ministerstvo-skolstvi-den-otevrenych-dveri/"
-   },
-   "image": "https://cdn.praguecitytourism.city/2024/10/01140025/Velky_zrcadlovy_sal.jpg",
-   "dates": [
-    {
-     "end": "2026-10-28T16:00",
-     "start": "2026-10-28T09:00"
-    }
-   ],
-   "venue": "Ministerstvo školství, mládeže a tělovýchovy",
-   "area": "Malá Strana",
-   "lat": 50.085248601834664,
-   "lng": 14.404149750926218,
-   "cat": "city",
-   "free": true
-  },
-  {
-   "id": "prague.eu:obecni-dum-den-otevrenych-dveri",
-   "source": "prague.eu",
-   "name": {
-    "en": "Municipal House — open house"
-   },
-   "summary": {
-    "en": "As every year on 28 October, Prague’s Municipal House will commemorate the anniversary of the founding of independent Czechoslovakia with a special Open House Day. Visitors will have a unique opportunity to explore the representative spaces of this remarkable Art Nouveau landmark free of charge, a building closely associated with key moments in Czech history. The tour route will lead through the ceremonial halls on the first floor, including Smetana Hall, the Mayor’s Hall adorned with decorations by Alfons Mucha, and a series of historic salons. The programme will also feature regular guided talks offering insights into the history of the building and its role in the establishment of Czechoslovakia."
-   },
-   "url": {
-    "en": "https://prague.eu/en/akce/municipal-house-open-house/",
-    "cs": "https://prague.eu/cs/akce/obecni-dum-den-otevrenych-dveri/"
-   },
-   "image": "https://cdn.praguecitytourism.city/2024/09/20114429/DSC_7981-e1755683170748.jpg",
-   "dates": [
-    {
-     "end": "2026-10-28T15:00",
-     "start": "2026-10-28T09:00"
-    }
-   ],
-   "venue": "Municipal House",
-   "area": "Staré Město",
-   "lat": 50.08777187188487,
-   "lng": 14.427797070500192,
-   "cat": "city",
-   "free": true
-  },
-  {
-   "id": "prague.eu:skoduv-palac-den-otevrenych-dveri",
-   "source": "prague.eu",
-   "name": {
-    "cs": "Škodův palác — Den otevřených dveří"
-   },
-   "summary": {
-    "cs": "Veřejnosti běžně nepřístupné Škodovy salonky ve Škodově paláci se výjimečně otevřou v rámci Dne otevřených dveří Magistrátu hl. m. Prahy, který se uskuteční 28. října. Reprezentativní soubor pěti propojených místností patří k nejcennějším interiérům budovy a i přes řadu stavebních úprav si zachoval svůj původní charakter. Díky citlivé restaurátorské obnově dnes znovu vyniká bohatá řemeslná práce, od dřevěného obložení stěn a stropů s precizními řezbářskými detaily až po historické lustry, nábytek, tapiserie a další původní vybavení. Návštěva salónků nabídne jedinečný pohled do historie paláce, který je dnes spojen především s fungováním městské správy, a umožní objevit jeho architektonickou i uměleckou hodnotu."
-   },
-   "url": {
-    "cs": "https://prague.eu/cs/akce/skoduv-palac-den-otevrenych-dveri/"
-   },
-   "image": "https://cdn.praguecitytourism.city/2024/10/23104145/Skodovy-salonky.jpg",
-   "dates": [
-    {
-     "end": "2026-10-28T18:00",
-     "start": "2026-10-28T10:00"
-    }
-   ],
-   "venue": "Škodův palác",
-   "area": "Nové Město",
-   "lat": 50.08210131717753,
-   "lng": 14.422233688954943,
-   "cat": "city",
-   "free": true
-  },
-  {
-   "id": "prague.eu:nova-radnice-den-otevrenych-dveri",
-   "source": "prague.eu",
-   "name": {
-    "cs": "Nová radnice — Den otevřených dveří"
-   },
-   "summary": {
-    "cs": "V rámci Dne otevřených dveří Magistrátu hl. m. Prahy se 28. října 2026 veřejnosti otevře také Nová radnice na Mariánském náměstí, sídlo vedení české metropole. Návštěvníci budou mít příležitost nahlédnout do reprezentativních prostor, kde působí pražský primátor, Rada hl. m. Prahy i pražské zastupitelstvo, a seznámit se s historií této významné budovy. Nová radnice, navržená architektem Osvaldem Polívkou, patří k ukázkám pražské secese a zaujme monumentální dvoranou i bohatou uměleckou výzdobou. Komentované prohlídky zavedou návštěvníky do míst, která jsou běžně nepřístupná, a přiblíží nejen architektonické kvality stavby, ale také fungování správy hlavního města. "
-   },
-   "url": {
-    "cs": "https://prague.eu/cs/akce/nova-radnice-den-otevrenych-dveri/"
-   },
-   "image": "https://cdn.praguecitytourism.city/2024/10/07114107/NOVARADNICE_24.jpg",
-   "dates": [
-    {
-     "end": "2026-10-28T18:00",
-     "start": "2026-10-28T10:00"
-    }
-   ],
-   "venue": "Nová radnice",
-   "area": "Staré Město",
-   "lat": 50.08710143979734,
-   "lng": 14.417860026389308,
-   "cat": "city",
-   "free": true
-  },
-  {
-   "id": "prague.eu:rezidence-primatora-den-otevrenych-dveri",
-   "source": "prague.eu",
-   "name": {
-    "cs": "Rezidence primátora — Den otevřených dveří"
-   },
-   "summary": {
-    "cs": "Umělecký skvost ve stylu art deco otevře své dveře u příležitosti státního svátku 28. října. Reprezentativní prostory Rezidence primátora hlavního města Prahy, situované v budově Městské knihovny na Mariánském náměstí, nabídnou návštěvníkům jedinečnou příležitost nahlédnout do interiérů, jež patří k architektonickým perlám meziválečné Prahy. Během Dne otevřených dveří bude možné obdivovat cenné umělecké a řemeslné detaily, elegantní vybavení i atmosféru míst, kde se odehrávají významná společenská a diplomatická setkání. Výjimečná událost zve k objevování historie, architektury i reprezentační tváře české metropole v kulisách jednoho z nejpozoruhodnějších pražských interiérů."
-   },
-   "url": {
-    "cs": "https://prague.eu/cs/akce/rezidence-primatora-den-otevrenych-dveri/"
-   },
-   "image": "https://cdn.praguecitytourism.city/2024/10/23115719/PCT-sjezd-concierges-002.jpg",
-   "dates": [
-    {
-     "end": "2026-10-28T18:00",
-     "start": "2026-10-28T10:00"
-    }
-   ],
-   "venue": "Rezidence primátora",
-   "area": "Staré Město",
-   "lat": 50.0873831,
-   "lng": 14.4173879,
-   "cat": "city",
-   "free": true
-  },
-  {
-   "id": "crossclub:8695-biocross",
-   "source": "crossclub",
-   "name": {
-    "cs": "Biocross"
-   },
-   "summary": {},
-   "url": {
-    "cs": "https://www.crossclub.cz/cs/program/8695-biocross/"
-   },
-   "dates": [
-    {
-     "start": "2026-10-28T20:00",
-     "end": "2026-10-28T20:00"
-    }
-   ],
-   "venue": "Cross Club",
-   "area": "Holešovice",
-   "lat": null,
-   "lng": null,
-   "cat": "club",
-   "free": true
-  },
-  {
-   "area": "Praha 6",
-   "cat": "opening",
-   "dates": [
-    {
-     "end": "2026-10-29T17:00",
-     "start": "2026-10-29T17:00"
-    }
-   ],
-   "free": true,
    "id": "artmap:54486",
-   "lat": 50.0978324,
-   "lng": 14.3649295,
+   "source": "artmap",
    "name": {
     "cs": "Petra Švejdarová a Klára Vaculíková – PRIME FAST"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Socha a objekt, Design"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/petra-svejdarova-a-klara-vaculikova-prime-fast-2"
    },
-   "venue": "Artium"
-  },
-  {
-   "area": "Praha 9",
-   "cat": "talk",
    "dates": [
     {
-     "end": "2026-10-29T20:00",
-     "start": "2026-10-29T18:00"
+     "start": "2026-10-29T17:00",
+     "end": "2026-10-29T17:00"
     }
    ],
-   "free": "likely",
+   "venue": "Artium",
+   "area": "Praha 6",
+   "lat": 50.0978324,
+   "lng": 14.3649295,
+   "cat": "opening",
+   "free": true
+  },
+  {
    "id": "artmap:54362",
-   "lat": 50.110454,
-   "lng": 14.5111135,
+   "source": "artmap",
    "name": {
     "cs": "Přednáška a diskuze s Veronikou Peškovou"
    },
-   "source": "artmap",
    "summary": {},
    "url": {
     "cs": "https://www.artmap.cz/eventy/prednaska-a-diskuze-s-veronikou-peskovou"
    },
-   "venue": "Pragovka Gallery"
+   "dates": [
+    {
+     "start": "2026-10-29T18:00",
+     "end": "2026-10-29T20:00"
+    }
+   ],
+   "venue": "Pragovka Gallery",
+   "area": "Praha 9",
+   "lat": 50.110454,
+   "lng": 14.5111135,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "goout:9576581",
@@ -549,27 +337,27 @@
    "free": true
   },
   {
-   "area": "Praha 7",
-   "cat": "talk",
-   "dates": [
-    {
-     "end": "2026-11-02T18:00",
-     "start": "2026-11-02T18:00"
-    }
-   ],
-   "free": "likely",
    "id": "artmap:54287",
-   "lat": 50.098384,
-   "lng": 14.432671,
+   "source": "artmap",
    "name": {
     "cs": "Jak na důchodové a nemocenské pojištění v uměleckých profesích"
    },
-   "source": "artmap",
    "summary": {},
    "url": {
     "cs": "https://www.artmap.cz/eventy/jak-na-duchodove-a-nemocenske-pojisteni-v-umeleckych-profesich"
    },
-   "venue": "Centrum pro současné umění Praha"
+   "dates": [
+    {
+     "start": "2026-11-02T18:00",
+     "end": "2026-11-02T18:00"
+    }
+   ],
+   "venue": "Centrum pro současné umění Praha",
+   "area": "Praha 7",
+   "lat": 50.098384,
+   "lng": 14.432671,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "goout:9583693",
@@ -594,6 +382,52 @@
    "lat": 50.0832,
    "lng": 14.4177,
    "cat": "city",
+   "free": true
+  },
+  {
+   "id": "petrohradska:60af3801-8a8a-4128-ae69-c0132e0c16f0",
+   "source": "petrohradska",
+   "name": {
+    "cs": "Palestine Cinema Days"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://www.petrohradskakolektiv.com/verejne/petrohradska-kolektiv/program/60af3801-8a8a-4128-ae69-c0132e0c16f0"
+   },
+   "dates": [
+    {
+     "start": "2026-11-02T19:00",
+     "end": "2026-11-02T21:30"
+    }
+   ],
+   "venue": "Petrohradská kolektiv — Kino",
+   "area": "Vršovice",
+   "lat": null,
+   "lng": null,
+   "cat": "city",
+   "free": "likely"
+  },
+  {
+   "id": "crossclub:8704-los-tekkenos",
+   "source": "crossclub",
+   "name": {
+    "cs": "Los Tekkenos"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://www.crossclub.cz/cs/program/8704-los-tekkenos/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-02T20:00",
+     "end": "2026-11-02T20:00"
+    }
+   ],
+   "venue": "Cross Club",
+   "area": "Holešovice",
+   "lat": null,
+   "lng": null,
+   "cat": "club",
    "free": true
   },
   {
@@ -997,29 +831,29 @@
    "free": true
   },
   {
-   "area": "Praha 7",
-   "cat": "opening",
-   "dates": [
-    {
-     "end": "2026-11-03T18:00",
-     "start": "2026-11-03T18:00"
-    }
-   ],
-   "free": true,
    "id": "artmap:54491",
-   "lat": 50.10263,
-   "lng": 14.42455,
+   "source": "artmap",
    "name": {
     "cs": "Jesse van Epenhuijsen – Even a Tree Dreams of Becoming an Antenna Some Days"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Socha a objekt"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/jesse-van-epenhuijsen-even-a-tree-dreams-of-becoming-an-antenna-some-days-2"
    },
-   "venue": "Galerie Sklad M1"
+   "dates": [
+    {
+     "start": "2026-11-03T18:00",
+     "end": "2026-11-03T18:00"
+    }
+   ],
+   "venue": "Galerie Sklad M1",
+   "area": "Praha 7",
+   "lat": 50.10263,
+   "lng": 14.42455,
+   "cat": "opening",
+   "free": true
   },
   {
    "id": "goout:9584019",
@@ -1050,29 +884,29 @@
    ]
   },
   {
-   "area": "Praha 1",
-   "cat": "opening",
-   "dates": [
-    {
-     "end": "2026-11-03T19:00",
-     "start": "2026-11-03T19:00"
-    }
-   ],
-   "free": true,
    "id": "artmap:54348",
-   "lat": 50.08704,
-   "lng": 14.4174,
+   "source": "artmap",
    "name": {
     "cs": "Jaroslav Čermák – Mýty evropské reality"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Malba, Historické umění"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/jaroslav-cermak-myty-evropske-reality-2"
    },
-   "venue": "GHMP Knihovna"
+   "dates": [
+    {
+     "start": "2026-11-03T19:00",
+     "end": "2026-11-03T19:00"
+    }
+   ],
+   "venue": "GHMP Knihovna",
+   "area": "Praha 1",
+   "lat": 50.08704,
+   "lng": 14.4174,
+   "cat": "opening",
+   "free": true
   },
   {
    "id": "goout:9591090",
@@ -1403,54 +1237,54 @@
    "free": true
   },
   {
-   "area": "Praha 2",
-   "cat": "talk",
-   "dates": [
-    {
-     "end": "2026-11-04T18:00",
-     "start": "2026-11-04T18:00"
-    }
-   ],
-   "free": "likely",
    "id": "artmap:54401",
-   "lat": 50.0742688,
-   "lng": 14.4425735,
+   "source": "artmap",
    "name": {
     "cs": "Family Permafrost"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Malba"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/family-permafrost-4-11"
    },
-   "venue": "Spot Gallery"
-  },
-  {
-   "area": "Praha 1",
-   "cat": "opening",
    "dates": [
     {
-     "end": "2026-11-04T18:00",
-     "start": "2026-11-04T18:00"
+     "start": "2026-11-04T18:00",
+     "end": "2026-11-04T18:00"
     }
    ],
-   "free": true,
+   "venue": "Spot Gallery",
+   "area": "Praha 2",
+   "lat": 50.0742688,
+   "lng": 14.4425735,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
    "id": "artmap:54435",
-   "lat": 50.0901305,
-   "lng": 14.4260414,
+   "source": "artmap",
    "name": {
     "cs": "10 Year Anniversary Exhibition: Aesthetics of the Injectable"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Malba, Socha a objekt, Současné umění"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/10-year-anniversary-exhibition-aesthetics-of-the-injectable-2"
    },
-   "venue": "Karpuchina Gallery"
+   "dates": [
+    {
+     "start": "2026-11-04T18:00",
+     "end": "2026-11-04T18:00"
+    }
+   ],
+   "venue": "Karpuchina Gallery",
+   "area": "Praha 1",
+   "lat": 50.0901305,
+   "lng": 14.4260414,
+   "cat": "opening",
+   "free": true
   },
   {
    "id": "goout:9591516",
@@ -1500,6 +1334,29 @@
    "lat": 50.0871,
    "lng": 14.4299,
    "cat": "talk",
+   "free": true
+  },
+  {
+   "id": "crossclub:8706-biocross",
+   "source": "crossclub",
+   "name": {
+    "cs": "Biocross"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://www.crossclub.cz/cs/program/8706-biocross/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-04T20:00",
+     "end": "2026-11-04T20:00"
+    }
+   ],
+   "venue": "Cross Club",
+   "area": "Holešovice",
+   "lat": null,
+   "lng": null,
+   "cat": "club",
    "free": true
   },
   {
@@ -1828,29 +1685,52 @@
    "free": true
   },
   {
-   "area": "Praha",
-   "cat": "talk",
-   "dates": [
-    {
-     "end": "2026-11-05T20:30",
-     "start": "2026-11-05T19:00"
-    }
-   ],
-   "free": "likely",
    "id": "artmap:54373",
-   "lat": 50.0789133,
-   "lng": 14.4254308,
+   "source": "artmap",
    "name": {
     "cs": "Dostupné bydlení: Amsterdam. Nové modely městského bydlení [english]"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Architektura a urbanismus, English Friendly"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/dostupne-bydleni-amsterdam-nove-modely-mestskeho-bydleni-english"
    },
-   "venue": "Kruh z. s."
+   "dates": [
+    {
+     "start": "2026-11-05T19:00",
+     "end": "2026-11-05T20:30"
+    }
+   ],
+   "venue": "Kruh z. s.",
+   "area": "Praha",
+   "lat": 50.0789133,
+   "lng": 14.4254308,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
+   "id": "crossclub:8707-up-tone-19-00-w-sturle-dagsland-techno-afterparty",
+   "source": "crossclub",
+   "name": {
+    "cs": "Up Tone 19:00 W/ Sturle Dagsland & Techno Afterparty"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://www.crossclub.cz/cs/program/8707-up-tone-19-00-w-sturle-dagsland-techno-afterparty/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-05T19:00",
+     "end": "2026-11-05T19:00"
+    }
+   ],
+   "venue": "Cross Club",
+   "area": "Holešovice",
+   "lat": null,
+   "lng": null,
+   "cat": "club",
+   "free": true
   },
   {
    "id": "goout:9591724",
@@ -2185,29 +2065,29 @@
    "free": true
   },
   {
-   "area": "Praha 1",
-   "cat": "opening",
-   "dates": [
-    {
-     "end": "2026-11-06T18:00",
-     "start": "2026-11-06T18:00"
-    }
-   ],
-   "free": true,
    "id": "artmap:54262",
-   "lat": 50.0870578,
-   "lng": 14.429897,
+   "source": "artmap",
    "name": {
     "cs": "Martin Zetová – Všichni jsme stejně staří"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Malba, Socha a objekt"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/martin-zetova-vsichni-jsme-stejne-stari-2"
    },
-   "venue": "Kampus Hybernská"
+   "dates": [
+    {
+     "start": "2026-11-06T18:00",
+     "end": "2026-11-06T18:00"
+    }
+   ],
+   "venue": "Kampus Hybernská",
+   "area": "Praha 1",
+   "lat": 50.0870578,
+   "lng": 14.429897,
+   "cat": "opening",
+   "free": true
   },
   {
    "id": "goout:9584022",
@@ -2307,6 +2187,29 @@
    "summary": {}
   },
   {
+   "id": "crossclub:8708-sundej-se-sunday",
+   "source": "crossclub",
+   "name": {
+    "cs": "Sundej Se Sunday"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://www.crossclub.cz/cs/program/8708-sundej-se-sunday/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-08T22:00",
+     "end": "2026-11-08T22:00"
+    }
+   ],
+   "venue": "Cross Club",
+   "area": "Holešovice",
+   "lat": null,
+   "lng": null,
+   "cat": "club",
+   "free": true
+  },
+  {
    "id": "goout:9582632",
    "source": "goout",
    "name": {
@@ -2339,27 +2242,52 @@
    ]
   },
   {
-   "area": "Praha 2",
-   "cat": "talk",
+   "id": "artmap:54511",
+   "source": "artmap",
+   "name": {
+    "cs": "Hedvika Ocásková, Michal Rejzek – Krásné sbohem"
+   },
+   "summary": {
+    "cs": "Kresba a grafika"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/hedvika-ocaskova-michal-rejzek-krasne-sbohem-2"
+   },
    "dates": [
     {
-     "end": "2026-11-09T22:00",
-     "start": "2026-11-09T19:00"
+     "start": "2026-11-09T18:00",
+     "end": "2026-11-09T18:00"
     }
    ],
-   "free": "likely",
+   "venue": "Artotéka Městské knihovny v Praze",
+   "area": "Praha 11 – Chodov",
+   "lat": 50.0253588,
+   "lng": 14.5187288,
+   "cat": "opening",
+   "free": true
+  },
+  {
    "id": "artmap:54441",
-   "lat": 50.078979,
-   "lng": 14.4449917,
+   "source": "artmap",
    "name": {
     "cs": "Laboratoř Palestina"
    },
-   "source": "artmap",
    "summary": {},
    "url": {
     "cs": "https://www.artmap.cz/eventy/laborator-palestina"
    },
-   "venue": "Laichterův dům"
+   "dates": [
+    {
+     "start": "2026-11-09T19:00",
+     "end": "2026-11-09T22:00"
+    }
+   ],
+   "venue": "Laichterův dům",
+   "area": "Praha 2",
+   "lat": 50.078979,
+   "lng": 14.4449917,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "crossclub:8701-los-tekkenos",
@@ -3116,29 +3044,54 @@
    "free": true
   },
   {
-   "area": "Praha 2",
-   "cat": "talk",
-   "dates": [
-    {
-     "end": "2026-11-11T20:30",
-     "start": "2026-11-11T18:00"
-    }
-   ],
-   "free": "likely",
    "id": "artmap:54447",
-   "lat": 50.078979,
-   "lng": 14.4449917,
+   "source": "artmap",
    "name": {
     "cs": "Severská moderna I.: Finsko"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Architektura a urbanismus"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/severska-moderna-i-finsko"
    },
-   "venue": "Laichterův dům"
+   "dates": [
+    {
+     "start": "2026-11-11T18:00",
+     "end": "2026-11-11T20:30"
+    }
+   ],
+   "venue": "Laichterův dům",
+   "area": "Praha 2",
+   "lat": 50.078979,
+   "lng": 14.4449917,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
+   "id": "artmap:54509",
+   "source": "artmap",
+   "name": {
+    "cs": "22:22 (4)"
+   },
+   "summary": {
+    "cs": "Malba, Socha a objekt"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/2222-4-2026-11-11-1800"
+   },
+   "dates": [
+    {
+     "start": "2026-11-11T18:00",
+     "end": "2026-11-11T18:00"
+    }
+   ],
+   "venue": "The Chemistry Gallery",
+   "area": "Praha 7",
+   "lat": 50.0997529,
+   "lng": 14.4447139,
+   "cat": "opening",
+   "free": true
   },
   {
    "id": "petrohradska:2f01d5a2-f3dd-40c4-b440-9f63fa6d720b",
@@ -3523,54 +3476,79 @@
    "free": true
   },
   {
-   "area": "Praha 1",
-   "cat": "talk",
-   "dates": [
-    {
-     "end": "2026-11-12T19:00",
-     "start": "2026-11-12T18:00"
-    }
-   ],
-   "free": "likely",
    "id": "artmap:54386",
-   "lat": 50.090172,
-   "lng": 14.415219,
+   "source": "artmap",
    "name": {
     "cs": "Tanya Lukin Linklater, Duane Linklater – Crested/mâcistan"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Malba, Socha a objekt, Koncept, Současné umění"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/tanya-lukin-linklater-duane-linklater-crestedmacistan-3"
    },
-   "venue": "Galerie Rudolfinum"
-  },
-  {
-   "area": "Praha 6 – Bubeneč",
-   "cat": "talk",
    "dates": [
     {
-     "end": "2026-11-12T18:00",
-     "start": "2026-11-12T18:00"
+     "start": "2026-11-12T18:00",
+     "end": "2026-11-12T19:00"
     }
    ],
-   "free": "likely",
+   "venue": "Galerie Rudolfinum",
+   "area": "Praha 1",
+   "lat": 50.090172,
+   "lng": 14.415219,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
    "id": "artmap:54187",
-   "lat": 50.1042942,
-   "lng": 14.4058478,
+   "source": "artmap",
    "name": {
     "cs": "Kamil Lhoták – Krajina snů"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Malba"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/kamil-lhotak-krajina-snu-12-11"
    },
-   "venue": "Galerie Villa Pellé"
+   "dates": [
+    {
+     "start": "2026-11-12T18:00",
+     "end": "2026-11-12T18:00"
+    }
+   ],
+   "venue": "Galerie Villa Pellé",
+   "area": "Praha 6 – Bubeneč",
+   "lat": 50.1042942,
+   "lng": 14.4058478,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
+   "id": "artmap:54506",
+   "source": "artmap",
+   "name": {
+    "cs": "Štědrý Diviš"
+   },
+   "summary": {
+    "cs": "Malba"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/stedry-divis-12-11"
+   },
+   "dates": [
+    {
+     "start": "2026-11-12T18:00",
+     "end": "2026-11-12T23:59"
+    }
+   ],
+   "venue": "Beseder Gallery",
+   "area": "Praha 9",
+   "lat": 50.1045581,
+   "lng": 14.4864955,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "goout:9591517",
@@ -4049,29 +4027,29 @@
    "free": true
   },
   {
-   "area": "Praha 2",
-   "cat": "opening",
-   "dates": [
-    {
-     "end": "2026-11-13T18:00",
-     "start": "2026-11-13T18:00"
-    }
-   ],
-   "free": true,
    "id": "artmap:54489",
-   "lat": 50.067215,
-   "lng": 14.435556,
+   "source": "artmap",
    "name": {
     "cs": "Bára Mrázková – Charge Flipping"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Video, Současné umění"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/bara-mrazkova-charge-flipping-2"
    },
-   "venue": "etc. galerie"
+   "dates": [
+    {
+     "start": "2026-11-13T18:00",
+     "end": "2026-11-13T18:00"
+    }
+   ],
+   "venue": "etc. galerie",
+   "area": "Praha 2",
+   "lat": 50.067215,
+   "lng": 14.435556,
+   "cat": "opening",
+   "free": true
   },
   {
    "id": "goout:9604673",
@@ -4261,54 +4239,304 @@
    "free": true
   },
   {
-   "area": "Praha 2",
-   "cat": "talk",
+   "id": "goout:9575289",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Blízkost sochy"
+   },
+   "summary": {
+    "cs": "Co si představíme, když se řekne SOCHA? Společně se ponoříme do světa soch, objektů a instalací. Může socha svítit, hýbat se či hořet? Prozkoumáme různé sochařské materiály a vytvoříme si vlastní 3D otisk. Program je realizován v expozici 1939–2021: Konec černobílé doby, která je bohatá na sochařská díla předních českých umělců 20. a 21. století. Společně se budeme mezi sochami procházet, dívat…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-blizkost-sochy/szolumy/"
+   },
    "dates": [
     {
-     "end": "2026-11-18T22:00",
-     "start": "2026-11-18T18:00"
+     "start": "2026-11-18T10:00",
+     "end": "2026-11-18T23:59"
     }
    ],
-   "free": "likely",
+   "venue": "Veletržní palác",
+   "area": "Praha 7",
+   "lat": 50.1012,
+   "lng": 14.4328,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9575077",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Na stopě"
+   },
+   "summary": {
+    "cs": "Vyšetřování 130 let starého zločinu nás zavede do temných zákoutí Prahy konce 19. století. Staneme se detektivy, kteří odkrývají indicie o životě v chudinském ghettu Josefova, o nelehkém postavení žen a dětí tehdejšího velkoměsta. Dílo Jakuba Schikanedera Vražda v domě nám odkryje místo činu: Bude případ uzavřen či odložen? Pomocí dramatických technik, živých obrazů a vstupování do rolí…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-na-stope/szcdumy/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-18T10:00",
+     "end": "2026-11-18T23:59"
+    }
+   ],
+   "venue": "Veletržní palác",
+   "area": "Praha 7",
+   "lat": 50.1012,
+   "lng": 14.4328,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9542830",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – V krystalu"
+   },
+   "summary": {
+    "cs": "Posviťme si na krystal a objevme v malém blýskavém pokladu možnosti pro velké experimenty. Inspirováni dílem Wenzela Hablika pojďme navrhovat a stavět „vzdušné“ zámky. Jako stavební prvek nám poslouží princip krystalické struktury. Tvar nám bude narůstat pomocí razítek a kaleidoskopu. Vytvoříme zářivou krystalickou stavbu. **Cíl programu:** - Vnímat přírodu jako umělecký inspirační zdroj:…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-v-krystalu/szfnsky/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-18T10:00",
+     "end": "2026-11-18T23:59"
+    }
+   ],
+   "venue": "Veletržní palác",
+   "area": "Praha 7",
+   "lat": 50.1012,
+   "lng": 14.4328,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9532888",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Na hladině i pod hladinou"
+   },
+   "summary": {
+    "cs": "Pozorovali jste už někdy vodu? Víte, jaká kouzla a triky voda umí? Vydejme se společně prozkoumat, jaká voda vlastně je a jak rozmanitě ji můžeme zachytit obrazem. V ateliéru, který se promění v laboratoř, budeme experimentovat s vodou. Budeme pozorovat a vytvářet obrazy, které vzniknou na hladině i pod hladinou. V expozici si podrobně prohlédneme, jak různorodě umělci na přelomu 19. a 20.…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-na-hladine-i-pod-hladinou/sznpcky/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-18T10:00",
+     "end": "2026-11-18T23:59"
+    }
+   ],
+   "venue": "Veletržní palác",
+   "area": "Praha 7",
+   "lat": 50.1012,
+   "lng": 14.4328,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9532877",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – V galerii se skicákem: 1918–1938: První republika"
+   },
+   "summary": {
+    "cs": "Přijďte si prohlédnout bohatou škálu uměleckých přístupů moderního a současného umění. Ponořte se i v rámci skupiny do svého světa, kde je prostor a čas dívat se a tvořit. Objevujte. Skicujte v expozici 1918–1938: První republika. Ve Veletržním paláci nyní nabízíme unikátní triptych výstav 19.-21. století. Na trojici výstav navazujeme nabídkou vzdělávacích programů V galerii se skicákem. Jedná…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-v-galerii-se-skicakem-1918-1938-prvni-republika/szcpcky/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-18T10:00",
+     "end": "2026-11-18T23:59"
+    }
+   ],
+   "venue": "Veletržní palác",
+   "area": "Praha 7",
+   "lat": 50.1012,
+   "lng": 14.4328,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9532822",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Ozvěny antiky"
+   },
+   "summary": {
+    "cs": "Vypravte se s námi do světa proměn. Vládne zde nejvyšší z olympských bohů Zeus, slávu sklízí hrdina Perseus, krásou oslňuje bohyně Afrodita a vše živé i neživé harmonizuje zpěv Orfeův. Proč byl tento svět tak populární i v době křesťanského renesančního a barokního umění? Zkusme to objevit při prohlídce Schwarzenberského paláce i během výtvarné aktivity. Svět dávné antiky budeme objevovat na…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-ozveny-antiky/szwmcky/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-18T10:00",
+     "end": "2026-11-18T23:59"
+    }
+   ],
+   "venue": "Schwarzenberský palác",
+   "area": "Praha 1",
+   "lat": 50.0891,
+   "lng": 14.3969,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9532790",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Hledání baroka"
+   },
+   "summary": {
+    "cs": "Co je to vlastně „baroko“? Která témata byla oblíbená a jak je umělci vyjadřovali? Pusťme se do pátrání a objevme klíče k barokním obrazům a sochám. Ducha a atmosféru doby se pokusíme pochopit prostřednictvím legend, divadla a hudby. **Cíl programu:** - Rozpoznat základní znaky kulturního slohu a uvést jeho představitele. - Čtení barokních obrazů a soch, jejich reflexe a intepretace v různých…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-hledani-baroka/szplcky/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-18T10:00",
+     "end": "2026-11-18T23:59"
+    }
+   ],
+   "venue": "Schwarzenberský palác",
+   "area": "Praha 1",
+   "lat": 50.0891,
+   "lng": 14.3969,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9532780",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Skriptorium – dílna středověkého písaře"
+   },
+   "summary": {
+    "cs": "Přijďte se seznámit se skriptoriem, písařskou dílnou, místem, kde ve středověku vznikaly knihy. Povíme si o tom, jak, čím a na co se dříve psalo, písemnosti poté budeme hledat i na středověkých uměleckých dílech. Sami si také vyzkoušíme práci písaře a zjistíme, jaké by to bylo, kdybychom i dnes psali husím brkem a ilustrace malovali ručně. **Cíl programu:** - Seznámit se s prací písaře, s…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-skriptorium-dilna-stredovekeho-pisare/szflcky/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-18T10:00",
+     "end": "2026-11-18T23:59"
+    }
+   ],
+   "venue": "Anežský klášter",
+   "area": "Praha 1 – Staré Město",
+   "lat": 50.092,
+   "lng": 14.4235,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9532763",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Moje galerie"
+   },
+   "summary": {
+    "cs": "Toužíte po netradiční návštěvě galerie? Přijďte na neobvyklou prohlídku, jejíž průběh vytváří sami žáci! Výklad, který má za cíl posílit kritické myšlení, je zaměřen na díla, která si studenti do „své galerie“ sami vyberou a ke kterým si připraví krátkou prezentaci. Při společné diskusi zjistíme, jak umělecká díla ve středověku vznikala, kam byla určena nebo jaké náměty patřily k…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-moje-galerie/sznkcky/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-18T11:00",
+     "end": "2026-11-18T23:59"
+    }
+   ],
+   "venue": "Anežský klášter",
+   "area": "Praha 1 – Staré Město",
+   "lat": 50.092,
+   "lng": 14.4235,
+   "cat": "kids",
+   "free": true
+  },
+  {
    "id": "artmap:54448",
-   "lat": 50.078979,
-   "lng": 14.4449917,
+   "source": "artmap",
    "name": {
     "cs": "Severská moderna II.: Dánsko"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Architektura a urbanismus"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/severska-moderna-ii-dansko"
    },
-   "venue": "Laichterův dům"
-  },
-  {
-   "area": "Praha 2",
-   "cat": "talk",
    "dates": [
     {
-     "end": "2026-11-19T22:00",
-     "start": "2026-11-19T19:00"
+     "start": "2026-11-18T18:00",
+     "end": "2026-11-18T22:00"
     }
    ],
-   "free": "likely",
-   "id": "artmap:54442",
+   "venue": "Laichterův dům",
+   "area": "Praha 2",
    "lat": 50.078979,
    "lng": 14.4449917,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
+   "id": "goout:9591719",
+   "source": "goout",
+   "name": {
+    "cs": "Mezinárodní večer festivalu Den poezie"
+   },
+   "summary": {
+    "cs": "Zveme vás na mezinárodní básnické čtení! Čtení básnictva z různých koutů světa v rámci festivalu Den Poezie v C.0 Čítárně Kampusu Hybernská: Grug Muse je velšská básnířka, redaktorka, performerka. Vydala dvě básnické sbírky a sbírka *merch y llyn* (Cyhoeddiadau’r Stamp 2021) získala v roce 2022 ocenění Wales Book Of The Year v kategorii velšské poezie. Překlad této sbírky vyjde v roce 2027 v…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/mezinarodni-vecer-festivalu-den-poezie/sztsvny/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-18T19:00",
+     "end": "2026-11-18T23:59"
+    }
+   ],
+   "venue": "Kampus Hybernská",
+   "area": "Praha 1 – Nové Město",
+   "lat": 50.0871,
+   "lng": 14.4299,
+   "cat": "talk",
+   "free": true
+  },
+  {
+   "id": "artmap:54442",
+   "source": "artmap",
    "name": {
     "cs": "Teige a harlekýn"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Moderna"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/teige-a-harlekyn"
    },
-   "venue": "Laichterův dům"
+   "dates": [
+    {
+     "start": "2026-11-19T19:00",
+     "end": "2026-11-19T22:00"
+    }
+   ],
+   "venue": "Laichterův dům",
+   "area": "Praha 2",
+   "lat": 50.078979,
+   "lng": 14.4449917,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "prague.eu:zimni-apetit-piknik",
@@ -4337,29 +4565,29 @@
    "free": true
   },
   {
-   "area": "Praha 2",
-   "cat": "talk",
-   "dates": [
-    {
-     "end": "2026-11-23T22:00",
-     "start": "2026-11-23T19:00"
-    }
-   ],
-   "free": "likely",
    "id": "artmap:54443",
-   "lat": 50.078979,
-   "lng": 14.4449917,
+   "source": "artmap",
    "name": {
     "cs": "Jonathan Pielmeier: Létající koně"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Kresba a grafika"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/jonathan-pielmeier-letajici-kone"
    },
-   "venue": "Laichterův dům"
+   "dates": [
+    {
+     "start": "2026-11-23T19:00",
+     "end": "2026-11-23T22:00"
+    }
+   ],
+   "venue": "Laichterův dům",
+   "area": "Praha 2",
+   "lat": 50.078979,
+   "lng": 14.4449917,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "crossclub:8702-cross-slam-2026-nova-generace-no-4",
@@ -4385,52 +4613,52 @@
    "free": true
   },
   {
-   "area": "Praha 2",
-   "cat": "talk",
-   "dates": [
-    {
-     "end": "2026-11-25T20:30",
-     "start": "2026-11-25T18:00"
-    }
-   ],
-   "free": "likely",
    "id": "artmap:54449",
-   "lat": 50.078979,
-   "lng": 14.4449917,
+   "source": "artmap",
    "name": {
     "cs": "Severská moderna III.: Švédsko a Norsko"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Architektura a urbanismus"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/severska-moderna-iii-svedsko-a-norsko"
    },
-   "venue": "Laichterův dům"
-  },
-  {
-   "area": "Praha 2",
-   "cat": "talk",
    "dates": [
     {
-     "end": "2026-11-26T22:00",
-     "start": "2026-11-26T19:00"
+     "start": "2026-11-25T18:00",
+     "end": "2026-11-25T20:30"
     }
    ],
-   "free": "likely",
-   "id": "artmap:54445",
+   "venue": "Laichterův dům",
+   "area": "Praha 2",
    "lat": 50.078979,
    "lng": 14.4449917,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
+   "id": "artmap:54445",
+   "source": "artmap",
    "name": {
     "cs": "Tomáš Hučko: Stříbrná metalíza"
    },
-   "source": "artmap",
    "summary": {},
    "url": {
     "cs": "https://www.artmap.cz/eventy/tomas-hucko-stribrna-metaliza"
    },
-   "venue": "Laichterův dům"
+   "dates": [
+    {
+     "start": "2026-11-26T19:00",
+     "end": "2026-11-26T22:00"
+    }
+   ],
+   "venue": "Laichterův dům",
+   "area": "Praha 2",
+   "lat": 50.078979,
+   "lng": 14.4449917,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "punctum:berre-no-kuchen-se-erb-ch-lonberg-holm-usa-black-diamond-usaau@punctum.cz",
@@ -4483,77 +4711,77 @@
    "free": true
   },
   {
-   "area": "Praha 2",
-   "cat": "talk",
-   "dates": [
-    {
-     "end": "2026-11-30T22:00",
-     "start": "2026-11-30T19:00"
-    }
-   ],
-   "free": "likely",
    "id": "artmap:54446",
-   "lat": 50.078979,
-   "lng": 14.4449917,
+   "source": "artmap",
    "name": {
     "cs": "Psychedelika a absolutní idealismus"
    },
-   "source": "artmap",
    "summary": {},
    "url": {
     "cs": "https://www.artmap.cz/eventy/psychedelika-a-absolutni-idealismus"
    },
-   "venue": "Laichterův dům"
-  },
-  {
-   "area": "Praha 6 – Bubeneč",
-   "cat": "talk",
    "dates": [
     {
-     "end": "2026-12-02T18:00",
-     "start": "2026-12-02T18:00"
+     "start": "2026-11-30T19:00",
+     "end": "2026-11-30T22:00"
     }
    ],
-   "free": "likely",
+   "venue": "Laichterův dům",
+   "area": "Praha 2",
+   "lat": 50.078979,
+   "lng": 14.4449917,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
    "id": "artmap:54188",
-   "lat": 50.1042942,
-   "lng": 14.4058478,
+   "source": "artmap",
    "name": {
     "cs": "Kamil Lhoták – Krajina snů"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Malba"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/kamil-lhotak-krajina-snu-2-12"
    },
-   "venue": "Galerie Villa Pellé"
-  },
-  {
-   "area": "Praha 2",
-   "cat": "talk",
    "dates": [
     {
-     "end": "2026-12-02T22:00",
-     "start": "2026-12-02T19:00"
+     "start": "2026-12-02T18:00",
+     "end": "2026-12-02T18:00"
     }
    ],
-   "free": "likely",
+   "venue": "Galerie Villa Pellé",
+   "area": "Praha 6 – Bubeneč",
+   "lat": 50.1042942,
+   "lng": 14.4058478,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
    "id": "artmap:54450",
-   "lat": 50.078979,
-   "lng": 14.4449917,
+   "source": "artmap",
    "name": {
     "cs": "Vladimir 518: Architektura 58–89"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Architektura a urbanismus"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/vladimir-518-architektura-58-89"
    },
-   "venue": "Laichterův dům"
+   "dates": [
+    {
+     "start": "2026-12-02T19:00",
+     "end": "2026-12-02T22:00"
+    }
+   ],
+   "venue": "Laichterův dům",
+   "area": "Praha 2",
+   "lat": 50.078979,
+   "lng": 14.4449917,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "punctum:pat-grimm-lyrarkestra-uk-cz-patrik-rynkiewicz-jano-doe-attila-mark-koros-pl-cz-hu@punctum.cz",
@@ -4581,29 +4809,29 @@
    "free": true
   },
   {
-   "area": "Praha 1",
-   "cat": "opening",
-   "dates": [
-    {
-     "end": "2026-12-09T18:00",
-     "start": "2026-12-09T18:00"
-    }
-   ],
-   "free": true,
    "id": "artmap:54468",
-   "lat": 50.082546,
-   "lng": 14.404989,
+   "source": "artmap",
    "name": {
     "cs": "Peter Watkins – Fifth Chair"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Fotografie"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/peter-watkins-fifth-chair-2026-12-09-1800"
    },
-   "venue": "Ateliér Josefa Sudka"
+   "dates": [
+    {
+     "start": "2026-12-09T18:00",
+     "end": "2026-12-09T18:00"
+    }
+   ],
+   "venue": "Ateliér Josefa Sudka",
+   "area": "Praha 1",
+   "lat": 50.082546,
+   "lng": 14.404989,
+   "cat": "opening",
+   "free": true
   },
   {
    "id": "petrohradska:6593739b-3d18-415e-b0d2-4f263bb8598c",
