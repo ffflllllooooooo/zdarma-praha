@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T04:49+01:00",
+ "generated": "2026-11-01T04:54+01:00",
  "events": [
   {
    "id": "goout:8277192",
@@ -98,61 +98,6 @@
    "free": "likely"
   },
   {
-   "id": "prague.eu:farmarske-trhy-na-kulataku",
-   "source": "prague.eu",
-   "name": {
-    "cs": "Farmářské trhy na Kulaťáku"
-   },
-   "summary": {
-    "cs": "Farmářský trh Kulaťák patří k největším pravidelným trhům v Praze a dlouhodobě nabízí kvalitní produkty od českých farmářů a výrobců. Od začátku března vždy v sobotu proměňuje Vítězné náměstí v příjemné místo plné sezónních chutí a sousedské atmosféry. Každý týden zde pořídíte čerstvé ovoce a zeleninu, pečivo, maso, ryby, sýry, květiny i další produkty s jasným původem, doplněné o pestrý street food a vybrané zahraniční delikatesy.   "
-   },
-   "url": {
-    "cs": "https://prague.eu/cs/akce/farmarske-trhy-na-kulataku/",
-    "en": "https://prague.eu/en/akce/farmers-markets-at-kulatak-vitezne-namesti/"
-   },
-   "image": "https://cdn.praguecitytourism.city/2024/12/15122142/481086264_1041559144679445_6937361057754772119_n.jpg",
-   "dates": [
-    {
-     "end": "2026-10-31T14:00",
-     "start": "2026-10-31T08:00"
-    },
-    {
-     "end": "2026-11-03T14:00",
-     "start": "2026-11-03T08:00"
-    },
-    {
-     "end": "2026-11-14T14:00",
-     "start": "2026-11-14T08:00"
-    },
-    {
-     "end": "2026-11-21T14:00",
-     "start": "2026-11-21T08:00"
-    },
-    {
-     "end": "2026-11-28T14:00",
-     "start": "2026-11-28T08:00"
-    },
-    {
-     "end": "2026-12-05T14:00",
-     "start": "2026-12-05T08:00"
-    },
-    {
-     "end": "2026-12-12T14:00",
-     "start": "2026-12-12T08:00"
-    },
-    {
-     "end": "2026-12-19T14:00",
-     "start": "2026-12-19T08:00"
-    }
-   ],
-   "venue": "Farmářské trhy na Kulaťáku",
-   "area": "Dejvice",
-   "lat": 50.10155087680153,
-   "lng": 14.393436381861893,
-   "cat": "city",
-   "free": true
-  },
-  {
    "id": "prague.eu:jazz-harmony-collective",
    "source": "prague.eu",
    "name": {
@@ -166,10 +111,6 @@
    },
    "image": "https://cdn.praguecitytourism.city/2024/12/04134713/008_20260216_DSC7013_edit.jpg",
    "dates": [
-    {
-     "end": "2026-10-31T23:59",
-     "start": "2026-10-31T20:00"
-    },
     {
      "end": "2026-11-01T23:59",
      "start": "2026-11-01T20:00"
@@ -359,6 +300,57 @@
    "lat": 50.0871,
    "lng": 14.4299,
    "cat": "film",
+   "free": true
+  },
+  {
+   "id": "prague.eu:farmarske-trhy-na-kulataku",
+   "source": "prague.eu",
+   "name": {
+    "cs": "Farmářské trhy na Kulaťáku"
+   },
+   "summary": {
+    "cs": "Farmářský trh Kulaťák patří k největším pravidelným trhům v Praze a dlouhodobě nabízí kvalitní produkty od českých farmářů a výrobců. Od začátku března vždy v sobotu proměňuje Vítězné náměstí v příjemné místo plné sezónních chutí a sousedské atmosféry. Každý týden zde pořídíte čerstvé ovoce a zeleninu, pečivo, maso, ryby, sýry, květiny i další produkty s jasným původem, doplněné o pestrý street food a vybrané zahraniční delikatesy.   "
+   },
+   "url": {
+    "cs": "https://prague.eu/cs/akce/farmarske-trhy-na-kulataku/",
+    "en": "https://prague.eu/en/akce/farmers-markets-at-kulatak-vitezne-namesti/"
+   },
+   "image": "https://cdn.praguecitytourism.city/2024/12/15122142/481086264_1041559144679445_6937361057754772119_n.jpg",
+   "dates": [
+    {
+     "end": "2026-11-03T14:00",
+     "start": "2026-11-03T08:00"
+    },
+    {
+     "end": "2026-11-14T14:00",
+     "start": "2026-11-14T08:00"
+    },
+    {
+     "end": "2026-11-21T14:00",
+     "start": "2026-11-21T08:00"
+    },
+    {
+     "end": "2026-11-28T14:00",
+     "start": "2026-11-28T08:00"
+    },
+    {
+     "end": "2026-12-05T14:00",
+     "start": "2026-12-05T08:00"
+    },
+    {
+     "end": "2026-12-12T14:00",
+     "start": "2026-12-12T08:00"
+    },
+    {
+     "end": "2026-12-19T14:00",
+     "start": "2026-12-19T08:00"
+    }
+   ],
+   "venue": "Farmářské trhy na Kulaťáku",
+   "area": "Dejvice",
+   "lat": 50.10155087680153,
+   "lng": 14.393436381861893,
+   "cat": "city",
    "free": true
   },
   {
@@ -5392,6 +5384,79 @@
    "area": "Holešovice",
    "lat": 50.0971388,
    "lng": 14.4232407,
+   "cat": "city",
+   "free": true
+  },
+  {
+   "id": "goout:9604681",
+   "source": "goout",
+   "name": {
+    "cs": "Strašidýlka ve věži"
+   },
+   "summary": {
+    "cs": "*Listopadové odpoledne na Letné bude patřit všem, co se rádi trochu bojí. Tajemnou Vodárenskou věž obsadí bubáci, čerti, vodníci i pohádková strašidla, která znáte z knížek.* Na malé návštěvníky čeká stezka s deseti zastaveními. V alchymistické laboratoři namíchají bublavé lektvary, v pekelné pekárně upečou strašidla z falešného porcelánu a ve výtvarné dílně si vyrobí vlastního nylonového čerta…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/strasidylka-ve-vezi/szgmroy/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-21T13:00",
+     "end": "2026-11-21T17:00"
+    }
+   ],
+   "venue": "Vodárenská věž Letná",
+   "area": "Praha 7 – Letná",
+   "lat": 50.1002,
+   "lng": 14.4199,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9594323",
+   "source": "goout",
+   "name": {
+    "cs": "Ze života NGP: knihovna"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://goout.net/cs/ze-zivota-ngp-knihovna/szxwaoy/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-21T15:00",
+     "end": "2026-11-21T23:59"
+    }
+   ],
+   "venue": "Šternberský palác",
+   "area": "Praha 1",
+   "lat": 50.0906,
+   "lng": 14.3967,
+   "cat": "city",
+   "free": true
+  },
+  {
+   "id": "goout:9586805",
+   "source": "goout",
+   "name": {
+    "cs": "Kolumbijská animace: Mezi přáteli"
+   },
+   "summary": {
+    "cs": "**Animace v Kolumbii vzniká téměř jako zázrak – často navzdory mnoha podobám násilí, které prostupují zemí, a traumatům, jež po sobě zanechávají. Zároveň však vytváří prostor pro přátelství a pro společné procházení tím, co bolí a co touží být oživeno.** Tento výběr experimentálních animovaných filmů využívá animaci jako způsob, jak se přímo podívat na tyto palčivé otázky. Všechny filmy navíc…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/kolumbijska-animace-mezi-prateli/szfwnny/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-21T18:00",
+     "end": "2026-11-21T23:59"
+    }
+   ],
+   "venue": "Kino Ponrepo",
+   "area": "Praha 1",
+   "lat": 50.0832,
+   "lng": 14.4177,
    "cat": "city",
    "free": true
   },
