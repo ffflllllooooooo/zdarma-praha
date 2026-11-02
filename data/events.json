@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T04:54+01:00",
+ "generated": "2026-11-02T04:58+01:00",
  "events": [
   {
    "id": "goout:8277192",
@@ -96,63 +96,6 @@
    "lng": null,
    "cat": "art",
    "free": "likely"
-  },
-  {
-   "id": "prague.eu:jazz-harmony-collective",
-   "source": "prague.eu",
-   "name": {
-    "cs": "Jazz Harmony Collective"
-   },
-   "summary": {
-    "cs": "Zažijte večer, kde se autentický jazz tradičního swingu prolíná s improvizací a živou energií v podání kapely Jazz Harmony Collective v klubu Jazz Republic. Kvarteto vedené saxofonistou Bedřichem Šmardou, známým svou precizní swingovou frázi a jedinečnou schopností propojit klasický styl 30. let s moderní jazzovou energií,přináší do pražského klubu hudbu, která má šarm, rytmus i hloubku."
-   },
-   "url": {
-    "cs": "https://prague.eu/cs/akce/jazz-harmony-collective/"
-   },
-   "image": "https://cdn.praguecitytourism.city/2024/12/04134713/008_20260216_DSC7013_edit.jpg",
-   "dates": [
-    {
-     "end": "2026-11-01T23:59",
-     "start": "2026-11-01T20:00"
-    },
-    {
-     "end": "2026-12-19T23:59",
-     "start": "2026-12-19T20:00"
-    },
-    {
-     "end": "2026-12-26T23:59",
-     "start": "2026-12-26T20:00"
-    }
-   ],
-   "venue": "Jazz Republic",
-   "area": "Staré Město",
-   "lat": 50.08414963409315,
-   "lng": 14.418556430024706,
-   "cat": "music",
-   "free": true
-  },
-  {
-   "id": "crossclub:8688-sundej-se-sunday",
-   "source": "crossclub",
-   "name": {
-    "cs": "Sundej Se Sunday"
-   },
-   "summary": {},
-   "url": {
-    "cs": "https://www.crossclub.cz/cs/program/8688-sundej-se-sunday/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-01T22:00",
-     "end": "2026-11-01T22:00"
-    }
-   ],
-   "venue": "Cross Club",
-   "area": "Holešovice",
-   "lat": null,
-   "lng": null,
-   "cat": "club",
-   "free": true
   },
   {
    "id": "prague.eu:tyden-akademie-ved",
@@ -2860,6 +2803,29 @@
    "free": "likely"
   },
   {
+   "id": "crossclub:8709-techno-night",
+   "source": "crossclub",
+   "name": {
+    "cs": "Techno Night"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://www.crossclub.cz/cs/program/8709-techno-night/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-10T20:00",
+     "end": "2026-11-10T20:00"
+    }
+   ],
+   "venue": "Cross Club",
+   "area": "Holešovice",
+   "lat": null,
+   "lng": null,
+   "cat": "club",
+   "free": true
+  },
+  {
    "id": "goout:9575366",
    "source": "goout",
    "name": {
@@ -3331,6 +3297,29 @@
    "lat": 50.0871,
    "lng": 14.4299,
    "cat": "city",
+   "free": true
+  },
+  {
+   "id": "crossclub:8710-techno-house",
+   "source": "crossclub",
+   "name": {
+    "cs": "Techno House"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://www.crossclub.cz/cs/program/8710-techno-house/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-11T20:00",
+     "end": "2026-11-11T20:00"
+    }
+   ],
+   "venue": "Cross Club",
+   "area": "Holešovice",
+   "lat": null,
+   "lng": null,
+   "cat": "club",
    "free": true
   },
   {
@@ -3843,14 +3832,14 @@
    "free": true
   },
   {
-   "id": "crossclub:8703-pohrebni-kapela",
+   "id": "crossclub:8703-pohrebni-kapela-metal-night",
    "source": "crossclub",
    "name": {
-    "cs": "Pohřební Kapela"
+    "cs": "Pohřební Kapela & Metal Night"
    },
    "summary": {},
    "url": {
-    "cs": "https://www.crossclub.cz/cs/program/8703-pohrebni-kapela/"
+    "cs": "https://www.crossclub.cz/cs/program/8703-pohrebni-kapela-metal-night/"
    },
    "dates": [
     {
@@ -4294,6 +4283,29 @@
    "lat": 50.0323,
    "lng": 14.5279,
    "cat": "city",
+   "free": true
+  },
+  {
+   "id": "crossclub:8713-sundej-se-sunday",
+   "source": "crossclub",
+   "name": {
+    "cs": "Sundej Se Sunday"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://www.crossclub.cz/cs/program/8713-sundej-se-sunday/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-15T22:00",
+     "end": "2026-11-15T22:00"
+    }
+   ],
+   "venue": "Cross Club",
+   "area": "Holešovice",
+   "lat": null,
+   "lng": null,
+   "cat": "club",
    "free": true
   },
   {
@@ -5511,29 +5523,6 @@
    "free": true
   },
   {
-   "id": "crossclub:8702-cross-slam-2026-nova-generace-no-4",
-   "source": "crossclub",
-   "name": {
-    "cs": "Cross Slam 2026 - Nová Generace - No.4"
-   },
-   "summary": {},
-   "url": {
-    "cs": "https://www.crossclub.cz/cs/program/8702-cross-slam-2026-nova-generace-no-4/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-24T19:30",
-     "end": "2026-11-24T19:30"
-    }
-   ],
-   "venue": "Cross Club",
-   "area": "Holešovice",
-   "lat": null,
-   "lng": null,
-   "cat": "club",
-   "free": true
-  },
-  {
    "id": "artmap:54449",
    "source": "artmap",
    "name": {
@@ -5802,6 +5791,61 @@
    "lng": null,
    "cat": "music",
    "free": "likely"
+  },
+  {
+   "id": "artmap:54507",
+   "source": "artmap",
+   "name": {
+    "cs": "Tanya Lukin Linklater, Duane Linklater – Crested/mâcistan [english]"
+   },
+   "summary": {
+    "cs": "Malba, Socha a objekt, Koncept, English Friendly, Současné umění"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/tanya-lukin-linklater-duane-linklater-crestedmacistan-english-17-12"
+   },
+   "dates": [
+    {
+     "start": "2026-12-17T18:00",
+     "end": "2026-12-17T19:00"
+    }
+   ],
+   "venue": "Galerie Rudolfinum",
+   "area": "Praha 1",
+   "lat": 50.090172,
+   "lng": 14.415219,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
+   "id": "prague.eu:jazz-harmony-collective",
+   "source": "prague.eu",
+   "name": {
+    "cs": "Jazz Harmony Collective"
+   },
+   "summary": {
+    "cs": "Zažijte večer, kde se autentický jazz tradičního swingu prolíná s improvizací a živou energií v podání kapely Jazz Harmony Collective v klubu Jazz Republic. Kvarteto vedené saxofonistou Bedřichem Šmardou, známým svou precizní swingovou frázi a jedinečnou schopností propojit klasický styl 30. let s moderní jazzovou energií,přináší do pražského klubu hudbu, která má šarm, rytmus i hloubku."
+   },
+   "url": {
+    "cs": "https://prague.eu/cs/akce/jazz-harmony-collective/"
+   },
+   "image": "https://cdn.praguecitytourism.city/2024/12/04134713/008_20260216_DSC7013_edit.jpg",
+   "dates": [
+    {
+     "end": "2026-12-19T23:59",
+     "start": "2026-12-19T20:00"
+    },
+    {
+     "end": "2026-12-26T23:59",
+     "start": "2026-12-26T20:00"
+    }
+   ],
+   "venue": "Jazz Republic",
+   "area": "Staré Město",
+   "lat": 50.08414963409315,
+   "lng": 14.418556430024706,
+   "cat": "music",
+   "free": true
   },
   {
    "id": "prague.eu:trikralovy-pruvod",
