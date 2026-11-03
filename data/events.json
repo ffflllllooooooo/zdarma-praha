@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T04:58+01:00",
+ "generated": "2026-11-03T04:55+01:00",
  "events": [
   {
    "id": "goout:8277192",
@@ -52,29 +52,6 @@
    "free": true
   },
   {
-   "id": "artmap:53808",
-   "source": "artmap",
-   "name": {
-    "cs": "TransformArt: Tělo a materiál v současném umění"
-   },
-   "summary": {},
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/transformart-telo-a-material-v-soucasnem-umeni"
-   },
-   "dates": [
-    {
-     "start": "2026-10-05T18:00",
-     "end": "2026-11-02T19:00"
-    }
-   ],
-   "venue": "Kunsthalle Praha",
-   "area": "Praha 1",
-   "lat": 50.0924553,
-   "lng": 14.4095389,
-   "cat": "talk",
-   "free": "likely"
-  },
-  {
    "id": "petrohradska:e9376a45-bae7-4127-bddb-07ba0fca4ffa",
    "source": "petrohradska",
    "name": {
@@ -113,8 +90,8 @@
    "image": "https://cdn.praguecitytourism.city/2024/07/09132250/tvt2019_03.jpg",
    "dates": [
     {
-     "end": "2026-11-08T23:59",
-     "start": "2026-11-02T00:00"
+     "start": "2026-11-02T00:00",
+     "end": "2026-11-08T23:59"
     }
    ],
    "venue": null,
@@ -122,127 +99,6 @@
    "lat": null,
    "lng": null,
    "cat": "city",
-   "free": true
-  },
-  {
-   "id": "artmap:54287",
-   "source": "artmap",
-   "name": {
-    "cs": "Jak na důchodové a nemocenské pojištění v uměleckých profesích"
-   },
-   "summary": {},
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/jak-na-duchodove-a-nemocenske-pojisteni-v-umeleckych-profesich"
-   },
-   "dates": [
-    {
-     "start": "2026-11-02T18:00",
-     "end": "2026-11-02T18:00"
-    }
-   ],
-   "venue": "Centrum pro současné umění Praha",
-   "area": "Praha 7",
-   "lat": 50.098384,
-   "lng": 14.432671,
-   "cat": "talk",
-   "free": "likely"
-  },
-  {
-   "id": "goout:9583693",
-   "source": "goout",
-   "name": {
-    "cs": "Cannes 2026 – Zvláštní uvedení"
-   },
-   "summary": {
-    "cs": "**Diváci mají již tradičně v kině Ponrepo možnost seznámit se s kompletní krátkometrážní kolekcí, která byla uvedena na letošním Mezinárodním filmovém festivalu v Cannes jako součást oficiální soutěžní sekce Semaine de la critique (Týden kritiky).** Týden kritiky probíhá od roku 1962 pod záštitou Francouzského sdružení filmových kritiků jako paralelní sekce festivalu v Cannes. Snaží se…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/cannes-2026-zvlastni-uvedeni/szswiny/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-02T18:00",
-     "end": "2026-11-02T23:59"
-    }
-   ],
-   "venue": "Kino Ponrepo",
-   "area": "Praha 1",
-   "lat": 50.0832,
-   "lng": 14.4177,
-   "cat": "city",
-   "free": true
-  },
-  {
-   "id": "petrohradska:60af3801-8a8a-4128-ae69-c0132e0c16f0",
-   "source": "petrohradska",
-   "name": {
-    "cs": "Palestine Cinema Days"
-   },
-   "summary": {
-    "cs": "Zdarma"
-   },
-   "url": {
-    "cs": "https://www.petrohradskakolektiv.com/verejne/petrohradska-kolektiv/program/60af3801-8a8a-4128-ae69-c0132e0c16f0"
-   },
-   "dates": [
-    {
-     "start": "2026-11-02T19:00",
-     "end": "2026-11-02T21:30"
-    }
-   ],
-   "venue": "Petrohradská kolektiv — Kino",
-   "area": "Vršovice",
-   "lat": null,
-   "lng": null,
-   "cat": "city",
-   "free": true
-  },
-  {
-   "id": "crossclub:8704-los-tekkenos",
-   "source": "crossclub",
-   "name": {
-    "cs": "Los Tekkenos"
-   },
-   "summary": {},
-   "url": {
-    "cs": "https://www.crossclub.cz/cs/program/8704-los-tekkenos/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-02T20:00",
-     "end": "2026-11-02T20:00"
-    }
-   ],
-   "venue": "Cross Club",
-   "area": "Holešovice",
-   "lat": null,
-   "lng": null,
-   "cat": "club",
-   "free": true
-  },
-  {
-   "id": "goout:9576569",
-   "source": "goout",
-   "name": {
-    "cs": "Když se realita začne chovat divně: současný québecký film"
-   },
-   "summary": {
-    "cs": "Pastor, který v kázání odrazuje od víry. Děti rodící se z velkého stroje na zelí. Muž strhávající si v metru vlastní kůži. Žena těhotná s písmenem E. Tyto postavy a zjevení se potkávají v absurdních a děsivě zábavných scenériích kdysi okrajové, dnes festivalově úspěšné kinematografie kanadského Québecu. Poznejte v přednášce absolventky Filmových studií Denisy Novákové derridovské „spektrální…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/kdyz-se-realita-zacne-chovat-divne-soucasny-quebecky-film/sztmwmy/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-02T20:00",
-     "end": "2026-11-02T23:59"
-    }
-   ],
-   "venue": "Kampus Hybernská",
-   "area": "Praha 1 – Nové Město",
-   "lat": 50.0871,
-   "lng": 14.4299,
-   "cat": "film",
    "free": true
   },
   {
@@ -1078,6 +934,29 @@
    "free": true
   },
   {
+   "id": "artmap:54578",
+   "source": "artmap",
+   "name": {
+    "cs": "Historia Naturalis"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/historia-naturalis-4-11"
+   },
+   "dates": [
+    {
+     "start": "2026-11-04T16:00",
+     "end": "2026-11-04T18:30"
+    }
+   ],
+   "venue": "Národní knihovna České republiky",
+   "area": "Praha 1",
+   "lat": 50.0865979,
+   "lng": 14.4160186,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
    "id": "goout:9590081",
    "source": "goout",
    "name": {
@@ -1622,6 +1501,31 @@
    "free": true
   },
   {
+   "id": "artmap:54581",
+   "source": "artmap",
+   "name": {
+    "cs": "Jakub Hájek, František Hanousek – Heriot"
+   },
+   "summary": {
+    "cs": "Socha a objekt, Kresba a grafika, Současné umění"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/jakub-hajek-frantisek-hanousek-heriot-2"
+   },
+   "dates": [
+    {
+     "start": "2026-11-05T18:00",
+     "end": "2026-11-05T18:00"
+    }
+   ],
+   "venue": "Clauda",
+   "area": "Praha 7",
+   "lat": 50.0979083,
+   "lng": 14.4336783,
+   "cat": "opening",
+   "free": true
+  },
+  {
    "id": "goout:9584021",
    "source": "goout",
    "name": {
@@ -1692,6 +1596,31 @@
    "lat": 50.0948897,
    "lng": 14.461134,
    "cat": "art",
+   "free": "likely"
+  },
+  {
+   "id": "artmap:54582",
+   "source": "artmap",
+   "name": {
+    "cs": "VARES podává zprávu"
+   },
+   "summary": {
+    "cs": "Architektura a urbanismus"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/vares-podava-zpravu"
+   },
+   "dates": [
+    {
+     "start": "2026-11-05T19:00",
+     "end": "2026-11-05T19:00"
+    }
+   ],
+   "venue": "Galerie VI PER",
+   "area": "Praha 8",
+   "lat": 50.089741,
+   "lng": 14.4463601,
+   "cat": "talk",
    "free": "likely"
   },
   {
@@ -2175,8 +2104,8 @@
    "free": true
   },
   {
-   "id": "goout:9586555",
-   "source": "goout",
+   "id": "artmap:54600",
+   "source": "artmap",
    "name": {
     "cs": "Jakou roli má Národní galerie v demokratické společnosti?"
    },
@@ -2184,20 +2113,23 @@
     "cs": "První debata se bude věnovat roli národní kulturní instituce v demokratické společnosti. Zaměří se na její odpovědnost vůči státu, odborné komunitě i veřejnosti a na to, co dnes znamená veřejná služba v oblasti kultury. Otevře otázky institucionální autonomie, kulturní politiky a financování. Pozornost se zaměří na to, jak tyto rámce a podmínky ovlivňují fungování, strategické rozhodování a…"
    },
    "url": {
-    "cs": "https://goout.net/cs/jakou-roli-ma-narodni-galerie-v-demokraticke-spolecnosti/szfmnny/"
+    "cs": "https://www.artmap.cz/eventy/jakou-roli-ma-narodni-galerie-v-demokraticke-spolecnosti"
    },
    "dates": [
     {
      "start": "2026-11-06T18:30",
-     "end": "2026-11-06T23:59"
+     "end": "2026-11-06T20:00"
     }
    ],
-   "venue": "Veletržní palác",
+   "venue": "Národní galerie Praha, Veletržní palác",
    "area": "Praha 7",
-   "lat": 50.1012,
-   "lng": 14.4328,
-   "cat": "art",
-   "free": true
+   "lat": 50.1010757,
+   "lng": 14.4327945,
+   "cat": "talk",
+   "free": "likely",
+   "also": [
+    "goout"
+   ]
   },
   {
    "id": "artmap:54543",
@@ -4418,6 +4350,29 @@
    "free": true
   },
   {
+   "id": "crossclub:8717-techno-stage",
+   "source": "crossclub",
+   "name": {
+    "cs": "Techno Stage"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://www.crossclub.cz/cs/program/8717-techno-stage/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-17T20:00",
+     "end": "2026-11-17T20:00"
+    }
+   ],
+   "venue": "Cross Club",
+   "area": "Holešovice",
+   "lat": null,
+   "lng": null,
+   "cat": "club",
+   "free": true
+  },
+  {
    "id": "goout:9575289",
    "source": "goout",
    "name": {
@@ -5496,6 +5451,31 @@
    "lng": 14.4449917,
    "cat": "talk",
    "free": "likely"
+  },
+  {
+   "id": "goout:9591743",
+   "source": "goout",
+   "name": {
+    "cs": "HYB4 Film: Obsession"
+   },
+   "summary": {
+    "cs": "**Psychoanalýza jednoho splněného přání s Karlem Malimánkem** Obsession (2025) je psychohoror mladého amerického režiséra Curryho Barkera. Film natočený během 20 dnů za 750 tisíc dolarů utržil v kinech přes půl miliardy dolarů a stal se jednou z největších filmových senzací v roce 2026. Barker originálním způsobem rozvíjí hororový motiv: dej si pozor na to, co si přeješ. Počáteční romance…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/hyb4-film-obsession/szstvny/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-23T20:00",
+     "end": "2026-11-23T22:00"
+    }
+   ],
+   "venue": "Kampus Hybernská",
+   "area": "Praha 1 – Nové Město",
+   "lat": 50.0871,
+   "lng": 14.4299,
+   "cat": "film",
+   "free": true
   },
   {
    "id": "artmap:54527",
