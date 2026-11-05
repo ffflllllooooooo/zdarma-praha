@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T04:57+01:00",
+ "generated": "2026-11-05T04:58+01:00",
  "events": [
   {
    "id": "goout:8277192",
@@ -99,501 +99,6 @@
    "lat": null,
    "lng": null,
    "cat": "city",
-   "free": true
-  },
-  {
-   "id": "goout:9575072",
-   "source": "goout",
-   "name": {
-    "cs": "Školy – Silák Herakles"
-   },
-   "summary": {
-    "cs": "Už jste někdy číhali skrytí v přírodě s nastraženýma ušima a očima na stopkách? V takových chvílích vnímáme i ty nejtišší zvuky z okolí a naše představivost pracuje naplno. Zveme vás na výpravu do starověkého Řecka, plného mýtů a pověstí. Setkáme se s velkým hrdinou Heraklem ve chvíli nejhlubšího soustředění. Jaký je jeho příběh a cesta? Co asi v dálce pozoruje? A kdo nebo co pozoruje jeho?…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/skoly-silak-herakles/szwcumy/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-04T10:00",
-     "end": "2026-11-04T23:59"
-    }
-   ],
-   "venue": "Veletržní palác",
-   "area": "Praha 7",
-   "lat": 50.1012,
-   "lng": 14.4328,
-   "cat": "kids",
-   "free": true
-  },
-  {
-   "id": "goout:9574894",
-   "source": "goout",
-   "name": {
-    "cs": "Školy – V galerii se skicákem: 1939–2021: Konec černobílé doby"
-   },
-   "summary": {
-    "cs": "Přijďte si prohlédnout bohatou škálu uměleckých přístupů moderního a současného umění. Ponořte se i v rámci skupiny do svého světa, kde je prostor a čas dívat se a tvořit. Objevujte. Skicujte v expozici 1939–2021: Konec černobílé doby. Ve Veletržním paláci nyní nabízíme unikátní triptych výstav 19.-21. století. Na trojici výstav navazujeme nabídkou vzdělávacích programů V galerii se skicákem.…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/skoly-v-galerii-se-skicakem-1939-2021-konec-cernobile-doby/sztutmy/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-04T10:00",
-     "end": "2026-11-04T23:59"
-    }
-   ],
-   "venue": "Veletržní palác",
-   "area": "Praha 7",
-   "lat": 50.1012,
-   "lng": 14.4328,
-   "cat": "kids",
-   "free": true,
-   "also": [
-    "goout"
-   ]
-  },
-  {
-   "id": "goout:9574889",
-   "source": "goout",
-   "name": {
-    "cs": "Školy – V krystalu"
-   },
-   "summary": {
-    "cs": "Posviťme si na krystal a objevme v malém blýskavém pokladu možnosti pro velké experimenty. Inspirováni dílem Wenzela Hablika pojďme navrhovat a stavět „vzdušné“ zámky. Jako stavební prvek nám poslouží princip krystalické struktury. Tvar nám bude narůstat pomocí razítek a kaleidoskopu. Vytvoříme zářivou krystalickou stavbu. **Cíl programu:** - Vnímat přírodu jako umělecký inspirační zdroj:…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/skoly-v-krystalu/szoutmy/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-04T10:00",
-     "end": "2026-11-04T23:59"
-    }
-   ],
-   "venue": "Veletržní palác",
-   "area": "Praha 7",
-   "lat": 50.1012,
-   "lng": 14.4328,
-   "cat": "kids",
-   "free": true
-  },
-  {
-   "id": "goout:9532855",
-   "source": "goout",
-   "name": {
-    "cs": "Školy – Blízkost sochy"
-   },
-   "summary": {
-    "cs": "Co si představíme, když se řekne SOCHA? Společně se ponoříme do světa soch, objektů a instalací. Může socha svítit, hýbat se či hořet? Prozkoumáme různé sochařské materiály a vytvoříme si vlastní 3D otisk. Program je realizován v expozici 1939–2021: Konec černobílé doby, která je bohatá na sochařská díla předních českých umělců 20. a 21. století. Společně se budeme mezi sochami procházet, dívat…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/skoly-blizkost-sochy/szfocky/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-04T10:00",
-     "end": "2026-11-04T23:59"
-    }
-   ],
-   "venue": "Veletržní palác",
-   "area": "Praha 7",
-   "lat": 50.1012,
-   "lng": 14.4328,
-   "cat": "kids",
-   "free": true
-  },
-  {
-   "id": "goout:9532771",
-   "source": "goout",
-   "name": {
-    "cs": "Školy – Po stopách sv. Anežky"
-   },
-   "summary": {
-    "cs": "Kdo byla svatá Anežka, k jakému rodu patřila, proč se stala řeholnicí a jak se žilo za zdmi kláštera? Odpovědi nejen na tyto otázky se děti dozvědí při prohlídce s lektorem, ale především při samostatné pátrací hře. Program žáky seznámí s prvky románské a gotické architektury a s jednotlivými částmi kláštera. Kromě prohlídky unikátních klášterních prostor je možno navštívit i nově otevřené…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/skoly-po-stopach-sv-anezky/szvkcky/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-04T10:00",
-     "end": "2026-11-04T23:59"
-    }
-   ],
-   "venue": "Anežský klášter",
-   "area": "Praha 1 – Staré Město",
-   "lat": 50.092,
-   "lng": 14.4235,
-   "cat": "kids",
-   "free": true
-  },
-  {
-   "id": "goout:9532761",
-   "source": "goout",
-   "name": {
-    "cs": "Školy – Dílna středověkého malíře"
-   },
-   "summary": {
-    "cs": "Povídání o Karlu IV. a jeho dvorním malíři Theodorikovi, o hradu Karlštejně a kapli sv. Kříže. Co všechno nám prozradí Theodorikovy obrazy? Seznámíme se s provozem dílny středověkého malíře, s tajemstvím vzniku deskových obrazů a s pojmy mistr, tovaryš, učedník, dílna, vzorník ad. Nejprve nás čeká aktivita v expozici, poté společně proměníme dětský ateliér v „opravdovou Theodorikovu dílnu“, ve…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/skoly-dilna-stredovekeho-malire/szlkcky/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-04T10:00",
-     "end": "2026-11-04T23:59"
-    }
-   ],
-   "venue": "Anežský klášter",
-   "area": "Praha 1 – Staré Město",
-   "lat": 50.092,
-   "lng": 14.4235,
-   "cat": "kids",
-   "free": true
-  },
-  {
-   "id": "goout:9532798",
-   "source": "goout",
-   "name": {
-    "cs": "Školy – O baroku všemi smysly"
-   },
-   "summary": {
-    "cs": "Barokní umělci věděli, jak nejlépe působit na lidské smysly. Jak dnes baroko působí na nás? Vydejme se na průzkum s pomocí zraku a hmatu. Povedou nás zářivé či temné barvy obrazů, ale také oblé tvary soch. Prozkoumáme hmatovou kolekci Doteky baroka, kde porušíme pravidlo „nedotýkejte se“ a vstoupíme do světa nevidomých. Hmatové zážitky využijeme při modelování v ateliéru. **Cíl programu:** -…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/skoly-o-baroku-vsemi-smysly/szxlcky/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-04T11:00",
-     "end": "2026-11-04T23:59"
-    }
-   ],
-   "venue": "Schwarzenberský palác",
-   "area": "Praha 1",
-   "lat": 50.0891,
-   "lng": 14.3969,
-   "cat": "kids",
-   "free": true
-  },
-  {
-   "id": "goout:9575629",
-   "source": "goout",
-   "name": {
-    "cs": "Školy – Hledání baroka"
-   },
-   "summary": {
-    "cs": "Co je to vlastně „baroko“? Která témata byla oblíbená a jak je umělci vyjadřovali? Pusťme se do pátrání a objevme klíče k barokním obrazům a sochám. Ducha a atmosféru doby se pokusíme pochopit prostřednictvím legend, divadla a hudby. **Cíl programu:** - Rozpoznat základní znaky kulturního slohu a uvést jeho představitele. - Čtení barokních obrazů a soch, jejich reflexe a intepretace v různých…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/skoly-hledani-baroka/szeavmy/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-04T12:00",
-     "end": "2026-11-04T23:59"
-    }
-   ],
-   "venue": "Schwarzenberský palác",
-   "area": "Praha 1",
-   "lat": 50.0891,
-   "lng": 14.3969,
-   "cat": "kids",
-   "free": true
-  },
-  {
-   "id": "goout:9575361",
-   "source": "goout",
-   "name": {
-    "cs": "Školy – Jak se dívat na obraz?"
-   },
-   "summary": {
-    "cs": "Program je určen pro první návštěvu galerie. Studenty seznámí se základními formotvornými znaky obrazu: kompozice, barva, světlo, prostor, pohyb, proporce a s proměnami těchto znaků v slohových obdobích gotiky, renesance, baroka. Spolu s formálními znaky uměleckého díla bude sledován vývoj témat a výtvarných technik. Program probíhá v expozici dialogickou formou, je doplněn ukázkami reprodukcí a…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/skoly-jak-se-divat-na-obraz/szloumy/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-04T13:00",
-     "end": "2026-11-04T23:59"
-    }
-   ],
-   "venue": "Šternberský palác",
-   "area": "Praha 1",
-   "lat": 50.0906,
-   "lng": 14.3967,
-   "cat": "kids",
-   "free": true
-  },
-  {
-   "id": "goout:9532784",
-   "source": "goout",
-   "name": {
-    "cs": "Školy – Tajemství gotiky"
-   },
-   "summary": {
-    "cs": "Dokážeme dnes porozumět středověkým dílům? Víme, co umělci zobrazovali a co používali ke své tvorbě? Jaký význam mají zobrazené symboly a k čemu díla sloužila? Inovativní pořad seznamuje studenty srze haptické, vizuální a textové indicie interaktivní formou s nejznámějšími díly sbírky i se základními principy gotického umění. Program rozvíjí pozorovací i kognitivní schopnosti a vede k…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/skoly-tajemstvi-gotiky/szjlcky/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-04T13:00",
-     "end": "2026-11-04T23:59"
-    }
-   ],
-   "venue": "Anežský klášter",
-   "area": "Praha 1 – Staré Město",
-   "lat": 50.092,
-   "lng": 14.4235,
-   "cat": "kids",
-   "free": true
-  },
-  {
-   "id": "artmap:54578",
-   "source": "artmap",
-   "name": {
-    "cs": "Historia Naturalis"
-   },
-   "summary": {},
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/historia-naturalis-4-11"
-   },
-   "dates": [
-    {
-     "start": "2026-11-04T16:00",
-     "end": "2026-11-04T18:30"
-    }
-   ],
-   "venue": "Národní knihovna České republiky",
-   "area": "Praha 1",
-   "lat": 50.0865979,
-   "lng": 14.4160186,
-   "cat": "talk",
-   "free": "likely"
-  },
-  {
-   "id": "goout:9590081",
-   "source": "goout",
-   "name": {
-    "cs": "Kafe s farářkou"
-   },
-   "summary": {
-    "cs": "Každou první středu v měsíci si mohou návštěvníci přijít na *Kafe s farářkou* popovídat nebo se jen na chvíli zastavit a odpočinout. Někdy člověk prožívá náročná a krizová období, jindy zase chvíle radosti a vděčnosti, které nemá s kým sdílet. Mlčenlivost je samozřejmostí. Tentokrát se na návštěvníky těší Olga Mrázková z Českobratrské církve evangelické, Druhého sboru na Praze 3 Žižkově. *„Jsem…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/kafe-s-fararkou/szgdtny/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-04T16:00",
-     "end": "2026-11-04T23:59"
-    }
-   ],
-   "venue": "Atrium Žižkov",
-   "area": "Praha 3 – Žižkov",
-   "lat": 50.0817,
-   "lng": 14.4528,
-   "cat": "city",
-   "free": true
-  },
-  {
-   "id": "artmap:54539",
-   "source": "artmap",
-   "name": {
-    "cs": "Viktor Kolář – Obležené město"
-   },
-   "summary": {
-    "cs": "Fotografie, Koncept"
-   },
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/viktor-kolar-oblezene-mesto-2"
-   },
-   "dates": [
-    {
-     "start": "2026-11-04T17:00",
-     "end": "2026-11-04T17:00"
-    }
-   ],
-   "venue": "Archiv výtvarného umění",
-   "area": "Praha 4",
-   "lat": 50.0429252,
-   "lng": 14.4775466,
-   "cat": "opening",
-   "free": true
-  },
-  {
-   "id": "artmap:54401",
-   "source": "artmap",
-   "name": {
-    "cs": "Family Permafrost"
-   },
-   "summary": {
-    "cs": "Malba"
-   },
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/family-permafrost-4-11"
-   },
-   "dates": [
-    {
-     "start": "2026-11-04T18:00",
-     "end": "2026-11-04T18:00"
-    }
-   ],
-   "venue": "Spot Gallery",
-   "area": "Praha 2",
-   "lat": 50.0742688,
-   "lng": 14.4425735,
-   "cat": "talk",
-   "free": "likely"
-  },
-  {
-   "id": "artmap:54435",
-   "source": "artmap",
-   "name": {
-    "cs": "10 Year Anniversary Exhibition: Aesthetics of the Injectable"
-   },
-   "summary": {
-    "cs": "Malba, Socha a objekt, Současné umění"
-   },
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/10-year-anniversary-exhibition-aesthetics-of-the-injectable-2"
-   },
-   "dates": [
-    {
-     "start": "2026-11-04T18:00",
-     "end": "2026-11-04T18:00"
-    }
-   ],
-   "venue": "Karpuchina Gallery",
-   "area": "Praha 1",
-   "lat": 50.0901305,
-   "lng": 14.4260414,
-   "cat": "opening",
-   "free": true
-  },
-  {
-   "id": "goout:9591516",
-   "source": "goout",
-   "name": {
-    "cs": "Dimitré Dinev: Zeit der Mutigen (autorské čtení)"
-   },
-   "summary": {
-    "cs": "*Auf Deustch siehe unten.* Co znamená odvaha v časech války, diktatury a pronásledování? A jsou to právě velká hrdinská gesta, nebo spíše drobná každodenní rozhodnutí, která určují lidský osud? Rakouský spisovatel Dimitré Dinev představí svůj monumentální román *Zeit der Mutigen* (2025, Kein & Aber), oceněný Rakouskou knižní cenou 2025. Na více než tisíci stranách rozehrává Dinev několik…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/dimitre-dinev-zeit-der-mutigen-autorske-cteni/szqkvny/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-04T18:00",
-     "end": "2026-11-04T23:59"
-    }
-   ],
-   "venue": "Rakouské kulturní fórum",
-   "area": "Praha 1",
-   "lat": 50.0829,
-   "lng": 14.4228,
-   "cat": "talk",
-   "free": true
-  },
-  {
-   "id": "artmap:54542",
-   "source": "artmap",
-   "name": {
-    "cs": "Diagnóza: Rusko"
-   },
-   "summary": {},
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/diagnoza-rusko"
-   },
-   "dates": [
-    {
-     "start": "2026-11-04T19:00",
-     "end": "2026-11-04T22:00"
-    }
-   ],
-   "venue": "Laichterův dům",
-   "area": "Praha 2",
-   "lat": 50.078979,
-   "lng": 14.4449917,
-   "cat": "talk",
-   "free": "likely"
-  },
-  {
-   "id": "goout:9591725",
-   "source": "goout",
-   "name": {
-    "cs": "Poetry jam & Jakub Šimanský: Žalozpěvy, ztráty a smíření"
-   },
-   "summary": {
-    "cs": "Po zkušenostech s natáčením dokumentárních filmů a reality shows, studiem umění a kurátorstvím, advokátními kancelářemi a prací pro státní sektor se skupina básníků a básnířek setkává ke komponovanému večeru autorského čtení, improvizace, osobních přiznání i vyznání a hudby. Společně se pokusí vytvořit jedinečný prostor, v němž se budou věnovat tématům odcházení, ztráty a vyrovnávání se s…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/poetry-jam-and-jakub-simansky-zalozpevy-ztraty-a-smireni/szatvny/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-04T19:00",
-     "end": "2026-11-04T21:30"
-    }
-   ],
-   "venue": "Kampus Hybernská",
-   "area": "Praha 1 – Nové Město",
-   "lat": 50.0871,
-   "lng": 14.4299,
-   "cat": "talk",
-   "free": true
-  },
-  {
-   "id": "artmap:54545",
-   "source": "artmap",
-   "name": {
-    "cs": "Simulakrum: XXX|||\\\\\\"
-   },
-   "summary": {},
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/simulakrum-xxx"
-   },
-   "dates": [
-    {
-     "start": "2026-11-04T19:30",
-     "end": "2026-11-04T19:30"
-    }
-   ],
-   "venue": "Studio ALTA",
-   "area": "Praha 8",
-   "lat": 50.0948897,
-   "lng": 14.461134,
-   "cat": "art",
-   "free": "likely"
-  },
-  {
-   "id": "crossclub:8706-biocross",
-   "source": "crossclub",
-   "name": {
-    "cs": "Biocross"
-   },
-   "summary": {},
-   "url": {
-    "cs": "https://www.crossclub.cz/cs/program/8706-biocross/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-04T20:00",
-     "end": "2026-11-04T20:00"
-    }
-   ],
-   "venue": "Cross Club",
-   "area": "Holešovice",
-   "lat": null,
-   "lng": null,
-   "cat": "club",
    "free": true
   },
   {
@@ -1070,6 +575,31 @@
    "free": "likely"
   },
   {
+   "id": "artmap:54650",
+   "source": "artmap",
+   "name": {
+    "cs": "Až spadnou zdi"
+   },
+   "summary": {
+    "cs": "Malba, Socha a objekt, Video, Současné umění"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/az-spadnou-zdi-2"
+   },
+   "dates": [
+    {
+     "start": "2026-11-05T19:00",
+     "end": "2026-11-05T19:00"
+    }
+   ],
+   "venue": "Atrium Žižkov",
+   "area": "Praha 3",
+   "lat": 50.0836237,
+   "lng": 14.4516497,
+   "cat": "opening",
+   "free": true
+  },
+  {
    "id": "artmap:54512",
    "source": "artmap",
    "name": {
@@ -1475,6 +1005,31 @@
    "free": true
   },
   {
+   "id": "artmap:54647",
+   "source": "artmap",
+   "name": {
+    "cs": "Zpětná vazba"
+   },
+   "summary": {
+    "cs": "Malba, Socha a objekt, Fotografie, Video, Kresba a grafika"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/zpetna-vazba-6-11"
+   },
+   "dates": [
+    {
+     "start": "2026-11-06T18:00",
+     "end": "2026-11-06T19:00"
+    }
+   ],
+   "venue": "Galerie Prostora",
+   "area": "Praha 2",
+   "lat": 50.0754912,
+   "lng": 14.4389497,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
    "id": "artmap:54262",
    "source": "artmap",
    "name": {
@@ -1576,6 +1131,32 @@
    "lng": 14.4449917,
    "cat": "talk",
    "free": "likely"
+  },
+  {
+   "id": "prague.eu:festival-ai-pro-kazdeho",
+   "source": "prague.eu",
+   "name": {
+    "cs": "Festival AI pro každého"
+   },
+   "summary": {
+    "cs": "Ministerstvo průmyslu a obchodu pořádá v sobotu 7. listopadu druhý ročník Festivalu AI pro každého. Od 10 do 17 hodin nabídne v historické budově MPO na pražském Františku interaktivní ukázky umělé inteligence, robotiky, virtuální reality nebo využití AI ve zdravotnictví, vzdělávání, kyberbezpečnosti a každodenním životě. Festival je určen široké veřejnosti včetně rodin s dětmi a vstup je zdarma. Umělou inteligenci představí především prostřednictvím konkrétních aplikací, které si mohou návštěvníci sami vyzkoušet. Na jednom místě budou zastoupeny české technologické firmy, startupy, výzkumné organizace, univerzity a další aktéři českého AI ekosystému\r\n\r\n"
+   },
+   "url": {
+    "cs": "https://prague.eu/cs/akce/festival-ai-pro-kazdeho/"
+   },
+   "image": "https://cdn.praguecitytourism.city/2026/11/04093234/08_Festival-AI-pro-kazdeho.jpg",
+   "dates": [
+    {
+     "start": "2026-11-07T10:00",
+     "end": "2026-11-07T17:00"
+    }
+   ],
+   "venue": "Ministerstvo průmyslu a obchodu",
+   "area": "Staré Město",
+   "lat": 50.0929276,
+   "lng": 14.4258889,
+   "cat": "city",
+   "free": true
   },
   {
    "id": "artmap:54524",
@@ -1703,6 +1284,31 @@
     "goout",
     "goout"
    ]
+  },
+  {
+   "id": "artmap:54657",
+   "source": "artmap",
+   "name": {
+    "cs": "Attending to the Liminal"
+   },
+   "summary": {
+    "cs": "English Friendly, Současné umění, Teorie"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/attending-to-the-liminal"
+   },
+   "dates": [
+    {
+     "start": "2026-11-09T17:00",
+     "end": "2026-11-10T17:00"
+    }
+   ],
+   "venue": "Galerie AMU",
+   "area": "Praha 1",
+   "lat": 50.088685,
+   "lng": 14.403116,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "artmap:54511",
@@ -2108,6 +1714,31 @@
    "free": true
   },
   {
+   "id": "artmap:54654",
+   "source": "artmap",
+   "name": {
+    "cs": "Klára Hartlová – Příslib návratu"
+   },
+   "summary": {
+    "cs": "Malba, Současné umění"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/klara-hartlova-prislib-navratu-2"
+   },
+   "dates": [
+    {
+     "start": "2026-11-10T18:00",
+     "end": "2026-11-10T18:00"
+    }
+   ],
+   "venue": "HIDDEN gallery",
+   "area": "Praha 3 – Žižkov",
+   "lat": 50.0824797,
+   "lng": 14.4461793,
+   "cat": "opening",
+   "free": true
+  },
+  {
    "id": "goout:9600447",
    "source": "goout",
    "name": {
@@ -2451,6 +2082,31 @@
    "lat": 50.0871,
    "lng": 14.4299,
    "cat": "opening",
+   "free": true
+  },
+  {
+   "id": "goout:9606366",
+   "source": "goout",
+   "name": {
+    "cs": "Božena"
+   },
+   "summary": {
+    "cs": "Česká dobrovolnická organizace Team 4 Ukraine se spojila s Dárkem pro Putina a slovenskou organizací Mier Ukraine a společně vybrali peníze na odminovací stroj Božena. Dokument mapuje cestu Boženy k hasičům z Charkovské oblasti. Ukrajina se kvůli ruské invazi stala jednou z nejvíce zaminovaných zemí světa. Miny již usmrtily přes 460 civilistů a odminování území bude trvat desítky let. V…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/bozena/szqeuoy/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-11T16:00",
+     "end": "2026-11-11T23:59"
+    }
+   ],
+   "venue": "Kino Atlas",
+   "area": "Praha 8",
+   "lat": 50.0912,
+   "lng": 14.4385,
+   "cat": "film",
    "free": true
   },
   {
@@ -3180,6 +2836,31 @@
    "lat": 50.0887,
    "lng": 14.4156,
    "cat": "city",
+   "free": true
+  },
+  {
+   "id": "goout:9590356",
+   "source": "goout",
+   "name": {
+    "cs": "Švédská hudba"
+   },
+   "summary": {
+    "cs": "Švédská vojenská hudba slaví v roce 2026 pět set let. Film sleduje těleso, které spojuje státní ceremonie s koncertními pódii a vojenskou tradici s živým hudebním řemeslem — a ptá se, co vlastně znamená hrát ve službě. Försvarsmusiken – Spojuje, posiluje, povznáší"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/svedska-hudba/szgotny/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-12T18:05",
+     "end": "2026-11-12T23:59"
+    }
+   ],
+   "venue": "Kino Atlas",
+   "area": "Praha 8",
+   "lat": 50.0912,
+   "lng": 14.4385,
+   "cat": "film",
    "free": true
   },
   {
@@ -5451,6 +5132,309 @@
    "free": true
   },
   {
+   "id": "goout:9575632",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Co si šeptají andělé"
+   },
+   "summary": {
+    "cs": "S postavami andělů se mezi „Starými mistry“ setkáváme velmi často. O čem si povídají, jací jsou a jak vypadají? Porozumíme němé řeči jejich gest a výrazů? V ateliéru stvoříme své vlastní andělské bytosti. Program je možné rozšířit o vánoční tématiku. **Cíl programu:** - Cílem programu je nalézt andělské bytosti v jednotlivých slohových obdobích a rozpoznat jejích charakteristické znaky. -…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-co-si-septaji-andele/szhavmy/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-25T10:00",
+     "end": "2026-11-25T23:59"
+    }
+   ],
+   "venue": "Schwarzenberský palác",
+   "area": "Praha 1",
+   "lat": 50.0891,
+   "lng": 14.3969,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9575292",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Svět na stole"
+   },
+   "summary": {
+    "cs": "Co se děje v zátiší? Mohou se namalované předměty zhmotnit před našima očima? Je v obraze čas, pohyb, zvuk, vůně? Zastavíme se u zátiší s vázou a květinami nebo u zobrazení bohatě prostřeného stolu a zapojíme naše smysly. Dokážeme si představit vůně, pachy linoucí se z lahůdek v obraze a cítit jemné vibrace motýlích křídel? Zdánlivě tichý a statický svět věcí nakonec pod rukama dětí ožije v…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-svet-na-stole/szrlumy/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-25T10:00",
+     "end": "2026-11-25T23:59"
+    }
+   ],
+   "venue": "Šternberský palác",
+   "area": "Praha 1",
+   "lat": 50.0906,
+   "lng": 14.3967,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9575290",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Báseň ve smyčce"
+   },
+   "summary": {
+    "cs": "Jak napsat báseň beze slov? A jak ji přečíst? Inspirujeme se životem a tvorbou básníka, výtvarníka a autora mnoha originálních výtvarných technik – Jiřího Koláře. Zkusíme společně přečíst, rozplést i zauzlovat vlastní báseň ve smyčce. V prostředí expozice Konec černobílé doby vytvoříme vizuální báseň a vyzkoušíme sestavit básně podle návodu. Společně nalezneme, co se skrývá za předmětnou (či…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-basen-ve-smycce/szplumy/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-25T10:00",
+     "end": "2026-11-25T23:59"
+    }
+   ],
+   "venue": "Veletržní palác",
+   "area": "Praha 7",
+   "lat": 50.1012,
+   "lng": 14.4328,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9575068",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Silák Herakles"
+   },
+   "summary": {
+    "cs": "Už jste někdy číhali skrytí v přírodě s nastraženýma ušima a očima na stopkách? V takových chvílích vnímáme i ty nejtišší zvuky z okolí a naše představivost pracuje naplno. Zveme vás na výpravu do starověkého Řecka, plného mýtů a pověstí. Setkáme se s velkým hrdinou Heraklem ve chvíli nejhlubšího soustředění. Jaký je jeho příběh a cesta? Co asi v dálce pozoruje? A kdo nebo co pozoruje jeho?…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-silak-herakles/szscumy/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-25T10:00",
+     "end": "2026-11-25T23:59"
+    }
+   ],
+   "venue": "Veletržní palác",
+   "area": "Praha 7",
+   "lat": 50.1012,
+   "lng": 14.4328,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9574890",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – V galerii se skicákem: 1918–1938: První republika"
+   },
+   "summary": {
+    "cs": "Přijďte si prohlédnout bohatou škálu uměleckých přístupů moderního a současného umění. Ponořte se i v rámci skupiny do svého světa, kde je prostor a čas dívat se a tvořit. Objevujte. Skicujte v expozici 1918–1938: První republika. Ve Veletržním paláci nyní nabízíme unikátní triptych výstav 19.-21. století. Na trojici výstav navazujeme nabídkou vzdělávacích programů V galerii se skicákem. Jedná…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-v-galerii-se-skicakem-1918-1938-prvni-republika/szputmy/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-25T10:00",
+     "end": "2026-11-25T23:59"
+    }
+   ],
+   "venue": "Veletržní palác",
+   "area": "Praha 7",
+   "lat": 50.1012,
+   "lng": 14.4328,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9539305",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Od světla k barvě"
+   },
+   "summary": {
+    "cs": "Jak to, že vidíme barvy? Jaká je souvislost mezi barvou a světlem? Společně vstoupíme do laboratoře plné barevného světla a budeme pozorovat fyzikální jevy. Objevíme souvislosti mezi vědeckými poznatky a malbou impresionistických malířů 19. století. Prozkoumáme, co všechno můžeme se znalostmi o barvách a světle vyčíst z obrazů. V ateliéru vytvoříme své vlastní obrazy za pomoci barevných světel a…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-od-svetla-k-barve/szfwmky/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-25T10:00",
+     "end": "2026-11-25T23:59"
+    }
+   ],
+   "venue": "Veletržní palác",
+   "area": "Praha 7",
+   "lat": 50.1012,
+   "lng": 14.4328,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9532859",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Vítejte v galerii"
+   },
+   "summary": {
+    "cs": "Nechme společně zaznít otázku „Co je to galerie?“ a v průběhu programu na ni hledejme odpověď. V rolích přátel umění a učenců se vydáme po stopách jejího vzniku a smyslu v proměnách času. Společně prozkoumáme, co všechno můžeme v galerii vidět, kdo ji navštěvuje a k čemu takové místo vlastně slouží. Založíme galerii a obohatíme ji o umělecké žánry, jako jsou portrét, krajinomalba a zátiší.…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-vitejte-v-galerii/szjocky/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-25T10:00",
+     "end": "2026-11-25T23:59"
+    }
+   ],
+   "venue": "Veletržní palác",
+   "area": "Praha 7",
+   "lat": 50.1012,
+   "lng": 14.4328,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9532781",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Skriptorium – dílna středověkého písaře"
+   },
+   "summary": {
+    "cs": "Přijďte se seznámit se skriptoriem, písařskou dílnou, místem, kde ve středověku vznikaly knihy. Povíme si o tom, jak, čím a na co se dříve psalo, písemnosti poté budeme hledat i na středověkých uměleckých dílech. Sami si také vyzkoušíme práci písaře a zjistíme, jaké by to bylo, kdybychom i dnes psali husím brkem a ilustrace malovali ručně. **Cíl programu:** - Seznámit se s prací písaře, s…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-skriptorium-dilna-stredovekeho-pisare/szglcky/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-25T10:00",
+     "end": "2026-11-25T23:59"
+    }
+   ],
+   "venue": "Anežský klášter",
+   "area": "Praha 1 – Staré Město",
+   "lat": 50.092,
+   "lng": 14.4235,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9575636",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Dílna středověkého malíře"
+   },
+   "summary": {
+    "cs": "Povídání o Karlu IV. a jeho dvorním malíři Theodorikovi, o hradu Karlštejně a kapli sv. Kříže. Co všechno nám prozradí Theodorikovy obrazy? Seznámíme se s provozem dílny středověkého malíře, s tajemstvím vzniku deskových obrazů a s pojmy mistr, tovaryš, učedník, dílna, vzorník ad. Nejprve nás čeká aktivita v expozici, poté společně proměníme dětský ateliér v „opravdovou Theodorikovu dílnu“, ve…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-dilna-stredovekeho-malire/szlavmy/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-25T11:00",
+     "end": "2026-11-25T23:59"
+    }
+   ],
+   "venue": "Anežský klášter",
+   "area": "Praha 1 – Staré Město",
+   "lat": 50.092,
+   "lng": 14.4235,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9532796",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – O baroku všemi smysly"
+   },
+   "summary": {
+    "cs": "Barokní umělci věděli, jak nejlépe působit na lidské smysly. Jak dnes baroko působí na nás? Vydejme se na průzkum s pomocí zraku a hmatu. Povedou nás zářivé či temné barvy obrazů, ale také oblé tvary soch. Prozkoumáme hmatovou kolekci Doteky baroka, kde porušíme pravidlo „nedotýkejte se“ a vstoupíme do světa nevidomých. Hmatové zážitky využijeme při modelování v ateliéru. **Cíl programu:** -…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-o-baroku-vsemi-smysly/szvlcky/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-25T11:00",
+     "end": "2026-11-25T23:59"
+    }
+   ],
+   "venue": "Schwarzenberský palác",
+   "area": "Praha 1",
+   "lat": 50.0891,
+   "lng": 14.3969,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9575651",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Poklady gotického malířství a sochařství"
+   },
+   "summary": {
+    "cs": "Přijďte do Anežského kláštera seznámit se s vývojem gotického umění v Čechách! Pořad formou interaktivní komentované prohlídky představuje studentům nejznámější díla sbírky od 13. do 16. století. Zaměřuje se na vývoj gotického umění v kulturně-historickém kontextu, na význam a funkci středověkých děl, technologii vzniku, výklad ikonografie a symboliky. **Cíl programu:** - Seznámit studenty s…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-poklady-gotickeho-malirstvi-a-socharstvi/szbbvmy/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-25T13:00",
+     "end": "2026-11-25T23:59"
+    }
+   ],
+   "venue": "Anežský klášter",
+   "area": "Praha 1 – Staré Město",
+   "lat": 50.092,
+   "lng": 14.4235,
+   "cat": "kids",
+   "free": true,
+   "also": [
+    "goout"
+   ]
+  },
+  {
+   "id": "goout:9575357",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Jak se dívat na obraz?"
+   },
+   "summary": {
+    "cs": "Program je určen pro první návštěvu galerie. Studenty seznámí se základními formotvornými znaky obrazu: kompozice, barva, světlo, prostor, pohyb, proporce a s proměnami těchto znaků v slohových obdobích gotiky, renesance, baroka. Spolu s formálními znaky uměleckého díla bude sledován vývoj témat a výtvarných technik. Program probíhá v expozici dialogickou formou, je doplněn ukázkami reprodukcí a…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-jak-se-divat-na-obraz/szhoumy/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-25T13:00",
+     "end": "2026-11-25T23:59"
+    }
+   ],
+   "venue": "Šternberský palác",
+   "area": "Praha 1",
+   "lat": 50.0906,
+   "lng": 14.3967,
+   "cat": "kids",
+   "free": true
+  },
+  {
    "id": "artmap:54449",
    "source": "artmap",
    "name": {
@@ -5474,6 +5458,31 @@
    "lng": 14.4449917,
    "cat": "talk",
    "free": "likely"
+  },
+  {
+   "id": "goout:9605262",
+   "source": "goout",
+   "name": {
+    "cs": "All You Can Read s Adamem Gebrianem"
+   },
+   "summary": {
+    "cs": "Které knihy dokážou změnit náš pohled na město? Architekt, kritik a popularizátor architektury Adam Gebrian představí své osobní „tasting menu“ knih, které ovlivnily jeho přemýšlení o stavbách, veřejném prostoru i každodenním životě ve městě. Od klasických urbanistických teorií přes knihu Život mezi budovami až po monumentální S, M, L, XL přiblíží různé způsoby, jak architekturu pozorovat a…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/all-you-can-read-s-adamem-gebrianem/szmksoy/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-25T18:00",
+     "end": "2026-11-25T23:59"
+    }
+   ],
+   "venue": "CAMP – Centrum architektury a městského plánování",
+   "area": "Praha 8 – Karlín",
+   "lat": 50.0929,
+   "lng": 14.4435,
+   "cat": "city",
+   "free": true
   },
   {
    "id": "artmap:54445",
