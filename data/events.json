@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T04:54+01:00",
+ "generated": "2026-11-08T04:56+01:00",
  "events": [
   {
    "id": "goout:8277192",
@@ -124,82 +124,6 @@
    "lat": 50.0817,
    "lng": 14.4528,
    "cat": "art",
-   "free": true
-  },
-  {
-   "id": "prague.eu:festival-ai-pro-kazdeho",
-   "source": "prague.eu",
-   "name": {
-    "cs": "Festival AI pro každého"
-   },
-   "summary": {
-    "cs": "Ministerstvo průmyslu a obchodu pořádá v sobotu 7. listopadu druhý ročník Festivalu AI pro každého. Od 10 do 17 hodin nabídne v historické budově MPO na pražském Františku interaktivní ukázky umělé inteligence, robotiky, virtuální reality nebo využití AI ve zdravotnictví, vzdělávání, kyberbezpečnosti a každodenním životě. Festival je určen široké veřejnosti včetně rodin s dětmi a vstup je zdarma. Umělou inteligenci představí především prostřednictvím konkrétních aplikací, které si mohou návštěvníci sami vyzkoušet. Na jednom místě budou zastoupeny české technologické firmy, startupy, výzkumné organizace, univerzity a další aktéři českého AI ekosystému\r\n\r\n"
-   },
-   "url": {
-    "cs": "https://prague.eu/cs/akce/festival-ai-pro-kazdeho/"
-   },
-   "image": "https://cdn.praguecitytourism.city/2026/11/04093234/08_Festival-AI-pro-kazdeho.jpg",
-   "dates": [
-    {
-     "end": "2026-11-07T17:00",
-     "start": "2026-11-07T10:00"
-    }
-   ],
-   "venue": "Ministerstvo průmyslu a obchodu",
-   "area": "Staré Město",
-   "lat": 50.0929276,
-   "lng": 14.4258889,
-   "cat": "city",
-   "free": true
-  },
-  {
-   "area": "Praha 8",
-   "cat": "talk",
-   "dates": [
-    {
-     "end": "2026-11-07T17:00",
-     "start": "2026-11-07T14:00"
-    }
-   ],
-   "free": "likely",
-   "id": "artmap:54524",
-   "lat": 50.0729059,
-   "lng": 14.4179984,
-   "name": {
-    "cs": "CAMP Tour: Propojené město z tramvaje"
-   },
-   "source": "artmap",
-   "summary": {
-    "cs": "Architektura a urbanismus"
-   },
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/camp-tour-propojene-mesto-z-tramvaje"
-   },
-   "venue": "CAMP"
-  },
-  {
-   "id": "goout:9590084",
-   "source": "goout",
-   "name": {
-    "cs": "Sousedské jamování"
-   },
-   "summary": {
-    "cs": "Komunitní hudební večer nabídne prostor pro společné hraní, improvizaci a sdílení radosti z hudby bez ohledu na úroveň zkušeností. Určen je jak začínajícím hudebníkům, kteří teprve objevují svůj nástroj, tak těm, kteří mají za sebou dlouholetou hudební cestu a chtějí se k ní znovu vrátit. Každý první pátek v měsíci se setkání promění v otevřené sousedské jamování plné spontánní hudby,…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/sousedske-jamovani/szjdtny/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-07T19:30",
-     "end": "2026-11-07T23:59"
-    }
-   ],
-   "venue": "Atrium Žižkov",
-   "area": "Praha 3 – Žižkov",
-   "lat": 50.0817,
-   "lng": 14.4528,
-   "cat": "music",
    "free": true
   },
   {
@@ -2652,8 +2576,8 @@
    "image": "https://cdn.praguecitytourism.city/2024/05/10092135/Lichtenstejnky-palac.jpg",
    "dates": [
     {
-     "start": "2026-11-17T00:00",
-     "end": "2026-11-17T23:59"
+     "end": "2026-11-17T23:59",
+     "start": "2026-11-17T00:00"
     }
    ],
    "venue": "Lichtenštejnský palác — Kampa",
@@ -3862,6 +3786,29 @@
    "lat": 50.0832,
    "lng": 14.4177,
    "cat": "city",
+   "free": true
+  },
+  {
+   "id": "crossclub:8714-sundej-se-sunday",
+   "source": "crossclub",
+   "name": {
+    "cs": "Sundej Se Sunday"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://www.crossclub.cz/cs/program/8714-sundej-se-sunday/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-22T22:00",
+     "end": "2026-11-22T22:00"
+    }
+   ],
+   "venue": "Cross Club",
+   "area": "Holešovice",
+   "lat": null,
+   "lng": null,
+   "cat": "club",
    "free": true
   },
   {
@@ -5217,8 +5164,8 @@
    "image": "https://cdn.praguecitytourism.city/2025/10/29123338/sph_connorjandourekstudio_web-1200-20261027-104009.jpg",
    "dates": [
     {
-     "start": "2026-11-28T09:00",
-     "end": "2026-11-28T17:00"
+     "end": "2026-11-28T17:00",
+     "start": "2026-11-28T09:00"
     }
    ],
    "venue": "Pražský hrad",
@@ -5439,8 +5386,8 @@
    "image": "https://cdn.praguecitytourism.city/2024/09/16143923/565097884_1227433556086421_7619027584165356990_n.jpg",
    "dates": [
     {
-     "start": "2026-12-13T10:00",
-     "end": "2026-12-13T19:00"
+     "end": "2026-12-13T19:00",
+     "start": "2026-12-13T10:00"
     }
    ],
    "venue": "Novoměstská radnice",
