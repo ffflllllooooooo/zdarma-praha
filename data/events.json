@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T04:59+01:00",
+ "generated": "2026-11-10T04:55+01:00",
  "events": [
   {
    "id": "goout:8277192",
@@ -100,38 +100,6 @@
    "free": true
   },
   {
-   "id": "goout:9582632",
-   "source": "goout",
-   "name": {
-    "cs": "KLUB PŘÁTEL: Anna Jagellonská (1503–1547) Královna na prahu nové doby"
-   },
-   "summary": {
-    "cs": "Komentovaná prohlídka pro členy *Klubu přátel NGP* výstavy *Anna Jagellonská (1503-1547). Královna na prahu nové doby*."
-   },
-   "url": {
-    "cs": "https://goout.net/cs/klub-pratel-anna-jagellonska-1503-1547-kralovna-na-prahu-nove-doby/szhfhny/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-09T11:00",
-     "end": "2026-11-09T23:59"
-    }
-   ],
-   "venue": "Valdštejnská jízdárna",
-   "area": "Praha 1",
-   "lat": 50.0909,
-   "lng": 14.4095,
-   "cat": "art",
-   "free": true,
-   "also": [
-    "goout",
-    "goout",
-    "goout",
-    "goout",
-    "goout"
-   ]
-  },
-  {
    "id": "artmap:54657",
    "source": "artmap",
    "name": {
@@ -155,127 +123,6 @@
    "lng": 14.403116,
    "cat": "talk",
    "free": "likely"
-  },
-  {
-   "id": "artmap:54511",
-   "source": "artmap",
-   "name": {
-    "cs": "Hedvika Ocásková, Michal Rejzek – Krásné sbohem"
-   },
-   "summary": {
-    "cs": "Kresba a grafika"
-   },
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/hedvika-ocaskova-michal-rejzek-krasne-sbohem-2"
-   },
-   "dates": [
-    {
-     "start": "2026-11-09T18:00",
-     "end": "2026-11-09T18:00"
-    }
-   ],
-   "venue": "Artotéka Městské knihovny v Praze",
-   "area": "Praha 11 – Chodov",
-   "lat": 50.0253588,
-   "lng": 14.5187288,
-   "cat": "opening",
-   "free": true
-  },
-  {
-   "id": "artmap:54688",
-   "source": "artmap",
-   "name": {
-    "cs": "Komunál: Atlas hub"
-   },
-   "summary": {
-    "cs": "Kresba a grafika"
-   },
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/komunal-atlas-hub-2026-11-09-1900"
-   },
-   "dates": [
-    {
-     "start": "2026-11-09T19:00",
-     "end": "2026-11-09T19:00"
-    }
-   ],
-   "venue": "atelier diptych",
-   "area": "Praha 4 – Nusle",
-   "lat": 50.0621061,
-   "lng": 14.4411461,
-   "cat": "opening",
-   "free": true
-  },
-  {
-   "id": "artmap:54441",
-   "source": "artmap",
-   "name": {
-    "cs": "Laboratoř Palestina"
-   },
-   "summary": {},
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/laborator-palestina"
-   },
-   "dates": [
-    {
-     "start": "2026-11-09T19:00",
-     "end": "2026-11-09T22:00"
-    }
-   ],
-   "venue": "Laichterův dům",
-   "area": "Praha 2",
-   "lat": 50.078979,
-   "lng": 14.4449917,
-   "cat": "talk",
-   "free": "likely"
-  },
-  {
-   "id": "crossclub:8701-los-tekkenos",
-   "source": "crossclub",
-   "name": {
-    "cs": "Los Tekkenos"
-   },
-   "summary": {},
-   "url": {
-    "cs": "https://www.crossclub.cz/cs/program/8701-los-tekkenos/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-09T20:00",
-     "end": "2026-11-09T20:00"
-    }
-   ],
-   "venue": "Cross Club",
-   "area": "Holešovice",
-   "lat": null,
-   "lng": null,
-   "cat": "club",
-   "free": true
-  },
-  {
-   "id": "goout:9591733",
-   "source": "goout",
-   "name": {
-    "cs": "POOR BUT S€XY | Východoevropská poslechovka se Štěpánem Šandou a Pavlem Turkem"
-   },
-   "summary": {
-    "cs": "Na cestě z Vídně do Prahy používal W. A. Mozart ve svém rozverném duchu přezdívku Punkitititi, kterou vyjadřoval mimo šprým i to, že překračuje hranici dvou světů. S východní (a střední, chcete-li) Evropou se pojila určitá ošuntělost, nepřehlednost i mnohohlasí ještě předtím, než se stala součástí sovětského bloku. Co z toho se ozývá v místní audiovizuální tvorbě představí další poslechový večer…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/poor-but-s-xy-vychodoevropska-poslechovka-se-stepanem-sandou-a-pavlem-turkem/szitvny/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-09T20:00",
-     "end": "2026-11-09T22:00"
-    }
-   ],
-   "venue": "Kampus Hybernská",
-   "area": "Praha 1 – Nové Město",
-   "lat": 50.0871,
-   "lng": 14.4299,
-   "cat": "city",
-   "free": true
   },
   {
    "id": "goout:9586626",
@@ -583,6 +430,31 @@
    "lng": 14.4385,
    "cat": "film",
    "free": true
+  },
+  {
+   "id": "artmap:54727",
+   "source": "artmap",
+   "name": {
+    "cs": "Já, které neznám"
+   },
+   "summary": {
+    "cs": "Malba, Fotografie"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/ja-ktere-neznam-10-11"
+   },
+   "dates": [
+    {
+     "start": "2026-11-10T17:30",
+     "end": "2026-11-10T19:00"
+    }
+   ],
+   "venue": "NOOKART studio",
+   "area": "Praha 1",
+   "lat": 50.08149,
+   "lng": 14.4250249,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "artmap:54585",
@@ -1182,6 +1054,56 @@
    "free": "likely"
   },
   {
+   "id": "artmap:54733",
+   "source": "artmap",
+   "name": {
+    "cs": "Martin Zhouf – Obrazy příběhů / ilustrace fantazií"
+   },
+   "summary": {
+    "cs": "Malba"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/martin-zhouf-obrazy-pribehu-ilustrace-fantazii-2026-11-11-1800"
+   },
+   "dates": [
+    {
+     "start": "2026-11-11T18:00",
+     "end": "2026-11-11T18:00"
+    }
+   ],
+   "venue": "J.A. Galerie MAT",
+   "area": "Praha 2",
+   "lat": 50.0777486,
+   "lng": 14.419301,
+   "cat": "opening",
+   "free": true
+  },
+  {
+   "id": "artmap:54742",
+   "source": "artmap",
+   "name": {
+    "cs": "Emma Štěpánová – Nehmotné archivy"
+   },
+   "summary": {
+    "cs": "Socha a objekt, Současné umění"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/emma-stepanova-nehmotne-archivy-2026-11-11-1800"
+   },
+   "dates": [
+    {
+     "start": "2026-11-11T18:00",
+     "end": "2026-11-11T18:00"
+    }
+   ],
+   "venue": "Galerijní laboratoř",
+   "area": "Praha 2",
+   "lat": 50.068588,
+   "lng": 14.4147487,
+   "cat": "opening",
+   "free": true
+  },
+  {
    "id": "artmap:54509",
    "source": "artmap",
    "name": {
@@ -1735,32 +1657,6 @@
    "free": "likely"
   },
   {
-   "id": "artmap:54644",
-   "source": "artmap",
-   "name": {
-    "cs": "Křest knihy Jazyk nerovnosti"
-   },
-   "summary": {},
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/krest-knihy-jazyk-nerovnosti"
-   },
-   "dates": [
-    {
-     "start": "2026-11-12T18:00",
-     "end": "2026-11-12T18:00"
-    }
-   ],
-   "venue": "Knihkupectví ArtMap v Praze",
-   "area": "Praha 1",
-   "lat": 50.0865932,
-   "lng": 14.4298197,
-   "cat": "talk",
-   "free": "likely",
-   "also": [
-    "artmap"
-   ]
-  },
-  {
    "id": "artmap:54187",
    "source": "artmap",
    "name": {
@@ -1784,6 +1680,31 @@
    "lng": 14.4058478,
    "cat": "talk",
    "free": "likely"
+  },
+  {
+   "id": "artmap:54729",
+   "source": "artmap",
+   "name": {
+    "cs": "Miloslava Dočkalová – Sexy Silver"
+   },
+   "summary": {
+    "cs": "Fotografie, Koncept"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/miloslava-dockalova-sexy-silver-2026-11-12-1800"
+   },
+   "dates": [
+    {
+     "start": "2026-11-12T18:00",
+     "end": "2026-11-12T18:00"
+    }
+   ],
+   "venue": "Nezávislá iniciativa",
+   "area": "Praha 1",
+   "lat": 50.086634,
+   "lng": 14.41994,
+   "cat": "opening",
+   "free": true
   },
   {
    "id": "artmap:54506",
@@ -1892,7 +1813,7 @@
     "cs": "Švédská hudba"
    },
    "summary": {
-    "cs": "Švédská vojenská hudba slaví v roce 2026 pět set let. Film sleduje těleso, které spojuje státní ceremonie s koncertními pódii a vojenskou tradici s živým hudebním řemeslem — a ptá se, co vlastně znamená hrát ve službě. Försvarsmusiken – Spojuje, posiluje, povznáší"
+    "cs": "Švédská vojenská hudba slaví v roce 2026 pět set let. Film sleduje těleso, které spojuje státní ceremonie s koncertními pódii a vojenskou tradici s živým hudebním řemeslem — a ptá se, co vlastně znamená hrát ve službě. Försvarsmusiken – Spojuje, posiluje, povznáší *V původním znění s českými titulky.*"
    },
    "url": {
     "cs": "https://goout.net/cs/svedska-hudba/szgotny/"
@@ -4016,6 +3937,31 @@
    "free": "likely"
   },
   {
+   "id": "artmap:54697",
+   "source": "artmap",
+   "name": {
+    "cs": "Architekti věčnosti"
+   },
+   "summary": {
+    "cs": "Architektura a urbanismus"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/architekti-vecnosti"
+   },
+   "dates": [
+    {
+     "start": "2026-11-22T14:00",
+     "end": "2026-11-22T15:40"
+    }
+   ],
+   "venue": "Open House Praha",
+   "area": "Praha 3",
+   "lat": 50.0796427,
+   "lng": 14.473144,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
    "id": "crossclub:8714-sundej-se-sunday",
    "source": "crossclub",
    "name": {
@@ -4087,6 +4033,29 @@
    "lng": 14.4449917,
    "cat": "talk",
    "free": "likely"
+  },
+  {
+   "id": "crossclub:8721-prodigy-afterparty-rave",
+   "source": "crossclub",
+   "name": {
+    "cs": "Prodigy Afterparty & Rave"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://www.crossclub.cz/cs/program/8721-prodigy-afterparty-rave/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-23T20:00",
+     "end": "2026-11-23T20:00"
+    }
+   ],
+   "venue": "Cross Club",
+   "area": "Holešovice",
+   "lat": null,
+   "lng": null,
+   "cat": "club",
+   "free": true
   },
   {
    "id": "goout:9591743",
@@ -4928,7 +4897,7 @@
     "cs": "All You Can Read s Adamem Gebrianem"
    },
    "summary": {
-    "cs": "Které knihy dokážou změnit náš pohled na město? Architekt, kritik a popularizátor architektury Adam Gebrian představí své osobní „tasting menu“ knih, které ovlivnily jeho přemýšlení o stavbách, veřejném prostoru i každodenním životě ve městě. Od klasických urbanistických teorií přes knihu Život mezi budovami až po monumentální S, M, L, XL přiblíží různé způsoby, jak architekturu pozorovat a…"
+    "cs": "Které knihy dokážou změnit náš pohled na město? Architekt, kritik a popularizátor architektury Adam Gebrian představí své osobní „ochutnávkové menu“ knih, které ovlivnily jeho přemýšlení o stavbách, veřejném prostoru i každodenním životě ve městě. Od klasických urbanistických teorií přes knihu Život mezi budovami až po monumentální S,M,L,XL přiblíží různé způsoby, jak architekturu pozorovat a…"
    },
    "url": {
     "cs": "https://goout.net/cs/all-you-can-read-s-adamem-gebrianem/szmksoy/"
@@ -5499,6 +5468,31 @@
    "free": true
   },
   {
+   "id": "goout:9612577",
+   "source": "goout",
+   "name": {
+    "cs": "Urbánní ekonomie"
+   },
+   "summary": {
+    "cs": "Při plánování rozvoje města se využívá řada zdánlivě podobných regulativů, které však mají odlišné ekonomické dopady. Co jsou zastavitelné plochy? Co znamená funkční využití a intenzita využití území? A proč je důležitá občanská vybavenost? Přednáška představí nástroje územního plánování z pohledu ekonomů a nabídne odpovědi na otázky, proč může plánované město přinášet vyšší kvalitu života než…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/urbanni-ekonomie/szcdfpy/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-28T18:00",
+     "end": "2026-11-28T20:00"
+    }
+   ],
+   "venue": "CAMP – Centrum architektury a městského plánování",
+   "area": "Praha 8 – Karlín",
+   "lat": 50.0929,
+   "lng": 14.4435,
+   "cat": "city",
+   "free": true
+  },
+  {
    "id": "punctum:poisonous-frequencies-dj-kalervo-dj-tob@punctum.cz",
    "source": "punctum",
    "name": {
@@ -5524,6 +5518,56 @@
    "free": true
   },
   {
+   "id": "goout:9574311",
+   "source": "goout",
+   "name": {
+    "cs": "Louskáček"
+   },
+   "summary": {
+    "cs": "Divadlo U Hasičů uvede divadelní představení pro děti s názvem *Louskáček*."
+   },
+   "url": {
+    "cs": "https://goout.net/cs/louskacek/szlwsmy/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-30T09:30",
+     "end": "2026-11-30T23:59"
+    }
+   ],
+   "venue": "Divadlo U Hasičů",
+   "area": "Praha 2 – Vinohrady",
+   "lat": 50.0766,
+   "lng": 14.4384,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "artmap:54698",
+   "source": "artmap",
+   "name": {
+    "cs": "Sídliště I."
+   },
+   "summary": {
+    "cs": "Architektura a urbanismus"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/sidliste-i"
+   },
+   "dates": [
+    {
+     "start": "2026-11-30T16:30",
+     "end": "2026-11-30T18:00"
+    }
+   ],
+   "venue": "Open House Praha",
+   "area": "Praha 8",
+   "lat": 50.0985374,
+   "lng": 14.4686473,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
    "id": "artmap:54446",
    "source": "artmap",
    "name": {
@@ -5545,6 +5589,31 @@
    "lng": 14.4449917,
    "cat": "talk",
    "free": "likely"
+  },
+  {
+   "id": "goout:9591739",
+   "source": "goout",
+   "name": {
+    "cs": "Raději zešílet v divočině"
+   },
+   "summary": {
+    "cs": "Pronikněte do magického světa šumavských samotářů. HYB4 Film ve spolupráci s KineDok uvádí nezapomenutelný dokument Raději zešílet v divočině. Film režiséra Mira Rema volně rozvíjí motiv stejnojmenné knihy Aleše Palána a Jana Šíbíka o dvojčatech Františku a Ondřeji Klišíkových – věčných dětech žijících v silném propojení se svými domácími zvířaty. Společně sdílejí každý den, každou rutinu,…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/radeji-zesilet-v-divocine/szotvny/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-30T19:00",
+     "end": "2026-11-30T22:00"
+    }
+   ],
+   "venue": "Kampus Hybernská",
+   "area": "Praha 1 – Nové Město",
+   "lat": 50.0871,
+   "lng": 14.4299,
+   "cat": "city",
+   "free": true
   },
   {
    "id": "artmap:54188",
@@ -5695,32 +5764,6 @@
    "free": "likely"
   },
   {
-   "id": "prague.eu:novomestsky-advent",
-   "source": "prague.eu",
-   "name": {
-    "cs": "Novoměstský advent"
-   },
-   "summary": {
-    "cs": "Užijte si předvánoční atmosféru v historických prostorách Novoměstské radnice! Novoměstský advent 2026 nabídne v neděli 13. prosince tradiční vánoční jarmark s řemeslnými výrobky, originálními dárky a pochutinami, tvořivé dílny i kulturní program pro malé i velké. Těšit se můžete na divadelní představení, vystoupení pěveckých sborů a při příznivém počasí také na výhled na vánočně naladěnou Prahu z věže radnice. Vstup zdarma."
-   },
-   "url": {
-    "cs": "https://prague.eu/cs/akce/novomestsky-advent/"
-   },
-   "image": "https://cdn.praguecitytourism.city/2024/09/16143923/565097884_1227433556086421_7619027584165356990_n.jpg",
-   "dates": [
-    {
-     "end": "2026-12-13T19:00",
-     "start": "2026-12-13T10:00"
-    }
-   ],
-   "venue": "Novoměstská radnice",
-   "area": "Nové Město",
-   "lat": 50.0783044239659,
-   "lng": 14.421287457672136,
-   "cat": "city",
-   "free": true
-  },
-  {
    "id": "artmap:54507",
    "source": "artmap",
    "name": {
@@ -5742,6 +5785,29 @@
    "area": "Praha 1",
    "lat": 50.090172,
    "lng": 14.415219,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
+   "id": "artmap:54699",
+   "source": "artmap",
+   "name": {
+    "cs": "Kouzlo vitráže"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/kouzlo-vitraze"
+   },
+   "dates": [
+    {
+     "start": "2026-12-18T18:00",
+     "end": "2026-12-18T20:00"
+    }
+   ],
+   "venue": "Open House Praha",
+   "area": "Praha 1",
+   "lat": 50.0918437,
+   "lng": 14.4210436,
    "cat": "talk",
    "free": "likely"
   },
