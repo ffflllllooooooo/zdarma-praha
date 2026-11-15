@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T04:55+01:00",
+ "generated": "2026-11-15T04:56+01:00",
  "events": [
   {
    "id": "goout:8277192",
@@ -77,6 +77,29 @@
    "free": true
   },
   {
+   "id": "petrohradska:e9376a45-bae7-4127-bddb-07ba0fca4ffa",
+   "source": "petrohradska",
+   "name": {
+    "cs": "PRODLOUŽENO: Somebody else's dream (A.M.180 kolektiv výstava)"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://www.petrohradskakolektiv.com/verejne/petrohradska-kolektiv/program/e9376a45-bae7-4127-bddb-07ba0fca4ffa"
+   },
+   "dates": [
+    {
+     "start": "2026-10-23T19:00",
+     "end": "2026-12-06T22:00"
+    }
+   ],
+   "venue": "Petrohradská kolektiv — Galerie",
+   "area": "Vršovice",
+   "lat": null,
+   "lng": null,
+   "cat": "art",
+   "free": "likely"
+  },
+  {
    "id": "goout:9590249",
    "source": "goout",
    "name": {
@@ -99,53 +122,6 @@
    "lat": 50.0817,
    "lng": 14.4528,
    "cat": "art",
-   "free": true
-  },
-  {
-   "id": "prague.eu:farmarske-trhy-na-kulataku",
-   "source": "prague.eu",
-   "name": {
-    "cs": "Farmářské trhy na Kulaťáku"
-   },
-   "summary": {
-    "cs": "Farmářský trh Kulaťák patří k největším pravidelným trhům v Praze a dlouhodobě nabízí kvalitní produkty od českých farmářů a výrobců. Od začátku března vždy v sobotu proměňuje Vítězné náměstí v příjemné místo plné sezónních chutí a sousedské atmosféry. Každý týden zde pořídíte čerstvé ovoce a zeleninu, pečivo, maso, ryby, sýry, květiny i další produkty s jasným původem, doplněné o pestrý street food a vybrané zahraniční delikatesy.   "
-   },
-   "url": {
-    "cs": "https://prague.eu/cs/akce/farmarske-trhy-na-kulataku/",
-    "en": "https://prague.eu/en/akce/farmers-markets-at-kulatak-vitezne-namesti/"
-   },
-   "image": "https://cdn.praguecitytourism.city/2024/12/15122142/481086264_1041559144679445_6937361057754772119_n.jpg",
-   "dates": [
-    {
-     "end": "2026-11-14T14:00",
-     "start": "2026-11-14T08:00"
-    },
-    {
-     "end": "2026-11-21T14:00",
-     "start": "2026-11-21T08:00"
-    },
-    {
-     "end": "2026-11-28T14:00",
-     "start": "2026-11-28T08:00"
-    },
-    {
-     "end": "2026-12-05T14:00",
-     "start": "2026-12-05T08:00"
-    },
-    {
-     "end": "2026-12-12T14:00",
-     "start": "2026-12-12T08:00"
-    },
-    {
-     "end": "2026-12-19T14:00",
-     "start": "2026-12-19T08:00"
-    }
-   ],
-   "venue": "Farmářské trhy na Kulaťáku",
-   "area": "Dejvice",
-   "lat": 50.10155087680153,
-   "lng": 14.393436381861893,
-   "cat": "city",
    "free": true
   },
   {
@@ -197,109 +173,6 @@
    "lng": 14.385586,
    "cat": "talk",
    "free": "likely"
-  },
-  {
-   "id": "artmap:54617",
-   "source": "artmap",
-   "name": {
-    "cs": "Josef Klimeš – Rovnováha"
-   },
-   "summary": {
-    "cs": "Socha a objekt, Architektura a urbanismus"
-   },
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/josef-klimes-rovnovaha-14-11"
-   },
-   "dates": [
-    {
-     "start": "2026-11-14T16:00",
-     "end": "2026-11-14T16:00"
-    }
-   ],
-   "venue": "Galerie hlavního města Prahy",
-   "area": "Praha 5",
-   "lat": 0,
-   "lng": 0,
-   "cat": "talk",
-   "free": "likely"
-  },
-  {
-   "id": "artmap:54638",
-   "source": "artmap",
-   "name": {
-    "cs": "A Whole Different Animal"
-   },
-   "summary": {
-    "cs": "Socha a objekt, Koncept, Kresba a grafika, English Friendly, Současné umění"
-   },
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/a-whole-different-animal-14-11"
-   },
-   "dates": [
-    {
-     "start": "2026-11-14T16:00",
-     "end": "2026-11-14T16:00"
-    }
-   ],
-   "venue": "Hunt Kastner",
-   "area": "Praha 3 – Žižkov",
-   "lat": 50.082811,
-   "lng": 14.448147,
-   "cat": "talk",
-   "free": "likely"
-  },
-  {
-   "id": "goout:9590069",
-   "source": "goout",
-   "name": {
-    "cs": "Fred Worden: 16mm retrospektiva I"
-   },
-   "summary": {
-    "cs": "Fred Worden, označovaný za *„průkopníka kinematografického optického zkoumání po roce 1960“*, strávil více než pět desetiletí zkoumáním toho, co filmový restaurátor Mark Toscano nazývá *„vnějšími hranicemi našeho vidění“*. Na California Institute of the Arts (CalArts) studoval u Pata O’Neilla a Roberta Nelsona a experimentoval s širokou škálou přístupů k filmové tvorbě. Postupně si tak vytvořil…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/fred-worden-16mm-retrospektiva-i/sztctny/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-14T16:00",
-     "end": "2026-11-14T23:59"
-    }
-   ],
-   "venue": "Kino Ponrepo",
-   "area": "Praha 1",
-   "lat": 50.0832,
-   "lng": 14.4177,
-   "cat": "city",
-   "free": true,
-   "also": [
-    "goout"
-   ]
-  },
-  {
-   "id": "goout:9587562",
-   "source": "goout",
-   "name": {
-    "cs": "coucou, jak se máš?"
-   },
-   "summary": {
-    "cs": "Diváci se současně ocitnou v situaci první zkoušky orchestru – budou si vybírat nástroje, dostanou partitury a budou o nich diskutovat – a tuto partituru následně zahrají jeden pro druhého. K provedení partitury nejsou zapotřebí žádné hudební zkušenosti ani vzdělání. Dílo vytvořili skladatelka Elina Lebedeva a performer Ignat Chlobystin. Performance probíhá pod vedením Váni Demidkina,…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/coucou-jak-se-mas/szmcpny/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-14T17:00",
-     "end": "2026-11-14T18:15"
-    }
-   ],
-   "venue": "Kulturni stanice Galaxie",
-   "area": "Praha 4",
-   "lat": 50.0323,
-   "lng": 14.5279,
-   "cat": "city",
-   "free": true
   },
   {
    "id": "artmap:54749",
@@ -500,6 +373,31 @@
    "lat": 50.0881033,
    "lng": 14.4283717,
    "cat": "opening",
+   "free": true
+  },
+  {
+   "id": "punctum:yoga-s-ivetou-nykodymovou-43@punctum.cz",
+   "source": "punctum",
+   "name": {
+    "en": "Yoga s Ivetou Nykodýmovou"
+   },
+   "summary": {
+    "en": "V Punctum máme také pravidelné lekce jógy obvykle v pondělí v pondělí večer od 18:30 do 20:00.Naše lektorka jógy Iveta Nykodýmová je certifikovaná lektorka Ashtanga vinyasa jógy, která také v létě 2018 ukončila pokročilý kurz lektorky Forrest jógy u Any Forrest v Berlíně.Iveta měla první lekci jógy v 17 letech a od té doby je jóga vždy součástí jejího života. Během svého 11 letého pobytu v…"
+   },
+   "url": {
+    "en": "https://punctum.cz/event/yoga-s-ivetou-nykodymovou-43"
+   },
+   "dates": [
+    {
+     "start": "2026-11-16T18:30",
+     "end": "2026-11-16T20:00"
+    }
+   ],
+   "venue": "Punctum",
+   "area": "Žižkov",
+   "lat": null,
+   "lng": null,
+   "cat": "music",
    "free": true
   },
   {
@@ -1251,6 +1149,31 @@
    "free": true
   },
   {
+   "id": "artmap:54793",
+   "source": "artmap",
+   "name": {
+    "cs": "Infinite Frontiers"
+   },
+   "summary": {
+    "cs": "Video, Současné umění"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/infinite-frontiers-2026-11-19-1800"
+   },
+   "dates": [
+    {
+     "start": "2026-11-19T18:00",
+     "end": "2026-11-19T18:00"
+    }
+   ],
+   "venue": "Galerie AMU",
+   "area": "Praha 1",
+   "lat": 50.088685,
+   "lng": 14.403116,
+   "cat": "opening",
+   "free": true
+  },
+  {
    "id": "artmap:54587",
    "source": "artmap",
    "name": {
@@ -1757,6 +1680,49 @@
    "free": true
   },
   {
+   "id": "prague.eu:farmarske-trhy-na-kulataku",
+   "source": "prague.eu",
+   "name": {
+    "cs": "Farmářské trhy na Kulaťáku"
+   },
+   "summary": {
+    "cs": "Farmářský trh Kulaťák patří k největším pravidelným trhům v Praze a dlouhodobě nabízí kvalitní produkty od českých farmářů a výrobců. Od začátku března vždy v sobotu proměňuje Vítězné náměstí v příjemné místo plné sezónních chutí a sousedské atmosféry. Každý týden zde pořídíte čerstvé ovoce a zeleninu, pečivo, maso, ryby, sýry, květiny i další produkty s jasným původem, doplněné o pestrý street food a vybrané zahraniční delikatesy.   "
+   },
+   "url": {
+    "cs": "https://prague.eu/cs/akce/farmarske-trhy-na-kulataku/",
+    "en": "https://prague.eu/en/akce/farmers-markets-at-kulatak-vitezne-namesti/"
+   },
+   "image": "https://cdn.praguecitytourism.city/2024/12/15122142/481086264_1041559144679445_6937361057754772119_n.jpg",
+   "dates": [
+    {
+     "end": "2026-11-21T14:00",
+     "start": "2026-11-21T08:00"
+    },
+    {
+     "end": "2026-11-28T14:00",
+     "start": "2026-11-28T08:00"
+    },
+    {
+     "end": "2026-12-05T14:00",
+     "start": "2026-12-05T08:00"
+    },
+    {
+     "end": "2026-12-12T14:00",
+     "start": "2026-12-12T08:00"
+    },
+    {
+     "end": "2026-12-19T14:00",
+     "start": "2026-12-19T08:00"
+    }
+   ],
+   "venue": "Farmářské trhy na Kulaťáku",
+   "area": "Dejvice",
+   "lat": 50.10155087680153,
+   "lng": 14.393436381861893,
+   "cat": "city",
+   "free": true
+  },
+  {
    "id": "prague.eu:zimni-apetit-piknik",
    "source": "prague.eu",
    "name": {
@@ -1954,6 +1920,81 @@
    "free": true
   },
   {
+   "id": "goout:9617737",
+   "source": "goout",
+   "name": {
+    "cs": "Titina, psí polárnice"
+   },
+   "summary": {
+    "cs": "Příběh jednoho z největších lidských dobrodružství – dobytí severního pólu v roce 1926 – viděný očima nedobrovolného polárníka, malého teriéra Titiny. Roztomilý čtyřnohý tulák, na kterého narazil na římské ulici, okouzlil italského konstruktéra a vzduchoplavce Umberta Nobileho natolik, že si ho vzal domů. A protože to byla slečna, dal jí jméno Titina. Titinu ovšem nečekal jen teplý pelíšek a…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/titina-psi-polarnice/szmjnpy/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-23T09:30",
+     "end": "2026-11-23T23:59"
+    }
+   ],
+   "venue": "Kino Atlas",
+   "area": "Praha 8",
+   "lat": 50.0912,
+   "lng": 14.4385,
+   "cat": "film",
+   "free": true
+  },
+  {
+   "id": "goout:9617774",
+   "source": "goout",
+   "name": {
+    "cs": "Zapomenutí dobrodruzi českých dějin / Epizoda druhá: Češi, nebo Němci?"
+   },
+   "summary": {
+    "cs": "Druhá epizoda historické dokumentární série Zapomenutí dobrodruzi českých dějin, kterou režisér Josef Kotalík natočil ve spolupráci s Primou ZOOM a Náprstkovým muzeem, vypráví příběhy dvou pozapomenutých mužů, kteří se narodili v česko-německém pohraničí – botanika Tadeáše Haenkeho, který jako první Čech vstoupil na půdu Aljašky, a polárního objevitele Julia Payera. Oba se narodili na území…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/zapomenuti-dobrodruzi-ceskych-dejin-epizoda-druha-cesi-nebo-nemci/szyknpy/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-23T16:00",
+     "end": "2026-11-23T23:59"
+    }
+   ],
+   "venue": "Kino Atlas",
+   "area": "Praha 8",
+   "lat": 50.0912,
+   "lng": 14.4385,
+   "cat": "city",
+   "free": true
+  },
+  {
+   "id": "goout:9617626",
+   "source": "goout",
+   "name": {
+    "cs": "Cena příběhu"
+   },
+   "summary": {
+    "cs": "Za inuitským šamanem – angakokem – přichází bohatý český turista s překladatelem. Schůzka je domluvena v místním muzeu; jejím předmětem je legendární setkání angakokova a Čechova předka a cizinec je ochoten za příběh bohatě zaplatit. V Inukově sugestivním vyprávění ožívá zkazka z období prvních křesťanských misionářů v Grónsku."
+   },
+   "url": {
+    "cs": "https://goout.net/cs/cena-pribehu/szbfnpy/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-23T17:30",
+     "end": "2026-11-23T23:59"
+    }
+   ],
+   "venue": "Kino Atlas",
+   "area": "Praha 8",
+   "lat": 50.0912,
+   "lng": 14.4385,
+   "cat": "film",
+   "free": true
+  },
+  {
    "id": "artmap:54659",
    "source": "artmap",
    "name": {
@@ -1977,6 +2018,56 @@
    "lng": 14.432671,
    "cat": "talk",
    "free": "likely"
+  },
+  {
+   "id": "goout:9617664",
+   "source": "goout",
+   "name": {
+    "cs": "Je’vida"
+   },
+   "summary": {
+    "cs": "První celovečerní hraný film natočený ve skoltské sámštině, kriticky ohroženém jazyku původních obyvatel, kterým mluví už jen zhruba 300 lidí. Starší Sámka se se svou neteří, kterou nikdy předtím neviděla, vydává do Laponska vyklidit zděděný dům. Cesta v ní otevírá hluboko pohřbené vzpomínky na traumatickou asimilaci, internátní školy a ztrátu vlastní identity."
+   },
+   "url": {
+    "cs": "https://goout.net/cs/je-vida/szognpy/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-23T18:00",
+     "end": "2026-11-23T23:59"
+    }
+   ],
+   "venue": "Kino Atlas",
+   "area": "Praha 8",
+   "lat": 50.0912,
+   "lng": 14.4385,
+   "cat": "film",
+   "free": true
+  },
+  {
+   "id": "punctum:yoga-s-ivetou-nykodymovou-46@punctum.cz",
+   "source": "punctum",
+   "name": {
+    "en": "Yoga s Ivetou Nykodýmovou"
+   },
+   "summary": {
+    "en": "V Punctum máme také pravidelné lekce jógy obvykle v pondělí v pondělí večer od 18:30 do 20:00.Naše lektorka jógy Iveta Nykodýmová je certifikovaná lektorka Ashtanga vinyasa jógy, která také v létě 2018 ukončila pokročilý kurz lektorky Forrest jógy u Any Forrest v Berlíně.Iveta měla první lekci jógy v 17 letech a od té doby je jóga vždy součástí jejího života. Během svého 11 letého pobytu v…"
+   },
+   "url": {
+    "en": "https://punctum.cz/event/yoga-s-ivetou-nykodymovou-46"
+   },
+   "dates": [
+    {
+     "start": "2026-11-23T18:30",
+     "end": "2026-11-23T20:00"
+    }
+   ],
+   "venue": "Punctum",
+   "area": "Žižkov",
+   "lat": null,
+   "lng": null,
+   "cat": "music",
+   "free": true
   },
   {
    "id": "artmap:54443",
@@ -2835,6 +2926,31 @@
    "free": true
   },
   {
+   "id": "artmap:54804",
+   "source": "artmap",
+   "name": {
+    "cs": "Michal Cimala: Trafačka Primo Ultimo"
+   },
+   "summary": {
+    "cs": "Malba, Socha a objekt, Fotografie, Kresba a grafika"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/michal-cimala-trafacka-primo-ultimo-2026-11-25-1800"
+   },
+   "dates": [
+    {
+     "start": "2026-11-25T18:00",
+     "end": "2026-11-25T18:00"
+    }
+   ],
+   "venue": "Galerie Prostora",
+   "area": "Praha 2",
+   "lat": 50.0754912,
+   "lng": 14.4389497,
+   "cat": "opening",
+   "free": true
+  },
+  {
    "id": "artmap:54662",
    "source": "artmap",
    "name": {
@@ -3254,6 +3370,34 @@
    "free": true
   },
   {
+   "id": "artmap:54796",
+   "source": "artmap",
+   "name": {
+    "cs": "Vladimír Kokolia – Dogma"
+   },
+   "summary": {
+    "cs": "Malba"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/vladimir-kokolia-dogma-2"
+   },
+   "dates": [
+    {
+     "start": "2026-11-26T19:00",
+     "end": "2026-11-26T19:00"
+    }
+   ],
+   "venue": "Centrum současného umění DOX",
+   "area": "Praha 7",
+   "lat": 50.1067812,
+   "lng": 14.4470411,
+   "cat": "opening",
+   "free": true,
+   "also": [
+    "goout"
+   ]
+  },
+  {
    "id": "artmap:54445",
    "source": "artmap",
    "name": {
@@ -3275,31 +3419,6 @@
    "lng": 14.4449917,
    "cat": "talk",
    "free": "likely"
-  },
-  {
-   "id": "goout:9604527",
-   "source": "goout",
-   "name": {
-    "cs": "Vernisáž / Opening: Vladimír Kokolia: Dogma"
-   },
-   "summary": {
-    "cs": "**DOX Centrum současného umění zve na vernisáž výstavy umělce [Vladimíra Kokolia: Dogma ](https://www.dox.cz/program/vladimir-kokolia-dogma).** Vladimír Kokolia na své výstavě s názvem *Dogma* předkládá návštěvníkům obrazy a pravidla, jak obrazy malovat a jak se na ně dívat. Jsou *„vytesána“* do stěn DOXu coby zákony Chammurapiho. Kokoliova dogmata totiž nejsou jednou z možností, jak rozumět…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/vernisaz-opening-vladimir-kokolia-dogma/szcgroy/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-26T19:00",
-     "end": "2026-11-26T23:59"
-    }
-   ],
-   "venue": "DOX Centrum současného umění",
-   "area": "Praha 7 – Holešovice",
-   "lat": 50.1069,
-   "lng": 14.4471,
-   "cat": "opening",
-   "free": true
   },
   {
    "id": "goout:9593274",
@@ -3702,6 +3821,31 @@
    "lng": 14.4686473,
    "cat": "talk",
    "free": "likely"
+  },
+  {
+   "id": "punctum:yoga-s-ivetou-nykodymovou-47@punctum.cz",
+   "source": "punctum",
+   "name": {
+    "en": "Yoga s Ivetou Nykodýmovou"
+   },
+   "summary": {
+    "en": "V Punctum máme také pravidelné lekce jógy obvykle v pondělí v pondělí večer od 18:30 do 20:00.Naše lektorka jógy Iveta Nykodýmová je certifikovaná lektorka Ashtanga vinyasa jógy, která také v létě 2018 ukončila pokročilý kurz lektorky Forrest jógy u Any Forrest v Berlíně.Iveta měla první lekci jógy v 17 letech a od té doby je jóga vždy součástí jejího života. Během svého 11 letého pobytu v…"
+   },
+   "url": {
+    "en": "https://punctum.cz/event/yoga-s-ivetou-nykodymovou-47"
+   },
+   "dates": [
+    {
+     "start": "2026-11-30T18:30",
+     "end": "2026-11-30T20:00"
+    }
+   ],
+   "venue": "Punctum",
+   "area": "Žižkov",
+   "lat": null,
+   "lng": null,
+   "cat": "music",
+   "free": true
   },
   {
    "id": "artmap:54446",
@@ -4917,6 +5061,32 @@
    "area": null,
    "lat": null,
    "lng": null,
+   "cat": "city",
+   "free": true
+  },
+  {
+   "id": "prague.eu:tyden-mozku",
+   "source": "prague.eu",
+   "name": {
+    "cs": "Týden mozku"
+   },
+   "summary": {
+    "cs": "Týden mozku zve k objevování jednoho z nejzajímavějších orgánů lidského těla. Každoroční popularizační festival přibližuje nejnovější poznatky o fungování lidského mozku široké veřejnosti. Program nabídne přednášky, diskuse i doprovodné akce vedené předními českými vědci a odborníky z různých oblastí neurověd. Festival otevírá prostor pro zvídavost, sdílení i nové pohledy na to, jak mysl funguje, reaguje a proměňuje se. \r\n\r\n"
+   },
+   "url": {
+    "cs": "https://prague.eu/cs/akce/tyden-mozku/"
+   },
+   "image": "https://cdn.praguecitytourism.city/2024/03/13053338/006-m.jpg",
+   "dates": [
+    {
+     "end": "2027-03-21T23:59",
+     "start": "2027-03-15T00:00"
+    }
+   ],
+   "venue": "Akademie věd ČR — Galerie Věda a umění",
+   "area": "Staré Město",
+   "lat": 50.0815378,
+   "lng": 14.4141775,
    "cat": "city",
    "free": true
   }
