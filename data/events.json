@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T04:56+01:00",
+ "generated": "2026-11-16T05:19+01:00",
  "events": [
   {
    "id": "goout:8277192",
@@ -175,127 +175,6 @@
    "free": "likely"
   },
   {
-   "id": "artmap:54749",
-   "source": "artmap",
-   "name": {
-    "cs": "Bære [bæ:`rə] & alene [a-LE-nə]"
-   },
-   "summary": {
-    "cs": "Živá akce, English Friendly"
-   },
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/baere-baere-alene-a-le-ne"
-   },
-   "dates": [
-    {
-     "start": "2026-11-14T18:00",
-     "end": "2026-11-15T18:30"
-    }
-   ],
-   "venue": "Galerie hlavního města Prahy",
-   "area": null,
-   "lat": 0,
-   "lng": 0,
-   "cat": "art",
-   "free": "likely"
-  },
-  {
-   "id": "artmap:54705",
-   "source": "artmap",
-   "name": {
-    "cs": "Pokoje 2026: Region v pohybu"
-   },
-   "summary": {},
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/pokoje-2026-region-v-pohybu"
-   },
-   "dates": [
-    {
-     "start": "2026-11-15T10:00",
-     "end": "2026-11-15T14:00"
-    }
-   ],
-   "venue": "Pokoje",
-   "area": "Praha 1",
-   "lat": 50.0892562,
-   "lng": 14.4315529,
-   "cat": "talk",
-   "free": "likely"
-  },
-  {
-   "id": "goout:9587166",
-   "source": "goout",
-   "name": {
-    "cs": "Projekce z osmiček + dílna sítotisku"
-   },
-   "summary": {
-    "cs": "Kam se schovat před blížící se zimou? Přece do kina. Tentokrát budeme promítat přímo ze sálu z naší přenosné promítačky Bauer T525. Nechte se překvapit výběrem veselých a hravých pohádek ve formátu 8 mm. Po projekci bude následovat dílna sítotisku s Karolínou Schön. Tričko k potisknutí s sebou!"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/projekce-z-osmicek+dilna-sitotisku/szqlony/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-15T15:00",
-     "end": "2026-11-15T23:59"
-    }
-   ],
-   "venue": "Kino Ponrepo",
-   "area": "Praha 1",
-   "lat": 50.0832,
-   "lng": 14.4177,
-   "cat": "film",
-   "free": true
-  },
-  {
-   "id": "goout:9612133",
-   "source": "goout",
-   "name": {
-    "cs": "Chráněnci"
-   },
-   "summary": {
-    "cs": "Rakouská nobelistka, spisovatelka, zásadní kritický hlas a čelní představitelka postdramatického psaní pro divadlo Elfriede Jelinek 20. října 2026 slaví osmdesáté narozeniny. K tomuto jubileu pořádá A studio Rubín scénické čtení hry *Chráněnci* (*Die Schutzbefohlenen*) v novém překladu Zuzany Augustové. Co můžete čekat? V čtyřčlenném hereckém kombu v režii Lucie Ferenzové představíme jeden z…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/chranenci/szikepy/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-15T19:30",
-     "end": "2026-11-15T23:59"
-    }
-   ],
-   "venue": "A studio Rubín",
-   "area": "Praha 1",
-   "lat": 50.0877,
-   "lng": 14.4029,
-   "cat": "stage",
-   "free": true
-  },
-  {
-   "id": "crossclub:8713-sundej-se-sunday",
-   "source": "crossclub",
-   "name": {
-    "cs": "Sundej Se Sunday"
-   },
-   "summary": {},
-   "url": {
-    "cs": "https://www.crossclub.cz/cs/program/8713-sundej-se-sunday/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-15T22:00",
-     "end": "2026-11-15T22:00"
-    }
-   ],
-   "venue": "Cross Club",
-   "area": "Holešovice",
-   "lat": null,
-   "lng": null,
-   "cat": "club",
-   "free": true
-  },
-  {
    "id": "goout:9604760",
    "source": "goout",
    "name": {
@@ -347,6 +226,29 @@
    "area": "Praha 2",
    "lat": 50.067878,
    "lng": 14.414526,
+   "cat": "opening",
+   "free": true
+  },
+  {
+   "id": "artmap:54810",
+   "source": "artmap",
+   "name": {
+    "cs": "Brett Oláh – Čierný duch (Kalo mulo / Black Ghost"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/brett-olah-cierny-duch-kalo-mulo-black-ghost-2026-11-16-1800"
+   },
+   "dates": [
+    {
+     "start": "2026-11-16T18:00",
+     "end": "2026-11-16T18:00"
+    }
+   ],
+   "venue": "Artivist Lab",
+   "area": "Praha 1",
+   "lat": 50.0870578,
+   "lng": 14.429897,
    "cat": "opening",
    "free": true
   },
@@ -1324,6 +1226,34 @@
    "free": true
   },
   {
+   "id": "artmap:54807",
+   "source": "artmap",
+   "name": {
+    "cs": "Jak instituce prostřednictvím sbírek a výstav spoluutváří dějiny umění?"
+   },
+   "summary": {
+    "cs": "Druhá debata se zaměří na to, jak výstavní instituce prostřednictvím sbírek, výstav a způsobů interpretace spoluutvářejí dějiny umění. Otevře otázky vzniku narativů o starém, moderním a současném umění, utváření uměleckého kánonu i role samotných institucí a různých aktérů v těchto procesech. Pozornost bude věnována také historicky vzniklým sbírkám a jejich současné interpretaci. Proměňující se…"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/jak-instituce-prostrednictvim-sbirek-a-vystav-spoluutvari-dejiny-umeni"
+   },
+   "dates": [
+    {
+     "start": "2026-11-19T19:00",
+     "end": "2026-11-19T20:30"
+    }
+   ],
+   "venue": "Národní galerie Praha",
+   "area": "Praha 1",
+   "lat": 50.087978,
+   "lng": 14.4216399,
+   "cat": "talk",
+   "free": "likely",
+   "also": [
+    "goout"
+   ]
+  },
+  {
    "id": "artmap:54442",
    "source": "artmap",
    "name": {
@@ -1347,31 +1277,6 @@
    "lng": 14.4449917,
    "cat": "talk",
    "free": "likely"
-  },
-  {
-   "id": "goout:9586557",
-   "source": "goout",
-   "name": {
-    "cs": "Jak instituce prostřednictvím sbírek a výstav spoluutváří dějiny umění?"
-   },
-   "summary": {
-    "cs": "Druhá debata se zaměří na to, jak výstavní instituce prostřednictvím sbírek, výstav a způsobů interpretace spoluutvářejí dějiny umění. Otevře otázky vzniku narativů o starém, moderním a současném umění, utváření uměleckého kánonu i role samotných institucí a různých aktérů v těchto procesech. Pozornost bude věnována také historicky vzniklým sbírkám a jejich současné interpretaci. Proměňující se…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/jak-instituce-prostrednictvim-sbirek-a-vystav-spoluutvari-dejiny-umeni/szhmnny/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-19T19:00",
-     "end": "2026-11-19T23:59"
-    }
-   ],
-   "venue": "Veletržní palác",
-   "area": "Praha 7",
-   "lat": 50.1012,
-   "lng": 14.4328,
-   "cat": "art",
-   "free": true
   },
   {
    "id": "goout:9586802",
@@ -3047,6 +2952,31 @@
    "free": true
   },
   {
+   "id": "artmap:54812",
+   "source": "artmap",
+   "name": {
+    "cs": "Proti proudu. Skupina surrealistů. 1934–2024"
+   },
+   "summary": {
+    "cs": "Malba"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/proti-proudu-skupina-surrealistu-1934-2024-2026-11-25-1900"
+   },
+   "dates": [
+    {
+     "start": "2026-11-25T19:00",
+     "end": "2026-11-25T19:00"
+    }
+   ],
+   "venue": "Národní galerie Praha, Veletržní palác",
+   "area": "Praha 7",
+   "lat": 50.1010757,
+   "lng": 14.4327945,
+   "cat": "opening",
+   "free": true
+  },
+  {
    "id": "crossclub:8722-psytrance",
    "source": "crossclub",
    "name": {
@@ -3770,6 +3700,29 @@
    "lat": null,
    "lng": null,
    "cat": "music",
+   "free": true
+  },
+  {
+   "id": "crossclub:8715-sundej-se-sunday",
+   "source": "crossclub",
+   "name": {
+    "cs": "Sundej Se Sunday"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://www.crossclub.cz/cs/program/8715-sundej-se-sunday/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-29T22:00",
+     "end": "2026-11-29T22:00"
+    }
+   ],
+   "venue": "Cross Club",
+   "area": "Holešovice",
+   "lat": null,
+   "lng": null,
+   "cat": "club",
    "free": true
   },
   {
@@ -4856,6 +4809,31 @@
    "lat": null,
    "lng": null,
    "cat": "music",
+   "free": true
+  },
+  {
+   "id": "goout:9612590",
+   "source": "goout",
+   "name": {
+    "cs": "Archidílna: Město jako komiksový příběh"
+   },
+   "summary": {
+    "cs": "Zajímá tě, jak vzniká opravdový komiks? Chceš se vydat s knížkou na pomyslnou dobrodružnou výpravu a zjistit, kam až tě zavede tvoje fantazie? A co kdyby tě na této cestě doprovázela přímo ilustrátorka naší nové knížky Tera a Spejs: Dobrodružství ve městě? Právě tahle publikace nás bude inspirovat a díky ní se společně proměníme v autory a autorky komiksu! V rámci Archidílny zjistíš, jak se…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/archidilna-mesto-jako-komiksovy-pribeh/szpdfpy/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-06T10:00",
+     "end": "2026-12-06T12:00"
+    }
+   ],
+   "venue": "CAMP – Centrum architektury a městského plánování",
+   "area": "Praha 8 – Karlín",
+   "lat": 50.0929,
+   "lng": 14.4435,
+   "cat": "kids",
    "free": true
   },
   {
