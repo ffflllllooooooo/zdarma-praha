@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T05:19+01:00",
+ "generated": "2026-11-17T04:58+01:00",
  "events": [
   {
    "id": "goout:8277192",
@@ -175,134 +175,6 @@
    "free": "likely"
   },
   {
-   "id": "goout:9604760",
-   "source": "goout",
-   "name": {
-    "cs": "KLUB PŘÁTEL: Anna Jagellonská (1503–1547) Královna na prahu nové doby"
-   },
-   "summary": {
-    "cs": "Komentovaná prohlídka pro členy *Klubu přátel NGP* výstavy *Anna Jagellonská (1503-1547). Královna na prahu nové doby*."
-   },
-   "url": {
-    "cs": "https://goout.net/cs/klub-pratel-anna-jagellonska-1503-1547-kralovna-na-prahu-nove-doby/szkproy/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-16T12:30",
-     "end": "2026-11-16T23:59"
-    }
-   ],
-   "venue": "Valdštejnská jízdárna",
-   "area": "Praha 1",
-   "lat": 50.0909,
-   "lng": 14.4095,
-   "cat": "art",
-   "free": true,
-   "also": [
-    "goout",
-    "goout",
-    "goout"
-   ]
-  },
-  {
-   "id": "artmap:54802",
-   "source": "artmap",
-   "name": {
-    "cs": "After dark"
-   },
-   "summary": {
-    "cs": "Fotografie, Studentské akce"
-   },
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/after-dark-2026-11-16-1800"
-   },
-   "dates": [
-    {
-     "start": "2026-11-16T18:00",
-     "end": "2026-11-16T18:00"
-    }
-   ],
-   "venue": "(A)void Gallery",
-   "area": "Praha 2",
-   "lat": 50.067878,
-   "lng": 14.414526,
-   "cat": "opening",
-   "free": true
-  },
-  {
-   "id": "artmap:54810",
-   "source": "artmap",
-   "name": {
-    "cs": "Brett Oláh – Čierný duch (Kalo mulo / Black Ghost"
-   },
-   "summary": {},
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/brett-olah-cierny-duch-kalo-mulo-black-ghost-2026-11-16-1800"
-   },
-   "dates": [
-    {
-     "start": "2026-11-16T18:00",
-     "end": "2026-11-16T18:00"
-    }
-   ],
-   "venue": "Artivist Lab",
-   "area": "Praha 1",
-   "lat": 50.0870578,
-   "lng": 14.429897,
-   "cat": "opening",
-   "free": true
-  },
-  {
-   "id": "artmap:54622",
-   "source": "artmap",
-   "name": {
-    "cs": "Jan Diviš – Exit Wounds"
-   },
-   "summary": {
-    "cs": "Malba, Studentské akce, Kresba a grafika"
-   },
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/jan-divis-exit-wounds"
-   },
-   "dates": [
-    {
-     "start": "2026-11-16T18:00",
-     "end": "2026-11-16T18:00"
-    }
-   ],
-   "venue": "galerie POSTOJ",
-   "area": "Praha 1",
-   "lat": 50.0881033,
-   "lng": 14.4283717,
-   "cat": "opening",
-   "free": true
-  },
-  {
-   "id": "punctum:yoga-s-ivetou-nykodymovou-43@punctum.cz",
-   "source": "punctum",
-   "name": {
-    "en": "Yoga s Ivetou Nykodýmovou"
-   },
-   "summary": {
-    "en": "V Punctum máme také pravidelné lekce jógy obvykle v pondělí v pondělí večer od 18:30 do 20:00.Naše lektorka jógy Iveta Nykodýmová je certifikovaná lektorka Ashtanga vinyasa jógy, která také v létě 2018 ukončila pokročilý kurz lektorky Forrest jógy u Any Forrest v Berlíně.Iveta měla první lekci jógy v 17 letech a od té doby je jóga vždy součástí jejího života. Během svého 11 letého pobytu v…"
-   },
-   "url": {
-    "en": "https://punctum.cz/event/yoga-s-ivetou-nykodymovou-43"
-   },
-   "dates": [
-    {
-     "start": "2026-11-16T18:30",
-     "end": "2026-11-16T20:00"
-    }
-   ],
-   "venue": "Punctum",
-   "area": "Žižkov",
-   "lat": null,
-   "lng": null,
-   "cat": "music",
-   "free": true
-  },
-  {
    "id": "prague.eu:lichtenstejnsky-palac-den-otevrenych-dveri",
    "source": "prague.eu",
    "name": {
@@ -407,14 +279,14 @@
    "free": true
   },
   {
-   "id": "crossclub:8717-techno-stage",
+   "id": "crossclub:8717-diva-invites",
    "source": "crossclub",
    "name": {
-    "cs": "Techno Stage"
+    "cs": "Diva Invites"
    },
    "summary": {},
    "url": {
-    "cs": "https://www.crossclub.cz/cs/program/8717-techno-stage/"
+    "cs": "https://www.crossclub.cz/cs/program/8717-diva-invites/"
    },
    "dates": [
     {
@@ -1950,6 +1822,31 @@
    "free": true
   },
   {
+   "id": "goout:9586807",
+   "source": "goout",
+   "name": {
+    "cs": "Večer pro Janu Hádkovou"
+   },
+   "summary": {
+    "cs": "Vzpomínkový večer na dokumentaristku, dramaturgyni a režisérku Janu Hádkovou. Její tvorbu připomenou přátelé a spolupracovníci vzpomínkami a tituly: Návraty dokumentaristů, Deset století architektury a Posezení s Janem Burianem. Připraveno ve spolupráci s Českou televizí, v níž Jana Hádková dlouhá léta působila."
+   },
+   "url": {
+    "cs": "https://goout.net/cs/vecer-pro-janu-hadkovou/szhwnny/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-23T18:00",
+     "end": "2026-11-23T23:59"
+    }
+   ],
+   "venue": "Kino Ponrepo",
+   "area": "Praha 1",
+   "lat": 50.0832,
+   "lng": 14.4177,
+   "cat": "city",
+   "free": true
+  },
+  {
    "id": "punctum:yoga-s-ivetou-nykodymovou-46@punctum.cz",
    "source": "punctum",
    "name": {
@@ -3351,6 +3248,31 @@
    "free": "likely"
   },
   {
+   "id": "goout:9618489",
+   "source": "goout",
+   "name": {
+    "cs": "NOISES OFF by MICHAEL FRAYN"
+   },
+   "summary": {
+    "cs": "We are delighted to present our first performance in the new auditorium of the English College in Prague! Michael Frayn’s Noises Off follows an ambitious director and his chaotic cast of eccentric actors as they attempt to mount a classic British farce, Nothing On. From a disastrous final dress rehearsal to a frantic backstage matinee, everything that can go wrong does—including missed cues,…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/noises-off-by-michael-frayn/szooopy/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-26T19:00",
+     "end": "2026-11-26T23:59"
+    }
+   ],
+   "venue": "The English College in Prague",
+   "area": "Praha 9",
+   "lat": 50.1098,
+   "lng": 14.5,
+   "cat": "stage",
+   "free": true
+  },
+  {
    "id": "goout:9593274",
    "source": "goout",
    "name": {
@@ -3624,6 +3546,31 @@
    "free": true
   },
   {
+   "id": "goout:9618488",
+   "source": "goout",
+   "name": {
+    "cs": "NOISES OFF by MICHAEL FRAYN"
+   },
+   "summary": {
+    "cs": "We are delighted to present our first performance in the new auditorium of the English College in Prague! Michael Frayn’s Noises Off follows an ambitious director and his chaotic cast of eccentric actors as they attempt to mount a classic British farce, Nothing On. From a disastrous final dress rehearsal to a frantic backstage matinee, everything that can go wrong does—including missed cues,…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/noises-off-by-michael-frayn/sznoopy/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-27T19:00",
+     "end": "2026-11-27T23:59"
+    }
+   ],
+   "venue": "The English College in Prague",
+   "area": "Praha 9",
+   "lat": 50.1098,
+   "lng": 14.5,
+   "cat": "stage",
+   "free": true
+  },
+  {
    "id": "prague.eu:prazsky-hrad-den-otevrenych-dveri-3",
    "source": "prague.eu",
    "name": {
@@ -3846,6 +3793,29 @@
    "lat": 50.0871,
    "lng": 14.4299,
    "cat": "city",
+   "free": true
+  },
+  {
+   "id": "crossclub:8726-los-tekkenos",
+   "source": "crossclub",
+   "name": {
+    "cs": "Los Tekkenos"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://www.crossclub.cz/cs/program/8726-los-tekkenos/"
+   },
+   "dates": [
+    {
+     "start": "2026-11-30T20:00",
+     "end": "2026-11-30T20:00"
+    }
+   ],
+   "venue": "Cross Club",
+   "area": "Holešovice",
+   "lat": null,
+   "lng": null,
+   "cat": "club",
    "free": true
   },
   {
@@ -4885,6 +4855,56 @@
    "lng": 14.4499786,
    "cat": "talk",
    "free": "likely"
+  },
+  {
+   "id": "goout:9617161",
+   "source": "goout",
+   "name": {
+    "cs": "Filozofie v galerii"
+   },
+   "summary": {
+    "cs": "*Nechte se uměleckými díly vybídnout k filozofickému dialogu.* V kulisách probíhající výstavy budeme společně diskutovat nad problematikou sociálního vyloučení. Žádné předchozí znalosti filozofie nejsou nutné. Setkání je otevřeno všem, kteří se nebojí klást otázky a hledají prostor pro dialog."
+   },
+   "url": {
+    "cs": "https://goout.net/cs/filozofie-v-galerii/szllmpy/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-07T18:00",
+     "end": "2026-12-07T23:59"
+    }
+   ],
+   "venue": "Atrium Žižkov",
+   "area": "Praha 3 – Žižkov",
+   "lat": 50.0817,
+   "lng": 14.4528,
+   "cat": "city",
+   "free": true
+  },
+  {
+   "id": "goout:9610622",
+   "source": "goout",
+   "name": {
+    "cs": "Po stopách Richarda Strausse"
+   },
+   "summary": {
+    "cs": "Účinkující: Akademie komorní hudby - Tomáš Jamník – violoncello Program: Richard Strauss (1864–1949) - Capriccio - Metamorfózy (arr. smyčcový septet)"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/po-stopach-richarda-strausse/szwybpy/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-07T19:00",
+     "end": "2026-12-07T23:59"
+    }
+   ],
+   "venue": "HAMU",
+   "area": "Praha 1 – Malá Strana",
+   "lat": 50.0882,
+   "lng": 14.4021,
+   "cat": "music",
+   "free": true
   },
   {
    "id": "artmap:54468",
