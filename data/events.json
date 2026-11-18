@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T04:58+01:00",
+ "generated": "2026-11-18T04:59+01:00",
  "events": [
   {
    "id": "goout:8277192",
@@ -173,133 +173,6 @@
    "lng": 14.385586,
    "cat": "talk",
    "free": "likely"
-  },
-  {
-   "id": "prague.eu:lichtenstejnsky-palac-den-otevrenych-dveri",
-   "source": "prague.eu",
-   "name": {
-    "cs": "Lichtenštejnský palác — Den otevřených dveří",
-    "en": "Liechtenstein Palace – Open House Day"
-   },
-   "summary": {
-    "cs": "Lichtenštejnský palác na pražské Kampě se v roce 2026 ještě jednou otevře veřejnosti a nabídne jedinečnou příležitost nahlédnout do jeho reprezentačních prostor i bohaté historie. Prohlídková trasa zahrnuje modrý salonek, salonek Kampa, zlatý a hnědý sál i zahradní salon, přičemž závěr prohlídky tvoří malebný výhled na Vltavu a Karlův most. Návštěvníci se seznámí s historií paláce sahající až do 16. století i s jeho současnou funkcí vládní reprezentační budovy, která hostí konference, protokolární akce a slouží k ubytování významných zahraničních delegací. V minulosti zde pobývali například španělský král Juan Carlos s chotí Sofií, britská královna Alžběta II. či japonský císař Akihito s císařovnou Mičiko.",
-    "en": "The Liechtenstein Palace on Prague's Kampa Island will once again open to the public in 2026, offering a rare opportunity to explore its historic state rooms and rich heritage. Visitors will pass through the Blue Salon, the Kampa Salon, the Golden Hall, the Brown Hall, and the Garden Salon before concluding the tour with a stunning view of the Vltava River and Charles Bridge. Visitors will learn about the palace’s history, which dates back to the 16th century, as well as its current function as a government representative building that hosts conferences and protocol events and serves as accommodation for important foreign delegations. In the past, guests have included, for example, King Juan Carlos of Spain and his wife Sofia, Queen Elizabeth II of the United Kingdom, and Emperor Akihito of Japan and Empress Michiko."
-   },
-   "url": {
-    "cs": "https://prague.eu/cs/akce/lichtenstejnsky-palac-den-otevrenych-dveri/",
-    "en": "https://prague.eu/en/akce/liechtenstein-palace-open-house-day/"
-   },
-   "image": "https://cdn.praguecitytourism.city/2024/05/10092135/Lichtenstejnky-palac.jpg",
-   "dates": [
-    {
-     "end": "2026-11-17T23:59",
-     "start": "2026-11-17T00:00"
-    }
-   ],
-   "venue": "Lichtenštejnský palác — Kampa",
-   "area": "Malá Strana",
-   "lat": 50.08554874903095,
-   "lng": 14.408869826983626,
-   "cat": "city",
-   "free": true
-  },
-  {
-   "id": "goout:9586619",
-   "source": "goout",
-   "name": {
-    "cs": "Dance Well"
-   },
-   "summary": {
-    "cs": "**Ozdravná síla tance pro každé tělo, bez ohledu na věk, zkušenosti či fyzické možnosti.** Pravidelná taneční setkání otevírají prostor lidem, kterým do života vstoupila Parkinsonova choroba nebo jiná pohybová omezení. Jsou pozvánkou k péči o sebe sama, k radosti z pohybu a k prožitku sounáležitosti tady a teď. Lekce vede tým zkušených profesionálních umělkyň a umělců vyškolených v rámci…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/dance-well/sztonny/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-17T10:00",
-     "end": "2026-11-17T23:59"
-    }
-   ],
-   "venue": "Šternberský palác",
-   "area": "Praha 1",
-   "lat": 50.0906,
-   "lng": 14.3967,
-   "cat": "city",
-   "free": true
-  },
-  {
-   "id": "goout:9586758",
-   "source": "goout",
-   "name": {
-    "cs": "Dílna pro děti 8+ s dospělými: Můj svět možností"
-   },
-   "summary": {
-    "cs": "*Jak svobodně žili lidé v minulosti? Mohli si vybírat svou cestu? A co bychom si vybrali my?* Společně se účastníci vydají do expozice starého evropského umění, kde budeme prostřednictvím metody “ slowlooking-pomalého dívání“ objevovat příběhy ukryté v uměleckých dílech. Budou pozorovat, klást si otázky, sdílet své nápady a hledat vlastní významy. Každý obraz se pro ně stane výchozím bodem k…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/dilna-pro-deti-8+s-dospelymi-muj-svet-moznosti/sziunny/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-17T14:30",
-     "end": "2026-11-17T23:59"
-    }
-   ],
-   "venue": "Šternberský palác",
-   "area": "Praha 1",
-   "lat": 50.0906,
-   "lng": 14.3967,
-   "cat": "kids",
-   "free": true
-  },
-  {
-   "id": "artmap:54735",
-   "source": "artmap",
-   "name": {
-    "cs": "Pavel Petřík – Slow Steps"
-   },
-   "summary": {
-    "cs": "Malba, Socha a objekt, Současné umění"
-   },
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/pavel-petrik-slow-steps-2"
-   },
-   "dates": [
-    {
-     "start": "2026-11-17T18:00",
-     "end": "2026-11-17T18:00"
-    }
-   ],
-   "venue": "Studio PRÁM",
-   "area": "Praha 9 – Vysočany",
-   "lat": 50.101397,
-   "lng": 14.505756,
-   "cat": "opening",
-   "free": true
-  },
-  {
-   "id": "crossclub:8717-diva-invites",
-   "source": "crossclub",
-   "name": {
-    "cs": "Diva Invites"
-   },
-   "summary": {},
-   "url": {
-    "cs": "https://www.crossclub.cz/cs/program/8717-diva-invites/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-17T20:00",
-     "end": "2026-11-17T20:00"
-    }
-   ],
-   "venue": "Cross Club",
-   "area": "Holešovice",
-   "lat": null,
-   "lng": null,
-   "cat": "club",
-   "free": true
   },
   {
    "id": "goout:9575289",
@@ -4907,6 +4780,240 @@
    "free": true
   },
   {
+   "id": "goout:9574315",
+   "source": "goout",
+   "name": {
+    "cs": "Putování do Betléma"
+   },
+   "summary": {
+    "cs": "Pohádka *Putování do Betléma* pro děti."
+   },
+   "url": {
+    "cs": "https://goout.net/cs/putovani-do-betlema/szpwsmy/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-08T09:30",
+     "end": "2026-12-08T23:59"
+    }
+   ],
+   "venue": "Divadlo U Hasičů",
+   "area": "Praha 2 – Vinohrady",
+   "lat": 50.0766,
+   "lng": 14.4384,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9586614",
+   "source": "goout",
+   "name": {
+    "cs": "Dance Well"
+   },
+   "summary": {
+    "cs": "**Ozdravná síla tance pro každé tělo, bez ohledu na věk, zkušenosti či fyzické možnosti.** Pravidelná taneční setkání otevírají prostor lidem, kterým do života vstoupila Parkinsonova choroba nebo jiná pohybová omezení. Jsou pozvánkou k péči o sebe sama, k radosti z pohybu a k prožitku sounáležitosti tady a teď. Lekce vede tým zkušených profesionálních umělkyň a umělců vyškolených v rámci…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/dance-well/szoonny/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-08T10:00",
+     "end": "2026-12-08T23:59"
+    }
+   ],
+   "venue": "Klášter sv. Anežky České",
+   "area": "Praha 1 – Staré Město",
+   "lat": 50.092,
+   "lng": 14.4235,
+   "cat": "city",
+   "free": true
+  },
+  {
+   "id": "goout:9576595",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – V galerii se skicákem: 1939–2021: Konec černobílé doby"
+   },
+   "summary": {
+    "cs": "Přijďte si prohlédnout bohatou škálu uměleckých přístupů moderního a současného umění. Ponořte se i v rámci skupiny do svého světa, kde je prostor a čas dívat se a tvořit. Objevujte. Skicujte v expozici 1939–2021: Konec černobílé doby. Ve Veletržním paláci nyní nabízíme unikátní triptych výstav 19.-21. století. Na trojici výstav navazujeme nabídkou vzdělávacích programů V galerii se skicákem.…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-v-galerii-se-skicakem-1939-2021-konec-cernobile-doby/szunwmy/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-08T10:00",
+     "end": "2026-12-08T23:59"
+    }
+   ],
+   "venue": "Veletržní palác",
+   "area": "Praha 7",
+   "lat": 50.1012,
+   "lng": 14.4328,
+   "cat": "kids",
+   "free": true,
+   "also": [
+    "goout"
+   ]
+  },
+  {
+   "id": "goout:9574874",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Vítejte v galerii"
+   },
+   "summary": {
+    "cs": "Nechme společně zaznít otázku „Co je to galerie?“ a v průběhu programu na ni hledejme odpověď. V rolích přátel umění a učenců se vydáme po stopách jejího vzniku a smyslu v proměnách času. Společně prozkoumáme, co všechno můžeme v galerii vidět, kdo ji navštěvuje a k čemu takové místo vlastně slouží. Založíme galerii a obohatíme ji o umělecké žánry, jako jsou portrét, krajinomalba a zátiší.…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-vitejte-v-galerii/szyttmy/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-08T10:00",
+     "end": "2026-12-08T23:59"
+    }
+   ],
+   "venue": "Veletržní palác",
+   "area": "Praha 7",
+   "lat": 50.1012,
+   "lng": 14.4328,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9574869",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Silák Herakles"
+   },
+   "summary": {
+    "cs": "Už jste někdy číhali skrytí v přírodě s nastraženýma ušima a očima na stopkách? V takových chvílích vnímáme i ty nejtišší zvuky z okolí a naše představivost pracuje naplno. Zveme vás na výpravu do starověkého Řecka, plného mýtů a pověstí. Setkáme se s velkým hrdinou Heraklem ve chvíli nejhlubšího soustředění. Jaký je jeho příběh a cesta? Co asi v dálce pozoruje? A kdo nebo co pozoruje jeho?…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-silak-herakles/sztttmy/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-08T10:00",
+     "end": "2026-12-08T23:59"
+    }
+   ],
+   "venue": "Veletržní palác",
+   "area": "Praha 7",
+   "lat": 50.1012,
+   "lng": 14.4328,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9574853",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Co si šeptají andělé"
+   },
+   "summary": {
+    "cs": "S postavami andělů se mezi „Starými mistry“ setkáváme velmi často. O čem si povídají, jací jsou a jak vypadají? Porozumíme němé řeči jejich gest a výrazů? V ateliéru stvoříme své vlastní andělské bytosti. Program je možné rozšířit o vánoční tématiku. **Cíl programu:** - Cílem programu je nalézt andělské bytosti v jednotlivých slohových obdobích a rozpoznat jejích charakteristické znaky. -…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-co-si-septaji-andele/szdttmy/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-08T10:00",
+     "end": "2026-12-08T23:59"
+    }
+   ],
+   "venue": "Schwarzenberský palác",
+   "area": "Praha 1",
+   "lat": 50.0891,
+   "lng": 14.3969,
+   "cat": "kids",
+   "free": true,
+   "also": [
+    "goout"
+   ]
+  },
+  {
+   "id": "goout:9539290",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Na hladině i pod hladinou"
+   },
+   "summary": {
+    "cs": "Pozorovali jste už někdy vodu? Víte, jaká kouzla a triky voda umí? Vydejme se společně prozkoumat, jaká voda vlastně je a jak rozmanitě ji můžeme zachytit obrazem. V ateliéru, který se promění v laboratoř, budeme experimentovat s vodou. Budeme pozorovat a vytvářet obrazy, které vzniknou na hladině i pod hladinou. V expozici si podrobně prohlédneme, jak různorodě umělci na přelomu 19. a 20.…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-na-hladine-i-pod-hladinou/szpvmky/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-08T10:00",
+     "end": "2026-12-08T23:59"
+    }
+   ],
+   "venue": "Veletržní palác",
+   "area": "Praha 7",
+   "lat": 50.1012,
+   "lng": 14.4328,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9539240",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Proč slavíme Vánoce?"
+   },
+   "summary": {
+    "cs": "Při povídání o nejkrásnějších svátcích v roce budeme hledat odpovědi na otázky, proč se Bůh rozhodl poslat na svět svého jediného Syna, jak se Panna Maria dozvěděla, že se jí narodí Ježíšek, z čeho mu sv. Josef ušil plenku a mnoho dalšího. Pokusíme se porozumět symbolům ve výtvarných dílech tak, jak jim rozuměli lidé v době středověku a porovnáme, jak se slavily Vánoce v dávných dobách, a jak je…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-proc-slavime-vanoce/szptmky/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-08T10:00",
+     "end": "2026-12-08T23:59"
+    }
+   ],
+   "venue": "Anežský klášter",
+   "area": "Praha 1 – Staré Město",
+   "lat": 50.092,
+   "lng": 14.4235,
+   "cat": "kids",
+   "free": true,
+   "also": [
+    "goout"
+   ]
+  },
+  {
+   "id": "goout:9533533",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Ze života galerie"
+   },
+   "summary": {
+    "cs": "Jak se do galerie dostala díla od Paula Gauguina, Paula Cézanna, Pabla Picassa, Josefa Čapka a řady dalších umělců? Ve skupinách se dozvíme, jak to v galerii chodí i jak se tvoří sbírka. Vytvoříme výstavní projekt na míru a vyrobíme modely vlastních galerií. Vstupme společně do výstavních síní z doby první republiky **Cíl programu:** - Společně nahlédnout téma hodnoty uměleckého díla a…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-ze-zivota-galerie/sziqdky/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-08T11:00",
+     "end": "2026-12-08T23:59"
+    }
+   ],
+   "venue": "Veletržní palác",
+   "area": "Praha 7",
+   "lat": 50.1012,
+   "lng": 14.4328,
+   "cat": "kids",
+   "free": true
+  },
+  {
    "id": "artmap:54468",
    "source": "artmap",
    "name": {
@@ -4952,6 +5059,29 @@
    "lat": null,
    "lng": null,
    "cat": "music",
+   "free": "likely"
+  },
+  {
+   "id": "petrohradska:c643b7fb-68f3-4281-ba9a-d16bdb5dc392",
+   "source": "petrohradska",
+   "name": {
+    "cs": "FHS Feminist Reading Group"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://www.petrohradskakolektiv.com/verejne/petrohradska-kolektiv/program/c643b7fb-68f3-4281-ba9a-d16bdb5dc392"
+   },
+   "dates": [
+    {
+     "start": "2026-12-16T16:00",
+     "end": "2026-12-16T20:00"
+    }
+   ],
+   "venue": "Petrohradská kolektiv — Kino",
+   "area": "Vršovice",
+   "lat": null,
+   "lng": null,
+   "cat": "talk",
    "free": "likely"
   },
   {
