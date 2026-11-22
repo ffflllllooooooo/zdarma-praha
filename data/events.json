@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T04:57+01:00",
+ "generated": "2026-11-22T12:14+01:00",
  "events": [
   {
    "id": "goout:8277192",
@@ -125,296 +125,129 @@
    "free": true
   },
   {
-   "area": "Praha 4",
-   "cat": "talk",
-   "dates": [
-    {
-     "end": "2026-11-21T12:45",
-     "start": "2026-11-14T10:00"
-    }
-   ],
-   "free": "likely",
-   "id": "artmap:54763",
-   "lat": 50.049054,
-   "lng": 14.4461748,
-   "name": {
-    "cs": "S Kotěrou až do oblak: Vršovická vodárna"
-   },
-   "source": "artmap",
-   "summary": {
-    "cs": "Architektura a urbanismus"
-   },
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/s-koterou-az-do-oblak-vrsovicka-vodarna"
-   },
-   "venue": "Open House Praha"
-  },
-  {
-   "area": "Praha 6",
-   "cat": "talk",
-   "dates": [
-    {
-     "end": "2026-11-28T16:30",
-     "start": "2026-11-14T13:00"
-    }
-   ],
-   "free": "likely",
    "id": "artmap:54762",
-   "lat": 50.0803731,
-   "lng": 14.385586,
+   "source": "artmap",
    "name": {
     "cs": "Velký strahovský stadion: Z tribuny na tribunu"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Architektura a urbanismus"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/velky-strahovsky-stadion-z-tribuny-na-tribunu-14-11"
    },
-   "venue": "Open House Praha"
-  },
-  {
-   "area": "Praha 4",
-   "cat": "talk",
    "dates": [
     {
-     "end": "2026-11-28T15:00",
-     "start": "2026-11-19T15:00"
+     "start": "2026-11-14T13:00",
+     "end": "2026-11-28T16:30"
     }
    ],
-   "free": "likely",
+   "venue": "Open House Praha",
+   "area": "Praha 6",
+   "lat": 50.0803731,
+   "lng": 14.385586,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
    "id": "artmap:54686",
-   "lat": 50.0204928,
-   "lng": 14.4375413,
+   "source": "artmap",
    "name": {
     "cs": "Sídliště Novodvorská: Modernismus v praxi"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Architektura a urbanismus"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/sidliste-novodvorska-modernismus-v-praxi"
    },
-   "venue": "Open House Praha"
-  },
-  {
-   "id": "prague.eu:farmarske-trhy-na-kulataku",
-   "source": "prague.eu",
-   "name": {
-    "cs": "Farmářské trhy na Kulaťáku"
-   },
-   "summary": {
-    "cs": "Farmářský trh Kulaťák patří k největším pravidelným trhům v Praze a dlouhodobě nabízí kvalitní produkty od českých farmářů a výrobců. Od začátku března vždy v sobotu proměňuje Vítězné náměstí v příjemné místo plné sezónních chutí a sousedské atmosféry. Každý týden zde pořídíte čerstvé ovoce a zeleninu, pečivo, maso, ryby, sýry, květiny i další produkty s jasným původem, doplněné o pestrý street food a vybrané zahraniční delikatesy.   "
-   },
-   "url": {
-    "cs": "https://prague.eu/cs/akce/farmarske-trhy-na-kulataku/",
-    "en": "https://prague.eu/en/akce/farmers-markets-at-kulatak-vitezne-namesti/"
-   },
-   "image": "https://cdn.praguecitytourism.city/2024/12/15122142/481086264_1041559144679445_6937361057754772119_n.jpg",
    "dates": [
     {
-     "end": "2026-11-21T14:00",
-     "start": "2026-11-21T08:00"
-    },
-    {
-     "end": "2026-11-28T14:00",
-     "start": "2026-11-28T08:00"
-    },
-    {
-     "end": "2026-12-05T14:00",
-     "start": "2026-12-05T08:00"
-    },
-    {
-     "end": "2026-12-12T14:00",
-     "start": "2026-12-12T08:00"
-    },
-    {
-     "end": "2026-12-19T14:00",
-     "start": "2026-12-19T08:00"
+     "start": "2026-11-19T15:00",
+     "end": "2026-11-28T15:00"
     }
    ],
-   "venue": "Farmářské trhy na Kulaťáku",
-   "area": "Dejvice",
-   "lat": 50.10155087680153,
-   "lng": 14.393436381861893,
-   "cat": "city",
-   "free": true
-  },
-  {
-   "id": "prague.eu:zimni-apetit-piknik",
-   "source": "prague.eu",
-   "name": {
-    "cs": "Zimní apetit piknik"
-   },
-   "summary": {
-    "cs": "Milovníky dobrého jídla, kvalitních surovin a kulinářské inspirace zve 21. listopadu do prostor Národního zemědělského muzea na Letné Zimní Apetit piknik. Oblíbený food festival magazínu Apetit nabídne celodenní program plný ochutnávek, setkání s výrobci, kuchaři i osobnostmi české gastronomické scény a inspirace pro sezonní i sváteční vaření. Součástí programu budou kuchařské show, rozhovory i další vystoupení na festivalové scéně. Atmosféru doplní předadventní nálada, vůně zimních specialit a program určený návštěvníkům všech generací. Zimní Apetit piknik je příležitostí objevovat nové chutě, poznat zajímavé gastronomické projekty a strávit den ve společnosti lidí, které spojuje láska k dobrému jídlu."
-   },
-   "url": {
-    "cs": "https://prague.eu/cs/akce/zimni-apetit-piknik/"
-   },
-   "image": "https://cdn.praguecitytourism.city/2024/10/12132915/5998-Apetit20Piknik20Zima2025-407.jpg",
-   "dates": [
-    {
-     "end": "2026-11-21T18:00",
-     "start": "2026-11-21T09:00"
-    }
-   ],
-   "venue": "Národní zemědělské muzeum",
-   "area": "Holešovice",
-   "lat": 50.0971388,
-   "lng": 14.4232407,
-   "cat": "city",
-   "free": true
-  },
-  {
-   "id": "goout:9604681",
-   "source": "goout",
-   "name": {
-    "cs": "Strašidýlka ve věži"
-   },
-   "summary": {
-    "cs": "*Listopadové odpoledne na Letné bude patřit všem, co se rádi trochu bojí. Tajemnou Vodárenskou věž obsadí bubáci, čerti, vodníci i pohádková strašidla, která znáte z knížek.* Na malé návštěvníky čeká stezka s deseti zastaveními. V alchymistické laboratoři namíchají bublavé lektvary, v pekelné pekárně upečou strašidla z falešného porcelánu a ve výtvarné dílně si vyrobí vlastního nylonového čerta…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/strasidylka-ve-vezi/szgmroy/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-21T13:00",
-     "end": "2026-11-21T17:00"
-    }
-   ],
-   "venue": "Vodárenská věž Letná",
-   "area": "Praha 7 – Letná",
-   "lat": 50.1002,
-   "lng": 14.4199,
-   "cat": "kids",
-   "free": true
-  },
-  {
-   "area": "Praha 1",
+   "venue": "Open House Praha",
+   "area": "Praha 4",
+   "lat": 50.0204928,
+   "lng": 14.4375413,
    "cat": "talk",
-   "dates": [
-    {
-     "end": "2026-11-28T16:00",
-     "start": "2026-11-21T14:00"
-    }
-   ],
-   "free": "likely",
+   "free": "likely"
+  },
+  {
    "id": "artmap:54684",
-   "lat": 50.0808286,
-   "lng": 14.4139743,
+   "source": "artmap",
    "name": {
     "cs": "Mezi Starým a Novým: Na hranici dvou měst"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Architektura a urbanismus"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/mezi-starym-a-novym-na-hranici-dvou-mest"
    },
-   "venue": "Open House Praha"
-  },
-  {
-   "id": "goout:9594323",
-   "source": "goout",
-   "name": {
-    "cs": "Ze života NGP: knihovna"
-   },
-   "summary": {},
-   "url": {
-    "cs": "https://goout.net/cs/ze-zivota-ngp-knihovna/szxwaoy/"
-   },
    "dates": [
     {
-     "start": "2026-11-21T15:00",
-     "end": "2026-11-21T23:59"
+     "start": "2026-11-21T14:00",
+     "end": "2026-11-28T16:00"
     }
    ],
-   "venue": "Šternberský palác",
+   "venue": "Open House Praha",
    "area": "Praha 1",
-   "lat": 50.0906,
-   "lng": 14.3967,
-   "cat": "city",
-   "free": true
-  },
-  {
-   "id": "goout:9586805",
-   "source": "goout",
-   "name": {
-    "cs": "Kolumbijská animace: Mezi přáteli"
-   },
-   "summary": {
-    "cs": "**Animace v Kolumbii vzniká téměř jako zázrak – často navzdory mnoha podobám násilí, které prostupují zemí, a traumatům, jež po sobě zanechávají. Zároveň však vytváří prostor pro přátelství a pro společné procházení tím, co bolí a co touží být oživeno.** Tento výběr experimentálních animovaných filmů využívá animaci jako způsob, jak se přímo podívat na tyto palčivé otázky. Všechny filmy navíc…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/kolumbijska-animace-mezi-prateli/szfwnny/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-21T18:00",
-     "end": "2026-11-21T23:59"
-    }
-   ],
-   "venue": "Kino Ponrepo",
-   "area": "Praha 1",
-   "lat": 50.0832,
-   "lng": 14.4177,
-   "cat": "city",
-   "free": true
-  },
-  {
-   "area": "Praha 4",
+   "lat": 50.0808286,
+   "lng": 14.4139743,
    "cat": "talk",
-   "dates": [
-    {
-     "end": "2026-11-29T12:00",
-     "start": "2026-11-22T10:00"
-    }
-   ],
-   "free": "likely",
+   "free": "likely"
+  },
+  {
    "id": "artmap:54689",
-   "lat": 50.0197727,
-   "lng": 14.4265439,
+   "source": "artmap",
    "name": {
     "cs": "Skryté Hodkovičky"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Architektura a urbanismus"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/skryte-hodkovicky"
    },
-   "venue": "Open House Praha"
-  },
-  {
-   "area": "Praha 3",
-   "cat": "talk",
    "dates": [
     {
-     "end": "2026-11-22T15:40",
-     "start": "2026-11-22T14:00"
+     "start": "2026-11-22T10:00",
+     "end": "2026-11-29T12:00"
     }
    ],
-   "free": "likely",
+   "venue": "Open House Praha",
+   "area": "Praha 4",
+   "lat": 50.0197727,
+   "lng": 14.4265439,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
    "id": "artmap:54697",
-   "lat": 50.0796427,
-   "lng": 14.473144,
+   "source": "artmap",
    "name": {
     "cs": "Architekti věčnosti"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Architektura a urbanismus"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/architekti-vecnosti"
    },
-   "venue": "Open House Praha"
+   "dates": [
+    {
+     "start": "2026-11-22T14:00",
+     "end": "2026-11-22T15:40"
+    }
+   ],
+   "venue": "Open House Praha",
+   "area": "Praha 3",
+   "lat": 50.0796427,
+   "lng": 14.473144,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "crossclub:8714-sundej-se-sunday",
@@ -490,29 +323,29 @@
    "free": true
   },
   {
-   "area": "Praha 7",
-   "cat": "talk",
-   "dates": [
-    {
-     "end": "2026-11-23T18:00",
-     "start": "2026-11-23T18:00"
-    }
-   ],
-   "free": "likely",
    "id": "artmap:54659",
-   "lat": 50.098384,
-   "lng": 14.432671,
+   "source": "artmap",
    "name": {
     "cs": "Derek Turner: Provenience v umění a v přírodě [english]"
    },
-   "source": "artmap",
    "summary": {
     "cs": "English Friendly"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/derek-turner-provenience-v-umeni-a-v-prirode-english"
    },
-   "venue": "Centrum pro současné umění Praha"
+   "dates": [
+    {
+     "start": "2026-11-23T18:00",
+     "end": "2026-11-23T18:00"
+    }
+   ],
+   "venue": "Centrum pro současné umění Praha",
+   "area": "Praha 7",
+   "lat": 50.098384,
+   "lng": 14.432671,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "goout:9617664",
@@ -590,54 +423,54 @@
    "free": true
   },
   {
-   "area": "Praha 4 – Nusle",
-   "cat": "opening",
-   "dates": [
-    {
-     "end": "2026-11-23T19:00",
-     "start": "2026-11-23T19:00"
-    }
-   ],
-   "free": true,
    "id": "artmap:54844",
-   "lat": 50.0621061,
-   "lng": 14.4411461,
+   "source": "artmap",
    "name": {
     "cs": "Michaela Hasnedlová – All the Single Ladies: Komunitním bydlením k emancipaci"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Architektura a urbanismus"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/michaela-hasnedlova-all-the-single-ladies-komunitnim-bydlenim-k-emancipaci-2"
    },
-   "venue": "atelier diptych"
-  },
-  {
-   "area": "Praha 2",
-   "cat": "talk",
    "dates": [
     {
-     "end": "2026-11-23T22:00",
-     "start": "2026-11-23T19:00"
+     "start": "2026-11-23T19:00",
+     "end": "2026-11-23T19:00"
     }
    ],
-   "free": "likely",
+   "venue": "atelier diptych",
+   "area": "Praha 4 – Nusle",
+   "lat": 50.0621061,
+   "lng": 14.4411461,
+   "cat": "opening",
+   "free": true
+  },
+  {
    "id": "artmap:54443",
-   "lat": 50.078979,
-   "lng": 14.4449917,
+   "source": "artmap",
    "name": {
     "cs": "Jonathan Pielmeier: Létající koně"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Kresba a grafika"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/jonathan-pielmeier-letajici-kone"
    },
-   "venue": "Laichterův dům"
+   "dates": [
+    {
+     "start": "2026-11-23T19:00",
+     "end": "2026-11-23T22:00"
+    }
+   ],
+   "venue": "Laichterův dům",
+   "area": "Praha 2",
+   "lat": 50.078979,
+   "lng": 14.4449917,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "crossclub:8721-prodigy-afterparty-rave",
@@ -972,52 +805,152 @@
    "free": true
   },
   {
-   "area": "Praha 6",
-   "cat": "talk",
+   "id": "artmap:54885",
+   "source": "artmap",
+   "name": {
+    "cs": "Jan Kaláb – Beyond the Frame"
+   },
+   "summary": {
+    "cs": "Socha a objekt"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/jan-kalab-beyond-the-frame-24-11"
+   },
    "dates": [
     {
-     "end": "2026-11-24T17:30",
-     "start": "2026-11-24T17:30"
+     "start": "2026-11-24T17:00",
+     "end": "2026-11-24T17:00"
     }
    ],
-   "free": "likely",
+   "venue": "KodlContemporary",
+   "area": "Praha 1",
+   "lat": 50.092075252223,
+   "lng": 14.418165488835,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
    "id": "artmap:54768",
-   "lat": 50.0978324,
-   "lng": 14.3649295,
+   "source": "artmap",
    "name": {
     "cs": "Petra Švejdarová, Klára Vaculíková – PRIME FAST"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Socha a objekt, Design"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/petra-svejdarova-klara-vaculikova-prime-fast-24-11"
    },
-   "venue": "Artium"
-  },
-  {
-   "area": "Praha 7",
-   "cat": "talk",
    "dates": [
     {
-     "end": "2026-11-24T18:00",
-     "start": "2026-11-24T18:00"
+     "start": "2026-11-24T17:30",
+     "end": "2026-11-24T17:30"
     }
    ],
-   "free": "likely",
+   "venue": "Artium",
+   "area": "Praha 6",
+   "lat": 50.0978324,
+   "lng": 14.3649295,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
+   "id": "artmap:54853",
+   "source": "artmap",
+   "name": {
+    "cs": "Alena Kotzmannová – Magnetic Trip"
+   },
+   "summary": {
+    "cs": "Socha a objekt, Fotografie, Video"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/alena-kotzmannova-magnetic-trip-2026-11-24-1800"
+   },
+   "dates": [
+    {
+     "start": "2026-11-24T18:00",
+     "end": "2026-11-24T18:00"
+    }
+   ],
+   "venue": "Galerie NoD",
+   "area": "Praha 1",
+   "lat": 50.0907911,
+   "lng": 14.4258421,
+   "cat": "opening",
+   "free": true
+  },
+  {
+   "id": "artmap:54855",
+   "source": "artmap",
+   "name": {
+    "cs": "Néphéli Barbas, Martin Herold – Distant Future"
+   },
+   "summary": {
+    "cs": "Malba, Design"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/nepheli-barbas-martin-herold-distant-future-2"
+   },
+   "dates": [
+    {
+     "start": "2026-11-24T18:00",
+     "end": "2026-11-24T18:00"
+    }
+   ],
+   "venue": "Spot Gallery",
+   "area": "Praha 2",
+   "lat": 50.0742688,
+   "lng": 14.4425735,
+   "cat": "opening",
+   "free": true
+  },
+  {
+   "id": "artmap:54857",
+   "source": "artmap",
+   "name": {
+    "cs": "Project Room: Filip Dvořák"
+   },
+   "summary": {
+    "cs": "Malba"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/project-room-filip-dvorak-2"
+   },
+   "dates": [
+    {
+     "start": "2026-11-24T18:00",
+     "end": "2026-11-24T18:00"
+    }
+   ],
+   "venue": "Spot Gallery",
+   "area": "Praha 2",
+   "lat": 50.0742688,
+   "lng": 14.4425735,
+   "cat": "opening",
+   "free": true
+  },
+  {
    "id": "artmap:54658",
-   "lat": 50.098384,
-   "lng": 14.432671,
+   "source": "artmap",
    "name": {
     "cs": "Jak chránit umělecká díla před nečekanými událostmi?"
    },
-   "source": "artmap",
    "summary": {},
    "url": {
     "cs": "https://www.artmap.cz/eventy/jak-chranit-umelecka-dila-pred-necekanymi-udalostmi"
    },
-   "venue": "Centrum pro současné umění Praha"
+   "dates": [
+    {
+     "start": "2026-11-24T18:00",
+     "end": "2026-11-24T18:00"
+    }
+   ],
+   "venue": "Centrum pro současné umění Praha",
+   "area": "Praha 7",
+   "lat": 50.098384,
+   "lng": 14.432671,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "goout:9604693",
@@ -1095,57 +1028,57 @@
    "free": true
   },
   {
-   "area": "Praha 7",
-   "cat": "opening",
-   "dates": [
-    {
-     "end": "2026-11-24T19:00",
-     "start": "2026-11-24T19:00"
-    }
-   ],
-   "free": true,
    "id": "artmap:54835",
-   "lat": 50.1067812,
-   "lng": 14.4470411,
+   "source": "artmap",
    "name": {
     "cs": "Field of Memory"
    },
-   "source": "artmap",
    "summary": {
     "cs": "**DOX Centrum současného umění zve na vernisáž výstavy umělce [Field of Memory](https://www.dox.cz/program/field-of-memory).** ***„Dívat se do nitra války očima dětí.“*** Multimediální výstava v produkci kyjevského divadla odkrývá tragické osudy ukrajinských dětí, které byly během probíhající války s Ruskem odloučeny od svých domovů a rodin. Prostřednictvím osobních svědectví, dětských kreseb,…"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/field-of-memory-2026-11-24-1900"
    },
+   "dates": [
+    {
+     "start": "2026-11-24T19:00",
+     "end": "2026-11-24T19:00"
+    }
+   ],
    "venue": "Centrum současného umění DOX",
+   "area": "Praha 7",
+   "lat": 50.1067812,
+   "lng": 14.4470411,
+   "cat": "opening",
+   "free": true,
    "also": [
     "goout"
    ]
   },
   {
-   "area": "Praha 8",
-   "cat": "opening",
-   "dates": [
-    {
-     "end": "2026-11-24T22:00",
-     "start": "2026-11-24T19:00"
-    }
-   ],
-   "free": true,
    "id": "artmap:54527",
-   "lat": 50.0729059,
-   "lng": 14.4179984,
+   "source": "artmap",
    "name": {
     "cs": "All You Can Read: Jak číst a plánovat město?"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Architektura a urbanismus"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/all-you-can-read-jak-cist-a-planovat-mesto-2"
    },
+   "dates": [
+    {
+     "start": "2026-11-24T19:00",
+     "end": "2026-11-24T22:00"
+    }
+   ],
    "venue": "CAMP",
+   "area": "Praha 8",
+   "lat": 50.0729059,
+   "lng": 14.4179984,
+   "cat": "opening",
+   "free": true,
    "also": [
     "goout"
    ]
@@ -1502,178 +1435,226 @@
    "free": true
   },
   {
-   "area": "Praha 2",
-   "cat": "opening",
+   "id": "artmap:54850",
+   "source": "artmap",
+   "name": {
+    "cs": "Guest Lectures: Jeremiah Day"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/guest-lectures-jeremiah-day"
+   },
    "dates": [
     {
-     "end": "2026-11-25T18:00",
-     "start": "2026-11-25T18:00"
+     "start": "2026-11-25T17:00",
+     "end": "2026-11-25T18:30"
     }
    ],
-   "free": true,
+   "venue": "AVU Veletržní",
+   "area": "Praha 7",
+   "lat": 50.1008082,
+   "lng": 14.4262368,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
    "id": "artmap:54804",
-   "lat": 50.0754912,
-   "lng": 14.4389497,
+   "source": "artmap",
    "name": {
     "cs": "Michal Cimala: Trafačka Primo Ultimo"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Malba, Socha a objekt, Fotografie, Kresba a grafika"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/michal-cimala-trafacka-primo-ultimo-2026-11-25-1800"
    },
-   "venue": "Galerie Prostora"
-  },
-  {
-   "area": "Praha 1",
-   "cat": "opening",
    "dates": [
     {
-     "end": "2026-11-25T18:00",
-     "start": "2026-11-25T18:00"
+     "start": "2026-11-25T18:00",
+     "end": "2026-11-25T18:00"
     }
    ],
-   "free": true,
+   "venue": "Galerie Prostora",
+   "area": "Praha 2",
+   "lat": 50.0754912,
+   "lng": 14.4389497,
+   "cat": "opening",
+   "free": true
+  },
+  {
    "id": "artmap:54824",
-   "lat": 50.0881108,
-   "lng": 14.4001951,
+   "source": "artmap",
    "name": {
     "cs": "Franck Alasseur – Révélés"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Malba"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/franck-alasseur-reveles-2"
    },
-   "venue": "Ethera"
-  },
-  {
-   "area": "Praha 8",
-   "cat": "talk",
    "dates": [
     {
-     "end": "2026-11-25T19:30",
-     "start": "2026-11-25T18:00"
+     "start": "2026-11-25T18:00",
+     "end": "2026-11-25T18:00"
     }
    ],
-   "free": "likely",
+   "venue": "Ethera",
+   "area": "Praha 1",
+   "lat": 50.0881108,
+   "lng": 14.4001951,
+   "cat": "opening",
+   "free": true
+  },
+  {
    "id": "artmap:54831",
-   "lat": 50.0729059,
-   "lng": 14.4179984,
+   "source": "artmap",
    "name": {
     "cs": "All You Can Read s Adamem Gebrianem"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Architektura a urbanismus"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/all-you-can-read-s-adamem-gebrianem"
    },
+   "dates": [
+    {
+     "start": "2026-11-25T18:00",
+     "end": "2026-11-25T19:30"
+    }
+   ],
    "venue": "CAMP",
+   "area": "Praha 8",
+   "lat": 50.0729059,
+   "lng": 14.4179984,
+   "cat": "talk",
+   "free": "likely",
    "also": [
     "goout"
    ]
   },
   {
-   "area": "Praha 9",
-   "cat": "talk",
-   "dates": [
-    {
-     "end": "2026-11-25T20:00",
-     "start": "2026-11-25T18:00"
-    }
-   ],
-   "free": "likely",
    "id": "artmap:54662",
-   "lat": 50.110454,
-   "lng": 14.5111135,
+   "source": "artmap",
    "name": {
     "cs": "Eliška Fulínová: Vítejte v antropocénu"
    },
-   "source": "artmap",
    "summary": {},
    "url": {
     "cs": "https://www.artmap.cz/eventy/eliska-fulinova-vitejte-v-antropocenu"
    },
-   "venue": "Pragovka Gallery"
-  },
-  {
-   "area": "Praha 2",
-   "cat": "talk",
    "dates": [
     {
-     "end": "2026-11-25T20:30",
-     "start": "2026-11-25T18:00"
+     "start": "2026-11-25T18:00",
+     "end": "2026-11-25T20:00"
     }
    ],
-   "free": "likely",
+   "venue": "Pragovka Gallery",
+   "area": "Praha 9",
+   "lat": 50.110454,
+   "lng": 14.5111135,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
    "id": "artmap:54449",
-   "lat": 50.078979,
-   "lng": 14.4449917,
+   "source": "artmap",
    "name": {
     "cs": "Severská moderna III.: Švédsko a Norsko"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Architektura a urbanismus"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/severska-moderna-iii-svedsko-a-norsko"
    },
-   "venue": "Laichterův dům"
-  },
-  {
-   "area": "Praha 7",
-   "cat": "talk",
    "dates": [
     {
-     "end": "2026-11-25T18:00",
-     "start": "2026-11-25T18:00"
+     "start": "2026-11-25T18:00",
+     "end": "2026-11-25T20:30"
     }
    ],
-   "free": "likely",
+   "venue": "Laichterův dům",
+   "area": "Praha 2",
+   "lat": 50.078979,
+   "lng": 14.4449917,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
    "id": "artmap:54755",
-   "lat": 50.098384,
-   "lng": 14.432671,
+   "source": "artmap",
    "name": {
     "cs": "Art Guide s Matějem Forejtem: Dekadence Reloaded"
    },
-   "source": "artmap",
    "summary": {},
    "url": {
     "cs": "https://www.artmap.cz/eventy/art-guide-s-matejem-forejtem-dekadence-reloaded"
    },
-   "venue": "Centrum pro současné umění Praha"
-  },
-  {
-   "area": "Praha 7",
-   "cat": "opening",
    "dates": [
     {
-     "end": "2026-11-25T19:00",
-     "start": "2026-11-25T19:00"
+     "start": "2026-11-25T18:00",
+     "end": "2026-11-25T18:00"
     }
    ],
-   "free": true,
+   "venue": "Centrum pro současné umění Praha",
+   "area": "Praha 7",
+   "lat": 50.098384,
+   "lng": 14.432671,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
    "id": "artmap:54812",
-   "lat": 50.1010757,
-   "lng": 14.4327945,
+   "source": "artmap",
    "name": {
     "cs": "Proti proudu. Skupina surrealistů. 1934–2024"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Malba"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/proti-proudu-skupina-surrealistu-1934-2024-2026-11-25-1900"
    },
-   "venue": "Národní galerie Praha, Veletržní palác"
+   "dates": [
+    {
+     "start": "2026-11-25T19:00",
+     "end": "2026-11-25T19:00"
+    }
+   ],
+   "venue": "Národní galerie Praha, Veletržní palác",
+   "area": "Praha 7",
+   "lat": 50.1010757,
+   "lng": 14.4327945,
+   "cat": "opening",
+   "free": true
+  },
+  {
+   "id": "artmap:54868",
+   "source": "artmap",
+   "name": {
+    "cs": "Viktor Frešo – Glassclay"
+   },
+   "summary": {
+    "cs": "Socha a objekt, Koncept"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/viktor-freso-glassclay-2"
+   },
+   "dates": [
+    {
+     "start": "2026-11-25T19:00",
+     "end": "2026-11-25T19:00"
+    }
+   ],
+   "venue": "Galerie SPZ",
+   "area": "Praha 1",
+   "lat": 50.07815,
+   "lng": 14.416294,
+   "cat": "opening",
+   "free": true
   },
   {
    "id": "crossclub:8722-psytrance",
@@ -1899,54 +1880,54 @@
    "free": true
   },
   {
-   "area": "Praha 1",
-   "cat": "talk",
-   "dates": [
-    {
-     "end": "2026-11-26T15:30",
-     "start": "2026-11-26T15:30"
-    }
-   ],
-   "free": "likely",
    "id": "artmap:54752",
-   "lat": 50.0886481,
-   "lng": 14.4149321,
+   "source": "artmap",
    "name": {
     "cs": "Josep Piñol a Tjaša Pogačar: Hodnota zřeknutí se [english]"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Koncept, English Friendly, Současné umění, Teorie"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/josep-pinol-a-tjasa-pogacar-hodnota-zreknuti-se-english"
    },
-   "venue": "Vysoká škola uměleckoprůmyslová v Praze"
-  },
-  {
-   "area": "Praha 1",
-   "cat": "talk",
    "dates": [
     {
-     "end": "2026-11-26T20:00",
-     "start": "2026-11-26T17:00"
+     "start": "2026-11-26T15:30",
+     "end": "2026-11-26T15:30"
     }
    ],
-   "free": "likely",
+   "venue": "Vysoká škola uměleckoprůmyslová v Praze",
+   "area": "Praha 1",
+   "lat": 50.0886481,
+   "lng": 14.4149321,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
    "id": "artmap:54694",
-   "lat": 50.0796951,
-   "lng": 14.4141769,
+   "source": "artmap",
    "name": {
     "cs": "Anatomie sestupu [english]"
    },
-   "source": "artmap",
    "summary": {
     "cs": "English Friendly"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/anatomie-sestupu-english"
    },
-   "venue": "GHMP Dům fotografie"
+   "dates": [
+    {
+     "start": "2026-11-26T17:00",
+     "end": "2026-11-26T20:00"
+    }
+   ],
+   "venue": "GHMP Dům fotografie",
+   "area": "Praha 1",
+   "lat": 50.0796951,
+   "lng": 14.4141769,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "goout:9614260",
@@ -1974,27 +1955,75 @@
    "free": true
   },
   {
-   "area": "Praha 9",
-   "cat": "talk",
-   "dates": [
-    {
-     "end": "2026-11-26T20:00",
-     "start": "2026-11-26T18:00"
-    }
-   ],
-   "free": "likely",
    "id": "artmap:54800",
-   "lat": 50.110454,
-   "lng": 14.5111135,
+   "source": "artmap",
    "name": {
     "cs": "Výstup z rezidence: Alma Gačanin – Gorilla Girl"
    },
-   "source": "artmap",
    "summary": {},
    "url": {
     "cs": "https://www.artmap.cz/eventy/vystup-z-rezidence-alma-gacanin-gorilla-girl"
    },
-   "venue": "Pragovka Gallery"
+   "dates": [
+    {
+     "start": "2026-11-26T18:00",
+     "end": "2026-11-26T20:00"
+    }
+   ],
+   "venue": "Pragovka Gallery",
+   "area": "Praha 9",
+   "lat": 50.110454,
+   "lng": 14.5111135,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
+   "id": "artmap:54848",
+   "source": "artmap",
+   "name": {
+    "cs": "Jak se některá zkušenost stává uměním, zatímco jiná zůstává zraněním?"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/jak-se-nektera-zkusenost-stava-umenim-zatimco-jina-zustava-zranenim-2026-11-26-1800"
+   },
+   "dates": [
+    {
+     "start": "2026-11-26T18:00",
+     "end": "2026-11-26T18:00"
+    }
+   ],
+   "venue": "Galerie AVU",
+   "area": "Praha 7",
+   "lat": 50.1008082,
+   "lng": 14.4262368,
+   "cat": "opening",
+   "free": true
+  },
+  {
+   "id": "artmap:54884",
+   "source": "artmap",
+   "name": {
+    "cs": "Jakub Hájek, František Hanousek – Heriot"
+   },
+   "summary": {
+    "cs": "Malba, Socha a objekt, Současné umění"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/jakub-hajek-frantisek-hanousek-heriot-26-11"
+   },
+   "dates": [
+    {
+     "start": "2026-11-26T18:00",
+     "end": "2026-11-26T20:00"
+    }
+   ],
+   "venue": "Clauda",
+   "area": "Praha 7",
+   "lat": 50.0979083,
+   "lng": 14.4336783,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "goout:9590410",
@@ -2022,105 +2051,130 @@
    "free": true
   },
   {
-   "area": "Praha 7",
-   "cat": "opening",
-   "dates": [
-    {
-     "end": "2026-11-26T19:00",
-     "start": "2026-11-26T19:00"
-    }
-   ],
-   "free": true,
    "id": "artmap:54796",
-   "lat": 50.1067812,
-   "lng": 14.4470411,
+   "source": "artmap",
    "name": {
     "cs": "Vladimír Kokolia – Dogma"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Malba"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/vladimir-kokolia-dogma-2"
    },
+   "dates": [
+    {
+     "start": "2026-11-26T19:00",
+     "end": "2026-11-26T19:00"
+    }
+   ],
    "venue": "Centrum současného umění DOX",
+   "area": "Praha 7",
+   "lat": 50.1067812,
+   "lng": 14.4470411,
+   "cat": "opening",
+   "free": true,
    "also": [
     "goout"
    ]
   },
   {
-   "area": "Praha 1",
-   "cat": "opening",
-   "dates": [
-    {
-     "end": "2026-11-26T19:00",
-     "start": "2026-11-26T19:00"
-    }
-   ],
-   "free": true,
    "id": "artmap:54838",
-   "lat": 50.079352,
-   "lng": 14.424213,
+   "source": "artmap",
    "name": {
     "cs": "Vojtěch Písařík – Magika & tváře"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Fotografie"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/vojtech-pisarik-magika-tvare-2"
    },
-   "venue": "Leica Gallery Prague"
-  },
-  {
-   "area": "Praha 3",
-   "cat": "opening",
    "dates": [
     {
-     "end": "2026-11-26T19:00",
-     "start": "2026-11-26T19:00"
+     "start": "2026-11-26T19:00",
+     "end": "2026-11-26T19:00"
     }
    ],
-   "free": true,
+   "venue": "Leica Gallery Prague",
+   "area": "Praha 1",
+   "lat": 50.079352,
+   "lng": 14.424213,
+   "cat": "opening",
+   "free": true
+  },
+  {
    "id": "artmap:54846",
-   "lat": 50.084235,
-   "lng": 14.448757,
+   "source": "artmap",
    "name": {
     "cs": "Kristina Láníková, Eliška Klimešová – V sevření"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Fotografie, Současné umění"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/kristina-lanikova-eliska-klimesova-v-sevreni-2"
    },
-   "venue": "Galerie 35M2"
-  },
-  {
-   "area": "Praha 2",
-   "cat": "talk",
    "dates": [
     {
-     "end": "2026-11-26T22:00",
-     "start": "2026-11-26T19:00"
+     "start": "2026-11-26T19:00",
+     "end": "2026-11-26T19:00"
     }
    ],
-   "free": "likely",
+   "venue": "Galerie 35M2",
+   "area": "Praha 3",
+   "lat": 50.084235,
+   "lng": 14.448757,
+   "cat": "opening",
+   "free": true
+  },
+  {
+   "id": "artmap:54858",
+   "source": "artmap",
+   "name": {
+    "cs": "Adam Štěch: Japonská architektura 80. let"
+   },
+   "summary": {
+    "cs": "Architektura a urbanismus"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/adam-stech-japonska-architektura-80-let"
+   },
+   "dates": [
+    {
+     "start": "2026-11-26T19:00",
+     "end": "2026-11-26T21:30"
+    }
+   ],
+   "venue": "Winternitzova vila",
+   "area": "Praha 5",
+   "lat": 50.0669677,
+   "lng": 14.3884694,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
    "id": "artmap:54445",
-   "lat": 50.078979,
-   "lng": 14.4449917,
+   "source": "artmap",
    "name": {
     "cs": "Tomáš Hučko: Stříbrná metalíza"
    },
-   "source": "artmap",
    "summary": {},
    "url": {
     "cs": "https://www.artmap.cz/eventy/tomas-hucko-stribrna-metaliza"
    },
-   "venue": "Laichterův dům"
+   "dates": [
+    {
+     "start": "2026-11-26T19:00",
+     "end": "2026-11-26T22:00"
+    }
+   ],
+   "venue": "Laichterův dům",
+   "area": "Praha 2",
+   "lat": 50.078979,
+   "lng": 14.4449917,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "goout:9618489",
@@ -2171,6 +2225,31 @@
    "lng": 14.4299,
    "cat": "music",
    "free": true
+  },
+  {
+   "id": "petrohradska:66c090ab-3e08-44df-a9ac-4126b1795600",
+   "source": "petrohradska",
+   "name": {
+    "cs": "Petrohradská Clawlektiv: Horor vs. pohádka (Rudé boty + Ošklivá sestra)"
+   },
+   "summary": {
+    "cs": "Dobrovolné"
+   },
+   "url": {
+    "cs": "https://www.petrohradskakolektiv.com/verejne/petrohradska-kolektiv/program/66c090ab-3e08-44df-a9ac-4126b1795600"
+   },
+   "dates": [
+    {
+     "start": "2026-11-26T19:45",
+     "end": "2026-11-26T22:00"
+    }
+   ],
+   "venue": "Petrohradská kolektiv — Kino",
+   "area": "Vršovice",
+   "lat": null,
+   "lng": null,
+   "cat": "city",
+   "free": "donation"
   },
   {
    "id": "crossclub:8723-unity-rage-dnb-stage",
@@ -2396,6 +2475,31 @@
    "free": true
   },
   {
+   "id": "artmap:54883",
+   "source": "artmap",
+   "name": {
+    "cs": "Igor Hosnedl – Slumber"
+   },
+   "summary": {
+    "cs": "Malba, Kresba a grafika, Současné umění"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/igor-hosnedl-slumber-2"
+   },
+   "dates": [
+    {
+     "start": "2026-11-27T18:00",
+     "end": "2026-11-27T18:00"
+    }
+   ],
+   "venue": "Hunt Kastner",
+   "area": "Praha 3 – Žižkov",
+   "lat": 50.082811,
+   "lng": 14.448147,
+   "cat": "opening",
+   "free": true
+  },
+  {
    "id": "punctum:berre-no-kuchen-se-erb-ch-lonberg-holm-usa-black-diamond-usaau@punctum.cz",
    "source": "punctum",
    "name": {
@@ -2446,6 +2550,45 @@
    "free": true
   },
   {
+   "id": "prague.eu:farmarske-trhy-na-kulataku",
+   "source": "prague.eu",
+   "name": {
+    "cs": "Farmářské trhy na Kulaťáku"
+   },
+   "summary": {
+    "cs": "Farmářský trh Kulaťák patří k největším pravidelným trhům v Praze a dlouhodobě nabízí kvalitní produkty od českých farmářů a výrobců. Od začátku března vždy v sobotu proměňuje Vítězné náměstí v příjemné místo plné sezónních chutí a sousedské atmosféry. Každý týden zde pořídíte čerstvé ovoce a zeleninu, pečivo, maso, ryby, sýry, květiny i další produkty s jasným původem, doplněné o pestrý street food a vybrané zahraniční delikatesy.   "
+   },
+   "url": {
+    "cs": "https://prague.eu/cs/akce/farmarske-trhy-na-kulataku/",
+    "en": "https://prague.eu/en/akce/farmers-markets-at-kulatak-vitezne-namesti/"
+   },
+   "image": "https://cdn.praguecitytourism.city/2024/12/15122142/481086264_1041559144679445_6937361057754772119_n.jpg",
+   "dates": [
+    {
+     "end": "2026-11-28T14:00",
+     "start": "2026-11-28T08:00"
+    },
+    {
+     "end": "2026-12-05T14:00",
+     "start": "2026-12-05T08:00"
+    },
+    {
+     "end": "2026-12-12T14:00",
+     "start": "2026-12-12T08:00"
+    },
+    {
+     "end": "2026-12-19T14:00",
+     "start": "2026-12-19T08:00"
+    }
+   ],
+   "venue": "Farmářské trhy na Kulaťáku",
+   "area": "Dejvice",
+   "lat": 50.10155087680153,
+   "lng": 14.393436381861893,
+   "cat": "city",
+   "free": true
+  },
+  {
    "id": "prague.eu:prazsky-hrad-den-otevrenych-dveri-3",
    "source": "prague.eu",
    "name": {
@@ -2475,29 +2618,29 @@
    "free": true
   },
   {
-   "area": "Praha 8",
-   "cat": "talk",
-   "dates": [
-    {
-     "end": "2026-11-28T20:00",
-     "start": "2026-11-28T18:00"
-    }
-   ],
-   "free": "likely",
    "id": "artmap:54832",
-   "lat": 50.0729059,
-   "lng": 14.4179984,
+   "source": "artmap",
    "name": {
     "cs": "Urbánní ekonomie"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Architektura a urbanismus"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/urbanni-ekonomie-2"
    },
+   "dates": [
+    {
+     "start": "2026-11-28T18:00",
+     "end": "2026-11-28T20:00"
+    }
+   ],
    "venue": "CAMP",
+   "area": "Praha 8",
+   "lat": 50.0729059,
+   "lng": 14.4179984,
+   "cat": "talk",
+   "free": "likely",
    "also": [
     "goout"
    ]
@@ -2576,29 +2719,29 @@
    "free": true
   },
   {
-   "area": "Praha 8",
-   "cat": "talk",
-   "dates": [
-    {
-     "end": "2026-11-30T18:00",
-     "start": "2026-11-30T16:30"
-    }
-   ],
-   "free": "likely",
    "id": "artmap:54698",
-   "lat": 50.0985374,
-   "lng": 14.4686473,
+   "source": "artmap",
    "name": {
     "cs": "Sídliště I."
    },
-   "source": "artmap",
    "summary": {
     "cs": "Architektura a urbanismus"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/sidliste-i"
    },
-   "venue": "Open House Praha"
+   "dates": [
+    {
+     "start": "2026-11-30T16:30",
+     "end": "2026-11-30T18:00"
+    }
+   ],
+   "venue": "Open House Praha",
+   "area": "Praha 8",
+   "lat": 50.0985374,
+   "lng": 14.4686473,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "punctum:yoga-s-ivetou-nykodymovou-47@punctum.cz",
@@ -2626,27 +2769,27 @@
    "free": true
   },
   {
-   "area": "Praha 2",
-   "cat": "talk",
-   "dates": [
-    {
-     "end": "2026-11-30T22:00",
-     "start": "2026-11-30T19:00"
-    }
-   ],
-   "free": "likely",
    "id": "artmap:54446",
-   "lat": 50.078979,
-   "lng": 14.4449917,
+   "source": "artmap",
    "name": {
     "cs": "Psychedelika a absolutní idealismus"
    },
-   "source": "artmap",
    "summary": {},
    "url": {
     "cs": "https://www.artmap.cz/eventy/psychedelika-a-absolutni-idealismus"
    },
-   "venue": "Laichterův dům"
+   "dates": [
+    {
+     "start": "2026-11-30T19:00",
+     "end": "2026-11-30T22:00"
+    }
+   ],
+   "venue": "Laichterův dům",
+   "area": "Praha 2",
+   "lat": 50.078979,
+   "lng": 14.4449917,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "goout:9591739",
@@ -2829,16 +2972,16 @@
    "free": true
   },
   {
-   "id": "rudolfinum:23250",
-   "source": "rudolfinum",
+   "id": "artmap:54842",
+   "source": "artmap",
    "name": {
-    "cs": "Migrace etnografického předmětu | Komentovaná procházka | CRASH"
+    "cs": "Migrace etnografického předmětu: Mezi Galerií Rudolfinum a Náprstkovým muzeem"
    },
    "summary": {
     "cs": "V úterý 1. prosince v 17:00 vás zveme do Náprstkova muzea v Praze na komentovanou procházku Migrace etnografického předmětu: Mezi Galerií Rudolfinum a Náprstkovým muzeem s historičkou umění a kurátorkou Annou Remešovou , která je d oprovodným programem k výstavě Crested/mâcistan: Tanya Lukin Linklater and Duane Linklater . Procházka z volného cyklu CRASH proběhne v českém jazyce. Vstup je volný.…"
    },
    "url": {
-    "cs": "https://www.galerierudolfinum.cz/cs/event/migrace-etnografickeho-predmetu-crash-1-12-2026/"
+    "cs": "https://www.artmap.cz/eventy/migrace-etnografickeho-predmetu-mezi-galerii-rudolfinum-a-naprstkovym-muzeem"
    },
    "dates": [
     {
@@ -2847,11 +2990,14 @@
     }
    ],
    "venue": "Galerie Rudolfinum",
-   "area": "Staré Město",
-   "lat": null,
-   "lng": null,
-   "cat": "art",
-   "free": true
+   "area": "Praha 1",
+   "lat": 50.0840427,
+   "lng": 14.4166155,
+   "cat": "talk",
+   "free": "likely",
+   "also": [
+    "rudolfinum"
+   ]
   },
   {
    "id": "goout:9590071",
@@ -3107,27 +3253,27 @@
    "free": true
   },
   {
-   "area": "Praha 1",
-   "cat": "talk",
-   "dates": [
-    {
-     "end": "2026-12-02T17:00",
-     "start": "2026-12-02T17:00"
-    }
-   ],
-   "free": "likely",
    "id": "artmap:54863",
-   "lat": 50.0914589,
-   "lng": 14.427189,
+   "source": "artmap",
    "name": {
     "cs": "Ondřej Vavrečka: Nigredo, Albedo, Rubedo"
    },
-   "source": "artmap",
    "summary": {},
    "url": {
     "cs": "https://www.artmap.cz/eventy/ondrej-vavrecka-nigredo-albedo-rubedo"
    },
-   "venue": "Fenster/Schule Gallery"
+   "dates": [
+    {
+     "start": "2026-12-02T17:00",
+     "end": "2026-12-02T17:00"
+    }
+   ],
+   "venue": "Fenster/Schule Gallery",
+   "area": "Praha 1",
+   "lat": 50.0914589,
+   "lng": 14.427189,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "goout:9616916",
@@ -3155,54 +3301,79 @@
    "free": true
   },
   {
-   "area": "Praha 6 – Bubeneč",
-   "cat": "talk",
+   "id": "artmap:54836",
+   "source": "artmap",
+   "name": {
+    "cs": "Argus & Medusa"
+   },
+   "summary": {
+    "cs": "Malba, Socha a objekt, Fotografie, Video, Kresba a grafika, Historické umění, Současné umění"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/argus-medusa-2-12"
+   },
    "dates": [
     {
-     "end": "2026-12-02T18:00",
-     "start": "2026-12-02T18:00"
+     "start": "2026-12-02T18:00",
+     "end": "2026-12-02T18:00"
     }
    ],
-   "free": "likely",
+   "venue": "Centrum současného umění DOX",
+   "area": "Praha 7",
+   "lat": 50.1067812,
+   "lng": 14.4470411,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
    "id": "artmap:54188",
-   "lat": 50.1042942,
-   "lng": 14.4058478,
+   "source": "artmap",
    "name": {
     "cs": "Kamil Lhoták – Krajina snů"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Malba"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/kamil-lhotak-krajina-snu-2-12"
    },
-   "venue": "Galerie Villa Pellé"
-  },
-  {
-   "area": "Praha 2",
-   "cat": "talk",
    "dates": [
     {
-     "end": "2026-12-02T22:00",
-     "start": "2026-12-02T19:00"
+     "start": "2026-12-02T18:00",
+     "end": "2026-12-02T18:00"
     }
    ],
-   "free": "likely",
+   "venue": "Galerie Villa Pellé",
+   "area": "Praha 6 – Bubeneč",
+   "lat": 50.1042942,
+   "lng": 14.4058478,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
    "id": "artmap:54450",
-   "lat": 50.078979,
-   "lng": 14.4449917,
+   "source": "artmap",
    "name": {
     "cs": "Vladimir 518: Architektura 58–89"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Architektura a urbanismus"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/vladimir-518-architektura-58-89"
    },
-   "venue": "Laichterův dům"
+   "dates": [
+    {
+     "start": "2026-12-02T19:00",
+     "end": "2026-12-02T22:00"
+    }
+   ],
+   "venue": "Laichterův dům",
+   "area": "Praha 2",
+   "lat": 50.078979,
+   "lng": 14.4449917,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "goout:9590473",
@@ -3430,57 +3601,80 @@
    "free": true
   },
   {
-   "area": "Praha 1",
-   "cat": "opening",
-   "dates": [
-    {
-     "end": "2026-12-03T18:00",
-     "start": "2026-12-03T18:00"
-    }
-   ],
-   "free": true,
    "id": "artmap:54574",
-   "lat": 50.077775,
-   "lng": 14.422575,
+   "source": "artmap",
    "name": {
     "cs": "Michael Wallinger – I Have Nothing to Hide, Yet"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Video, Současné umění, Média a technologie"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/michael-wallinger-i-have-nothing-to-hide-yet-2"
    },
-   "venue": "Ex Post"
-  },
-  {
-   "area": "Praha 1",
-   "cat": "talk",
    "dates": [
     {
-     "end": "2026-12-03T20:00",
-     "start": "2026-12-03T18:30"
+     "start": "2026-12-03T18:00",
+     "end": "2026-12-03T18:00"
     }
    ],
-   "free": "likely",
+   "venue": "Ex Post",
+   "area": "Praha 1",
+   "lat": 50.077775,
+   "lng": 14.422575,
+   "cat": "opening",
+   "free": true
+  },
+  {
    "id": "artmap:54860",
-   "lat": 50.087978,
-   "lng": 14.4216399,
+   "source": "artmap",
    "name": {
     "cs": "Komu je Národní galerie otevřená?"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Třetí debata se zaměří na vztah Národní galerie k současnému i potenciálnímu publiku. Pozornost bude věnována tomu, kdo galerii navštěvuje, koho se daří oslovovat a které skupiny jsou v publiku zastoupeny méně. Součástí diskuse budou také sociální či institucionální bariéry, které mohou přístup ke galerii ovlivňovat. Dalším tématem bude způsob, jímž kulturní instituce komunikují s veřejností a…"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/komu-je-narodni-galerie-otevrena"
    },
+   "dates": [
+    {
+     "start": "2026-12-03T18:30",
+     "end": "2026-12-03T20:00"
+    }
+   ],
    "venue": "Národní galerie Praha",
+   "area": "Praha 1",
+   "lat": 50.087978,
+   "lng": 14.4216399,
+   "cat": "talk",
+   "free": "likely",
    "also": [
     "goout"
    ]
+  },
+  {
+   "id": "artmap:54828",
+   "source": "artmap",
+   "name": {
+    "cs": "Taťána Rubášová: Hodná"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/tatana-rubasova-hodna"
+   },
+   "dates": [
+    {
+     "start": "2026-12-03T19:00",
+     "end": "2026-12-03T22:00"
+    }
+   ],
+   "venue": "Laichterův dům",
+   "area": "Praha 2",
+   "lat": 50.078979,
+   "lng": 14.4449917,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "goout:9612580",
@@ -3836,54 +4030,54 @@
    "free": true
   },
   {
-   "area": "Praha 1",
-   "cat": "talk",
-   "dates": [
-    {
-     "end": "2026-12-07T18:00",
-     "start": "2026-12-07T16:30"
-    }
-   ],
-   "free": "likely",
    "id": "artmap:54757",
-   "lat": 50.0860717,
-   "lng": 14.4060678,
+   "source": "artmap",
    "name": {
     "cs": "Petr Blažek o Lennonově zdi"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Architektura a urbanismus"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/petr-blazek-o-lennonove-zdi"
    },
-   "venue": "Open House Praha"
-  },
-  {
-   "area": "Praha 4",
-   "cat": "talk",
    "dates": [
     {
-     "end": "2026-12-07T18:00",
-     "start": "2026-12-07T16:30"
+     "start": "2026-12-07T16:30",
+     "end": "2026-12-07T18:00"
     }
    ],
-   "free": "likely",
+   "venue": "Open House Praha",
+   "area": "Praha 1",
+   "lat": 50.0860717,
+   "lng": 14.4060678,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
    "id": "artmap:54761",
-   "lat": 50.0439201,
-   "lng": 14.4499786,
+   "source": "artmap",
    "name": {
     "cs": "Brutalistická architektura VIII."
    },
-   "source": "artmap",
    "summary": {
     "cs": "Architektura a urbanismus"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/brutalisticka-architektura-viii-3"
    },
-   "venue": "Open House Praha"
+   "dates": [
+    {
+     "start": "2026-12-07T16:30",
+     "end": "2026-12-07T18:00"
+    }
+   ],
+   "venue": "Open House Praha",
+   "area": "Praha 4",
+   "lat": 50.0439201,
+   "lng": 14.4499786,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "goout:9617161",
@@ -4320,29 +4514,54 @@
    "free": true
   },
   {
-   "area": "Praha 1",
-   "cat": "opening",
+   "id": "artmap:54839",
+   "source": "artmap",
+   "name": {
+    "cs": "Vladimír Kokolia – Dogma"
+   },
+   "summary": {
+    "cs": "Malba"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/vladimir-kokolia-dogma-9-12"
+   },
    "dates": [
     {
-     "end": "2026-12-09T18:00",
-     "start": "2026-12-09T18:00"
+     "start": "2026-12-09T18:00",
+     "end": "2026-12-09T18:00"
     }
    ],
-   "free": true,
+   "venue": "Centrum současného umění DOX",
+   "area": "Praha 7",
+   "lat": 50.1067812,
+   "lng": 14.4470411,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
    "id": "artmap:54468",
-   "lat": 50.082546,
-   "lng": 14.404989,
+   "source": "artmap",
    "name": {
     "cs": "Peter Watkins – Fifth Chair"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Fotografie"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/peter-watkins-fifth-chair-2026-12-09-1800"
    },
-   "venue": "Ateliér Josefa Sudka"
+   "dates": [
+    {
+     "start": "2026-12-09T18:00",
+     "end": "2026-12-09T18:00"
+    }
+   ],
+   "venue": "Ateliér Josefa Sudka",
+   "area": "Praha 1",
+   "lat": 50.082546,
+   "lng": 14.404989,
+   "cat": "opening",
+   "free": true
   },
   {
    "id": "petrohradska:6593739b-3d18-415e-b0d2-4f263bb8598c",
@@ -4441,6 +4660,31 @@
    "lng": 14.416,
    "cat": "city",
    "free": true
+  },
+  {
+   "id": "artmap:54864",
+   "source": "artmap",
+   "name": {
+    "cs": "Martin Zetová – Všichni jsme stejně staří"
+   },
+   "summary": {
+    "cs": "Kresba a grafika"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/martin-zetova-vsichni-jsme-stejne-stari-9-12"
+   },
+   "dates": [
+    {
+     "start": "2026-12-09T18:30",
+     "end": "2026-12-09T20:00"
+    }
+   ],
+   "venue": "Kampus Hybernská",
+   "area": "Praha 1",
+   "lat": 50.0870578,
+   "lng": 14.429897,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "goout:9621158",
@@ -4674,6 +4918,31 @@
    "free": true
   },
   {
+   "id": "artmap:54886",
+   "source": "artmap",
+   "name": {
+    "cs": "Jan Kaláb – Beyond the Frame"
+   },
+   "summary": {
+    "cs": "Socha a objekt"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/jan-kalab-beyond-the-frame-10-12"
+   },
+   "dates": [
+    {
+     "start": "2026-12-10T17:00",
+     "end": "2026-12-10T17:00"
+    }
+   ],
+   "venue": "KodlContemporary",
+   "area": "Praha 1",
+   "lat": 50.092075252223,
+   "lng": 14.418165488835,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
    "id": "goout:9621161",
    "source": "goout",
    "name": {
@@ -4722,6 +4991,56 @@
    "lng": 14.4528,
    "cat": "city",
    "free": true
+  },
+  {
+   "id": "artmap:54833",
+   "source": "artmap",
+   "name": {
+    "cs": "ANDROS"
+   },
+   "summary": {
+    "cs": "Malba, Socha a objekt, Fotografie, Kresba a grafika, Současné umění"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/andros-10-12"
+   },
+   "dates": [
+    {
+     "start": "2026-12-10T18:00",
+     "end": "2026-12-10T18:00"
+    }
+   ],
+   "venue": "Centrum současného umění DOX",
+   "area": "Praha 7",
+   "lat": 50.1067812,
+   "lng": 14.4470411,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
+   "id": "artmap:54841",
+   "source": "artmap",
+   "name": {
+    "cs": "Art Sounds: rivermoans"
+   },
+   "summary": {
+    "cs": "Živá akce"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/art-sounds-rivermoans"
+   },
+   "dates": [
+    {
+     "start": "2026-12-10T19:30",
+     "end": "2026-12-10T20:30"
+    }
+   ],
+   "venue": "Galerie Rudolfinum",
+   "area": "Praha 1",
+   "lat": 50.090172,
+   "lng": 14.415219,
+   "cat": "art",
+   "free": "likely"
   },
   {
    "id": "goout:9574876",
@@ -4930,6 +5249,56 @@
    "free": true
   },
   {
+   "id": "goout:9605088",
+   "source": "goout",
+   "name": {
+    "cs": "Sklizeň"
+   },
+   "summary": {
+    "cs": "V bezejmenné anglické vesnici, kdesi na pomezí historie a podobenství, se během sedmi dní začíná rozpadat svět, který po generace utvářel život místního společenství. Walter Thirsk, bývalý měšťan, který našel domov mezi vesničany, a jeho přítel Charles Kent, místní statkář, sledují, jak do jejich uzavřeného světa pronikají cizí lidé, nové pořádky a představa půdy jako soukromého majetku a zdroje…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/sklizen/szndsoy/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-12T20:00",
+     "end": "2026-12-12T23:59"
+    }
+   ],
+   "venue": "Kino Ponrepo",
+   "area": "Praha 1",
+   "lat": 50.0832,
+   "lng": 14.4177,
+   "cat": "city",
+   "free": true
+  },
+  {
+   "id": "artmap:54827",
+   "source": "artmap",
+   "name": {
+    "cs": "Terra Incognita"
+   },
+   "summary": {
+    "cs": "Socha a objekt, Video, Média a technologie"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/terra-incognita-15-12"
+   },
+   "dates": [
+    {
+     "start": "2026-12-15T17:30",
+     "end": "2026-12-15T18:30"
+    }
+   ],
+   "venue": "GHMP Dům fotografie",
+   "area": "Praha 1",
+   "lat": 50.090084,
+   "lng": 14.427751,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
    "id": "petrohradska:c643b7fb-68f3-4281-ba9a-d16bdb5dc392",
    "source": "petrohradska",
    "name": {
@@ -4955,52 +5324,52 @@
    "free": "donation"
   },
   {
-   "area": "Praha 1",
-   "cat": "talk",
-   "dates": [
-    {
-     "end": "2026-12-17T19:00",
-     "start": "2026-12-17T18:00"
-    }
-   ],
-   "free": "likely",
    "id": "artmap:54507",
-   "lat": 50.090172,
-   "lng": 14.415219,
+   "source": "artmap",
    "name": {
     "cs": "Tanya Lukin Linklater, Duane Linklater – Crested/mâcistan [english]"
    },
-   "source": "artmap",
    "summary": {
     "cs": "Malba, Socha a objekt, Koncept, English Friendly, Současné umění"
    },
    "url": {
     "cs": "https://www.artmap.cz/eventy/tanya-lukin-linklater-duane-linklater-crestedmacistan-english-17-12"
    },
-   "venue": "Galerie Rudolfinum"
-  },
-  {
-   "area": "Praha 1",
-   "cat": "talk",
    "dates": [
     {
-     "end": "2026-12-18T20:00",
-     "start": "2026-12-18T18:00"
+     "start": "2026-12-17T18:00",
+     "end": "2026-12-17T19:00"
     }
    ],
-   "free": "likely",
+   "venue": "Galerie Rudolfinum",
+   "area": "Praha 1",
+   "lat": 50.090172,
+   "lng": 14.415219,
+   "cat": "talk",
+   "free": "likely"
+  },
+  {
    "id": "artmap:54699",
-   "lat": 50.0918437,
-   "lng": 14.4210436,
+   "source": "artmap",
    "name": {
     "cs": "Kouzlo vitráže"
    },
-   "source": "artmap",
    "summary": {},
    "url": {
     "cs": "https://www.artmap.cz/eventy/kouzlo-vitraze"
    },
-   "venue": "Open House Praha"
+   "dates": [
+    {
+     "start": "2026-12-18T18:00",
+     "end": "2026-12-18T20:00"
+    }
+   ],
+   "venue": "Open House Praha",
+   "area": "Praha 1",
+   "lat": 50.0918437,
+   "lng": 14.4210436,
+   "cat": "talk",
+   "free": "likely"
   },
   {
    "id": "prague.eu:jazz-harmony-collective",
