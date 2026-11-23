@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T12:14+01:00",
+ "generated": "2026-11-23T13:25+01:00",
  "events": [
   {
    "id": "goout:8277192",
@@ -223,54 +223,6 @@
    "lng": 14.4265439,
    "cat": "talk",
    "free": "likely"
-  },
-  {
-   "id": "artmap:54697",
-   "source": "artmap",
-   "name": {
-    "cs": "Architekti věčnosti"
-   },
-   "summary": {
-    "cs": "Architektura a urbanismus"
-   },
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/architekti-vecnosti"
-   },
-   "dates": [
-    {
-     "start": "2026-11-22T14:00",
-     "end": "2026-11-22T15:40"
-    }
-   ],
-   "venue": "Open House Praha",
-   "area": "Praha 3",
-   "lat": 50.0796427,
-   "lng": 14.473144,
-   "cat": "talk",
-   "free": "likely"
-  },
-  {
-   "id": "crossclub:8714-sundej-se-sunday",
-   "source": "crossclub",
-   "name": {
-    "cs": "Sundej Se Sunday"
-   },
-   "summary": {},
-   "url": {
-    "cs": "https://www.crossclub.cz/cs/program/8714-sundej-se-sunday/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-22T22:00",
-     "end": "2026-11-22T22:00"
-    }
-   ],
-   "venue": "Cross Club",
-   "area": "Holešovice",
-   "lat": null,
-   "lng": null,
-   "cat": "club",
-   "free": true
   },
   {
    "id": "goout:9617774",
@@ -951,6 +903,31 @@
    "lng": 14.432671,
    "cat": "talk",
    "free": "likely"
+  },
+  {
+   "id": "artmap:54914",
+   "source": "artmap",
+   "name": {
+    "cs": "Michal Cihlář, Pablo de Sax – Potkat Mikimause"
+   },
+   "summary": {
+    "cs": "Kresba a grafika"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/michal-cihlar-pablo-de-sax-potkat-mikimause"
+   },
+   "dates": [
+    {
+     "start": "2026-11-24T18:00",
+     "end": "2026-11-24T18:00"
+    }
+   ],
+   "venue": "Galerie Havelka",
+   "area": "Praha 1",
+   "lat": 50.082976,
+   "lng": 14.419452,
+   "cat": "opening",
+   "free": true
   },
   {
    "id": "goout:9604693",
@@ -5402,6 +5379,54 @@
    "lat": 50.08414963409315,
    "lng": 14.418556430024706,
    "cat": "music",
+   "free": true
+  },
+  {
+   "id": "punctum:night-of-the-living-dead-1968@punctum.cz",
+   "source": "punctum",
+   "name": {
+    "en": "Night of the Living Dead (1968)"
+   },
+   "summary": {
+    "en": "ENG belowV předvečer Vánoc si promítneme Romerův debut Noc oživlých mrtvol. Klasika hororu, první zombie film, nemrtví požírající lidské maso. To vše za vůně kapustnice ve vašem oblíbeném žižkovském obýváčku.19:30 otvíráme20:00 projekce v angličtině s českými titulkyVstup dobrovolný (doporučené 100-200)Filmový klub Punctum promítá mezinárodní filmy, které jsou kreativní, umělecké a vyvolávají v…"
+   },
+   "url": {
+    "en": "https://punctum.cz/event/night-of-the-living-dead-1968"
+   },
+   "dates": [
+    {
+     "start": "2026-12-23T19:00",
+     "end": "2027-01-23T22:00"
+    }
+   ],
+   "venue": "Punctum",
+   "area": "Žižkov",
+   "lat": null,
+   "lng": null,
+   "cat": "music",
+   "free": "donation"
+  },
+  {
+   "id": "crossclub:8731-los-tekkenos",
+   "source": "crossclub",
+   "name": {
+    "cs": "Los Tekkenos"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://www.crossclub.cz/cs/program/8731-los-tekkenos/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-28T20:00",
+     "end": "2026-12-28T20:00"
+    }
+   ],
+   "venue": "Cross Club",
+   "area": "Holešovice",
+   "lat": null,
+   "lng": null,
+   "cat": "club",
    "free": true
   },
   {
