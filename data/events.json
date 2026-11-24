@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T13:25+01:00",
+ "generated": "2026-11-24T14:36+01:00",
  "events": [
   {
    "id": "goout:8277192",
@@ -223,254 +223,6 @@
    "lng": 14.4265439,
    "cat": "talk",
    "free": "likely"
-  },
-  {
-   "id": "goout:9617774",
-   "source": "goout",
-   "name": {
-    "cs": "Zapomenutí dobrodruzi českých dějin / Epizoda druhá: Češi, nebo Němci?"
-   },
-   "summary": {
-    "cs": "Druhá epizoda historické dokumentární série Zapomenutí dobrodruzi českých dějin, kterou režisér Josef Kotalík natočil ve spolupráci s Primou ZOOM a Náprstkovým muzeem, vypráví příběhy dvou pozapomenutých mužů, kteří se narodili v česko-německém pohraničí – botanika Tadeáše Haenkeho, který jako první Čech vstoupil na půdu Aljašky, a polárního objevitele Julia Payera. Oba se narodili na území…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/zapomenuti-dobrodruzi-ceskych-dejin-epizoda-druha-cesi-nebo-nemci/szyknpy/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-23T16:00",
-     "end": "2026-11-23T23:59"
-    }
-   ],
-   "venue": "Kino Atlas",
-   "area": "Praha 8",
-   "lat": 50.0912,
-   "lng": 14.4385,
-   "cat": "city",
-   "free": true
-  },
-  {
-   "id": "goout:9617626",
-   "source": "goout",
-   "name": {
-    "cs": "Cena příběhu"
-   },
-   "summary": {
-    "cs": "Za inuitským šamanem – angakokem – přichází bohatý český turista s překladatelem. Schůzka je domluvena v místním muzeu; jejím předmětem je legendární setkání angakokova a Čechova předka a cizinec je ochoten za příběh bohatě zaplatit. V Inukově sugestivním vyprávění ožívá zkazka z období prvních křesťanských misionářů v Grónsku."
-   },
-   "url": {
-    "cs": "https://goout.net/cs/cena-pribehu/szbfnpy/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-23T17:30",
-     "end": "2026-11-23T23:59"
-    }
-   ],
-   "venue": "Kino Atlas",
-   "area": "Praha 8",
-   "lat": 50.0912,
-   "lng": 14.4385,
-   "cat": "film",
-   "free": true
-  },
-  {
-   "id": "artmap:54659",
-   "source": "artmap",
-   "name": {
-    "cs": "Derek Turner: Provenience v umění a v přírodě [english]"
-   },
-   "summary": {
-    "cs": "English Friendly"
-   },
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/derek-turner-provenience-v-umeni-a-v-prirode-english"
-   },
-   "dates": [
-    {
-     "start": "2026-11-23T18:00",
-     "end": "2026-11-23T18:00"
-    }
-   ],
-   "venue": "Centrum pro současné umění Praha",
-   "area": "Praha 7",
-   "lat": 50.098384,
-   "lng": 14.432671,
-   "cat": "talk",
-   "free": "likely"
-  },
-  {
-   "id": "goout:9617664",
-   "source": "goout",
-   "name": {
-    "cs": "Je’vida"
-   },
-   "summary": {
-    "cs": "První celovečerní hraný film natočený ve skoltské sámštině, kriticky ohroženém jazyku původních obyvatel, kterým mluví už jen zhruba 300 lidí. Starší Sámka se se svou neteří, kterou nikdy předtím neviděla, vydává do Laponska vyklidit zděděný dům. Cesta v ní otevírá hluboko pohřbené vzpomínky na traumatickou asimilaci, internátní školy a ztrátu vlastní identity."
-   },
-   "url": {
-    "cs": "https://goout.net/cs/je-vida/szognpy/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-23T18:00",
-     "end": "2026-11-23T23:59"
-    }
-   ],
-   "venue": "Kino Atlas",
-   "area": "Praha 8",
-   "lat": 50.0912,
-   "lng": 14.4385,
-   "cat": "film",
-   "free": true
-  },
-  {
-   "id": "goout:9586807",
-   "source": "goout",
-   "name": {
-    "cs": "Večer pro Janu Hádkovou"
-   },
-   "summary": {
-    "cs": "Vzpomínkový večer na dokumentaristku, dramaturgyni a režisérku Janu Hádkovou. Její tvorbu připomenou přátelé a spolupracovníci vzpomínkami a tituly: Návraty dokumentaristů, Deset století architektury a Posezení s Janem Burianem. Připraveno ve spolupráci s Českou televizí, v níž Jana Hádková dlouhá léta působila."
-   },
-   "url": {
-    "cs": "https://goout.net/cs/vecer-pro-janu-hadkovou/szhwnny/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-23T18:00",
-     "end": "2026-11-23T23:59"
-    }
-   ],
-   "venue": "Kino Ponrepo",
-   "area": "Praha 1",
-   "lat": 50.0832,
-   "lng": 14.4177,
-   "cat": "city",
-   "free": true
-  },
-  {
-   "id": "punctum:yoga-s-ivetou-nykodymovou-46@punctum.cz",
-   "source": "punctum",
-   "name": {
-    "en": "Yoga s Ivetou Nykodýmovou"
-   },
-   "summary": {
-    "en": "V Punctum máme také pravidelné lekce jógy obvykle v pondělí v pondělí večer od 18:30 do 20:00.Naše lektorka jógy Iveta Nykodýmová je certifikovaná lektorka Ashtanga vinyasa jógy, která také v létě 2018 ukončila pokročilý kurz lektorky Forrest jógy u Any Forrest v Berlíně.Iveta měla první lekci jógy v 17 letech a od té doby je jóga vždy součástí jejího života. Během svého 11 letého pobytu v…"
-   },
-   "url": {
-    "en": "https://punctum.cz/event/yoga-s-ivetou-nykodymovou-46"
-   },
-   "dates": [
-    {
-     "start": "2026-11-23T18:30",
-     "end": "2026-11-23T20:00"
-    }
-   ],
-   "venue": "Punctum",
-   "area": "Žižkov",
-   "lat": null,
-   "lng": null,
-   "cat": "music",
-   "free": true
-  },
-  {
-   "id": "artmap:54844",
-   "source": "artmap",
-   "name": {
-    "cs": "Michaela Hasnedlová – All the Single Ladies: Komunitním bydlením k emancipaci"
-   },
-   "summary": {
-    "cs": "Architektura a urbanismus"
-   },
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/michaela-hasnedlova-all-the-single-ladies-komunitnim-bydlenim-k-emancipaci-2"
-   },
-   "dates": [
-    {
-     "start": "2026-11-23T19:00",
-     "end": "2026-11-23T19:00"
-    }
-   ],
-   "venue": "atelier diptych",
-   "area": "Praha 4 – Nusle",
-   "lat": 50.0621061,
-   "lng": 14.4411461,
-   "cat": "opening",
-   "free": true
-  },
-  {
-   "id": "artmap:54443",
-   "source": "artmap",
-   "name": {
-    "cs": "Jonathan Pielmeier: Létající koně"
-   },
-   "summary": {
-    "cs": "Kresba a grafika"
-   },
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/jonathan-pielmeier-letajici-kone"
-   },
-   "dates": [
-    {
-     "start": "2026-11-23T19:00",
-     "end": "2026-11-23T22:00"
-    }
-   ],
-   "venue": "Laichterův dům",
-   "area": "Praha 2",
-   "lat": 50.078979,
-   "lng": 14.4449917,
-   "cat": "talk",
-   "free": "likely"
-  },
-  {
-   "id": "crossclub:8721-prodigy-afterparty-rave",
-   "source": "crossclub",
-   "name": {
-    "cs": "Prodigy Afterparty & Rave"
-   },
-   "summary": {},
-   "url": {
-    "cs": "https://www.crossclub.cz/cs/program/8721-prodigy-afterparty-rave/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-23T20:00",
-     "end": "2026-11-23T20:00"
-    }
-   ],
-   "venue": "Cross Club",
-   "area": "Holešovice",
-   "lat": null,
-   "lng": null,
-   "cat": "club",
-   "free": true
-  },
-  {
-   "id": "goout:9591743",
-   "source": "goout",
-   "name": {
-    "cs": "HYB4 Film: Obsession"
-   },
-   "summary": {
-    "cs": "**Psychoanalýza jednoho splněného přání s Karlem Malimánkem** Obsession (2025) je psychohoror mladého amerického režiséra Curryho Barkera. Film natočený během 20 dnů za 750 tisíc dolarů utržil v kinech přes půl miliardy dolarů a stal se jednou z největších filmových senzací v roce 2026. Barker originálním způsobem rozvíjí hororový motiv: dej si pozor na to, co si přeješ. Počáteční romance…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/hyb4-film-obsession/szstvny/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-23T20:00",
-     "end": "2026-11-23T22:00"
-    }
-   ],
-   "venue": "Kampus Hybernská",
-   "area": "Praha 1 – Nové Město",
-   "lat": 50.0871,
-   "lng": 14.4299,
-   "cat": "film",
-   "free": true
   },
   {
    "id": "goout:9586625",
@@ -1534,6 +1286,29 @@
    "lng": 14.5111135,
    "cat": "talk",
    "free": "likely"
+  },
+  {
+   "id": "artmap:54923",
+   "source": "artmap",
+   "name": {
+    "cs": "How It Feels to Take Shape"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/how-it-feels-to-take-shape-verni"
+   },
+   "dates": [
+    {
+     "start": "2026-11-25T18:00",
+     "end": "2026-11-25T18:00"
+    }
+   ],
+   "venue": "Galerie U Betlémské kaple",
+   "area": "Praha 1",
+   "lat": 50.0840312,
+   "lng": 14.4177242,
+   "cat": "opening",
+   "free": true
   },
   {
    "id": "artmap:54449",
@@ -3002,6 +2777,29 @@
    "free": true
   },
   {
+   "id": "artmap:54918",
+   "source": "artmap",
+   "name": {
+    "cs": "Hospodyně, umělkyně, milenka třídy SUPERLUX"
+   },
+   "summary": {},
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/hospodyne-umelkyne-milenka-tridy-superlux-2"
+   },
+   "dates": [
+    {
+     "start": "2026-12-01T19:00",
+     "end": "2026-12-01T19:00"
+    }
+   ],
+   "venue": "Galerie VI PER",
+   "area": "Praha 8",
+   "lat": 50.089741,
+   "lng": 14.4463601,
+   "cat": "opening",
+   "free": true
+  },
+  {
    "id": "goout:9617775",
    "source": "goout",
    "name": {
@@ -3233,11 +3031,11 @@
    "id": "artmap:54863",
    "source": "artmap",
    "name": {
-    "cs": "Ondřej Vavrečka: Nigredo, Albedo, Rubedo"
+    "cs": "Ondřej Vavrečka – Práce proměny Nigredo, Albedo, Rubedo"
    },
    "summary": {},
    "url": {
-    "cs": "https://www.artmap.cz/eventy/ondrej-vavrecka-nigredo-albedo-rubedo"
+    "cs": "https://www.artmap.cz/eventy/ondrej-vavrecka-prace-promeny-nigredo-albedo-rubedo-kom-prohl"
    },
    "dates": [
     {
@@ -3603,6 +3401,31 @@
    "free": true
   },
   {
+   "id": "artmap:54844",
+   "source": "artmap",
+   "name": {
+    "cs": "Michaela Hasnedlová – All the Single Ladies: Komunitním bydlením k emancipaci"
+   },
+   "summary": {
+    "cs": "Architektura a urbanismus"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/michaela-hasnedlova-all-the-single-ladies-komunitnim-bydlenim-k-emancipaci-2"
+   },
+   "dates": [
+    {
+     "start": "2026-12-03T18:00",
+     "end": "2026-12-03T22:00"
+    }
+   ],
+   "venue": "atelier diptych",
+   "area": "Praha 4 – Nusle",
+   "lat": 50.0621061,
+   "lng": 14.4411461,
+   "cat": "opening",
+   "free": true
+  },
+  {
    "id": "artmap:54860",
    "source": "artmap",
    "name": {
@@ -3652,6 +3475,31 @@
    "lng": 14.4449917,
    "cat": "talk",
    "free": "likely"
+  },
+  {
+   "id": "artmap:54871",
+   "source": "artmap",
+   "name": {
+    "cs": "Milada Schmidtová Čermáková – Ukládat své sny a touhy do obrázků, do slov"
+   },
+   "summary": {
+    "cs": "Malba"
+   },
+   "url": {
+    "cs": "https://www.artmap.cz/eventy/milada-schmidtova-cermakova-ukladat-sve-sny-a-touhy-do-obrazku-do-slov-2"
+   },
+   "dates": [
+    {
+     "start": "2026-12-03T19:00",
+     "end": "2026-12-03T19:00"
+    }
+   ],
+   "venue": "GHMP Zvon",
+   "area": "Praha 1",
+   "lat": 50.0877663,
+   "lng": 14.4218703,
+   "cat": "opening",
+   "free": true
   },
   {
    "id": "goout:9612580",
@@ -4546,7 +4394,9 @@
    "name": {
     "cs": "Noise Kitchen Open Jam #30"
    },
-   "summary": {},
+   "summary": {
+    "cs": "Dobrovolné"
+   },
    "url": {
     "cs": "https://www.petrohradskakolektiv.com/verejne/petrohradska-kolektiv/program/6593739b-3d18-415e-b0d2-4f263bb8598c"
    },
@@ -4561,7 +4411,7 @@
    "lat": null,
    "lng": null,
    "cat": "music",
-   "free": "likely"
+   "free": "donation"
   },
   {
    "id": "goout:9612612",
@@ -4662,6 +4512,31 @@
    "lng": 14.429897,
    "cat": "talk",
    "free": "likely"
+  },
+  {
+   "id": "goout:9622458",
+   "source": "goout",
+   "name": {
+    "cs": "RP uvádí"
+   },
+   "summary": {
+    "cs": "Rubrika „RP uvádí“ Revue Prostor dává místo odvážným hlasům – debutujícímu nebo nově publikujícímu básnictvu a prozaictvu. Naživo se potkáváme nad jejich texty v Čítárně Kampusu Hybernská. Čtoucí: Eliška Nagyová, Andrea Selzerová a Karolína Volfíková. Čestným hostem večera je Vojtěch Vacek. Literární večery v dramaturgii redakce revue Prostor v Čítárně HYB4 jsou realizovány s finanční podporou…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/rp-uvadi/szixupy/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-09T19:00",
+     "end": "2026-12-09T23:59"
+    }
+   ],
+   "venue": "Kampus Hybernská",
+   "area": "Praha 1 – Nové Město",
+   "lat": 50.0871,
+   "lng": 14.4299,
+   "cat": "city",
+   "free": true
   },
   {
    "id": "goout:9621158",
