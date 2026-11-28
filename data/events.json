@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T13:08+01:00",
+ "generated": "2026-11-28T12:39+01:00",
  "events": [
   {
    "id": "goout:8277192",
@@ -223,281 +223,6 @@
    "lng": 14.4265439,
    "cat": "talk",
    "free": "likely"
-  },
-  {
-   "id": "goout:9575635",
-   "source": "goout",
-   "name": {
-    "cs": "Školy – Dílna středověkého malíře"
-   },
-   "summary": {
-    "cs": "Povídání o Karlu IV. a jeho dvorním malíři Theodorikovi, o hradu Karlštejně a kapli sv. Kříže. Co všechno nám prozradí Theodorikovy obrazy? Seznámíme se s provozem dílny středověkého malíře, s tajemstvím vzniku deskových obrazů a s pojmy mistr, tovaryš, učedník, dílna, vzorník ad. Nejprve nás čeká aktivita v expozici, poté společně proměníme dětský ateliér v „opravdovou Theodorikovu dílnu“, ve…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/skoly-dilna-stredovekeho-malire/szkavmy/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-27T10:00",
-     "end": "2026-11-27T23:59"
-    }
-   ],
-   "venue": "Anežský klášter",
-   "area": "Praha 1 – Staré Město",
-   "lat": 50.092,
-   "lng": 14.4235,
-   "cat": "kids",
-   "free": true
-  },
-  {
-   "id": "goout:9574898",
-   "source": "goout",
-   "name": {
-    "cs": "Školy – V dálce svítí"
-   },
-   "summary": {
-    "cs": "Dívali jste se někdy v noci na oblohu? Představte si, že stejně tak se hvězdy dívají dolů na naši rozzářenou Zem. Připravme jim společně světelnou podívanou! Někteří umělci se o to, zdá se, už pokusili. Budeme pozorovat, jakým způsobem ve svých dílech využívají světlo. Vytvoříme si drobnou skicu na fasádu domu a instalaci, kterou rozzáří UV světla. **Umělci, ke kterým se program vztahuje:** Z.…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/skoly-v-dalce-sviti/szxutmy/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-27T10:00",
-     "end": "2026-11-27T23:59"
-    }
-   ],
-   "venue": "Veletržní palác",
-   "area": "Praha 7",
-   "lat": 50.1012,
-   "lng": 14.4328,
-   "cat": "kids",
-   "free": true
-  },
-  {
-   "id": "goout:9542828",
-   "source": "goout",
-   "name": {
-    "cs": "Školy – Co si šeptají andělé"
-   },
-   "summary": {
-    "cs": "S postavami andělů se mezi „Starými mistry“ setkáváme velmi často. O čem si povídají, jací jsou a jak vypadají? Porozumíme němé řeči jejich gest a výrazů? V ateliéru stvoříme své vlastní andělské bytosti. Program je možné rozšířit o vánoční tématiku. **Cíl programu:** - Cílem programu je nalézt andělské bytosti v jednotlivých slohových obdobích a rozpoznat jejích charakteristické znaky. -…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/skoly-co-si-septaji-andele/szdnsky/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-27T10:00",
-     "end": "2026-11-27T23:59"
-    }
-   ],
-   "venue": "Schwarzenberský palác",
-   "area": "Praha 1",
-   "lat": 50.0891,
-   "lng": 14.3969,
-   "cat": "kids",
-   "free": true
-  },
-  {
-   "id": "goout:9532897",
-   "source": "goout",
-   "name": {
-    "cs": "Školy – Hmota mluví"
-   },
-   "summary": {
-    "cs": "Mluví stavby? Možná víc, než si myslíme. Architektura k nám promlouvá skrze tvar, hmotu i prostor – ovlivňuje naše smysly, emoce i to, jak vnímáme společnost a jednotlivé epochy. V tvůrčím workshopu se zaměříme na základní principy architektonické tvorby – vztah hmoty, materiálu a prostoru – a jejich vliv na to, jak architekturu prožíváme. Vyzkoušíte si tvarovat hmotu po svém, experimentovat s…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/skoly-hmota-mluvi/szwpcky/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-27T10:00",
-     "end": "2026-11-27T23:59"
-    }
-   ],
-   "venue": "Veletržní palác",
-   "area": "Praha 7",
-   "lat": 50.1012,
-   "lng": 14.4328,
-   "cat": "kids",
-   "free": true
-  },
-  {
-   "id": "goout:9532875",
-   "source": "goout",
-   "name": {
-    "cs": "Školy – V krystalu"
-   },
-   "summary": {
-    "cs": "Posviťme si na krystal a objevme v malém blýskavém pokladu možnosti pro velké experimenty. Inspirováni dílem Wenzela Hablika pojďme navrhovat a stavět „vzdušné“ zámky. Jako stavební prvek nám poslouží princip krystalické struktury. Tvar nám bude narůstat pomocí razítek a kaleidoskopu. Vytvoříme zářivou krystalickou stavbu. **Cíl programu:** - Vnímat přírodu jako umělecký inspirační zdroj:…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/skoly-v-krystalu/szapcky/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-27T10:00",
-     "end": "2026-11-27T23:59"
-    }
-   ],
-   "venue": "Veletržní palác",
-   "area": "Praha 7",
-   "lat": 50.1012,
-   "lng": 14.4328,
-   "cat": "kids",
-   "free": true
-  },
-  {
-   "id": "goout:9575356",
-   "source": "goout",
-   "name": {
-    "cs": "Školy – Jak se dívat na obraz?"
-   },
-   "summary": {
-    "cs": "Program je určen pro první návštěvu galerie. Studenty seznámí se základními formotvornými znaky obrazu: kompozice, barva, světlo, prostor, pohyb, proporce a s proměnami těchto znaků v slohových obdobích gotiky, renesance, baroka. Spolu s formálními znaky uměleckého díla bude sledován vývoj témat a výtvarných technik. Program probíhá v expozici dialogickou formou, je doplněn ukázkami reprodukcí a…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/skoly-jak-se-divat-na-obraz/szgoumy/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-27T11:00",
-     "end": "2026-11-27T23:59"
-    }
-   ],
-   "venue": "Šternberský palác",
-   "area": "Praha 1",
-   "lat": 50.0906,
-   "lng": 14.3967,
-   "cat": "kids",
-   "free": true
-  },
-  {
-   "id": "goout:9539247",
-   "source": "goout",
-   "name": {
-    "cs": "Školy – Proč slavíme Vánoce?"
-   },
-   "summary": {
-    "cs": "Při povídání o nejkrásnějších svátcích v roce budeme hledat odpovědi na otázky, proč se Bůh rozhodl poslat na svět svého jediného Syna, jak se Panna Maria dozvěděla, že se jí narodí Ježíšek, z čeho mu sv. Josef ušil plenku a mnoho dalšího. Pokusíme se porozumět symbolům ve výtvarných dílech tak, jak jim rozuměli lidé v době středověku a porovnáme, jak se slavily Vánoce v dávných dobách, a jak je…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/skoly-proc-slavime-vanoce/szwtmky/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-27T11:00",
-     "end": "2026-11-27T23:59"
-    }
-   ],
-   "venue": "Anežský klášter",
-   "area": "Praha 1 – Staré Město",
-   "lat": 50.092,
-   "lng": 14.4235,
-   "cat": "kids",
-   "free": true
-  },
-  {
-   "id": "goout:9575365",
-   "source": "goout",
-   "name": {
-    "cs": "Školy – Okem renesance"
-   },
-   "summary": {
-    "cs": "Pojďte s tužkou v ruce zkoumat principy renesančního umění ve Schwarzenberském paláci. Jak se rozvoj humanitních věd, s důrazem na individualitu člověka, promítl do umění Albrechta Dürera nebo Lucase Cranacha? Dá se krása spočítat? Co je prostorová perspektiva a jakou roli hraje v obraze symetrie? Vše okusíme prostřednictvím vlastní tvorby mezi obrazy. **Cíl programu:** - rozpoznat základní…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/skoly-okem-renesance/szpoumy/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-27T12:00",
-     "end": "2026-11-27T23:59"
-    }
-   ],
-   "venue": "Schwarzenberský palác",
-   "area": "Praha 1",
-   "lat": 50.0891,
-   "lng": 14.3969,
-   "cat": "kids",
-   "free": true
-  },
-  {
-   "id": "artmap:54883",
-   "source": "artmap",
-   "name": {
-    "cs": "Igor Hosnedl – Slumber"
-   },
-   "summary": {
-    "cs": "Malba, Kresba a grafika, Současné umění"
-   },
-   "url": {
-    "cs": "https://www.artmap.cz/eventy/igor-hosnedl-slumber-2"
-   },
-   "dates": [
-    {
-     "start": "2026-11-27T18:00",
-     "end": "2026-11-27T18:00"
-    }
-   ],
-   "venue": "Hunt Kastner",
-   "area": "Praha 3 – Žižkov",
-   "lat": 50.082811,
-   "lng": 14.448147,
-   "cat": "opening",
-   "free": true
-  },
-  {
-   "id": "punctum:berre-no-kuchen-se-erb-ch-lonberg-holm-usa-black-diamond-usaau@punctum.cz",
-   "source": "punctum",
-   "name": {
-    "en": "Berre (NO) & Küchen (SE) + Erb (CH) & Lonberg-Holm (USA) + Black Diamond (USA/AU)"
-   },
-   "summary": {
-    "en": "V listopadu nás čeká jediný SKRONK', zato nabitý mezinárodními projekty od delikátní improvizace po chicagský free jazz.KÜCHEN/BERRE:Martin Küchen, sopranino saxHåkon Berre, bicí, objektyhttps://barefootrecords.bandcamp.com/album/p-snurrERB/LONBERG-HOLM:Christoph Erb, saxofonyFred Lonberg-Holm, violoncello a elektronikahttps://veto-records.bandcamp.com/album/screw-and-strawBLACK DIAMOND:Artie…"
-   },
-   "url": {
-    "en": "https://punctum.cz/event/berre-no-kuchen-se-erb-ch-lonberg-holm-usa-black-diamond-usaau"
-   },
-   "dates": [
-    {
-     "start": "2026-11-27T19:00",
-     "end": "2026-11-27T22:00"
-    }
-   ],
-   "venue": "Punctum",
-   "area": "Žižkov",
-   "lat": null,
-   "lng": null,
-   "cat": "music",
-   "free": true
-  },
-  {
-   "id": "goout:9618488",
-   "source": "goout",
-   "name": {
-    "cs": "NOISES OFF by MICHAEL FRAYN"
-   },
-   "summary": {
-    "cs": "We are delighted to present our first performance in the new auditorium of the English College in Prague! Michael Frayn’s Noises Off follows an ambitious director and his chaotic cast of eccentric actors as they attempt to mount a classic British farce, Nothing On. From a disastrous final dress rehearsal to a frantic backstage matinee, everything that can go wrong does—including missed cues,…"
-   },
-   "url": {
-    "cs": "https://goout.net/cs/noises-off-by-michael-frayn/sznoopy/"
-   },
-   "dates": [
-    {
-     "start": "2026-11-27T19:00",
-     "end": "2026-11-27T23:59"
-    }
-   ],
-   "venue": "The English College in Prague",
-   "area": "Praha 9",
-   "lat": 50.1098,
-   "lng": 14.5,
-   "cat": "stage",
-   "free": true
   },
   {
    "id": "prague.eu:farmarske-trhy-na-kulataku",
@@ -4252,6 +3977,262 @@
    "lat": 50.0871,
    "lng": 14.4299,
    "cat": "music",
+   "free": true
+  },
+  {
+   "id": "goout:9574878",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – V galerii se skicákem: 1796–1918: Umění dlouhého století"
+   },
+   "summary": {
+    "cs": "Přijďte si prohlédnout bohatou škálu uměleckých přístupů moderního a současného umění. Ponořte se i v rámci skupiny do svého světa, kde je prostor a čas dívat se a tvořit. Objevujte. Skicujte v expozici 1796–1918: Umění dlouhého století Ve Veletržním paláci nyní nabízíme unikátní triptych výstav 19.-21. století. Na trojici výstav navazujeme nabídkou vzdělávacích programů V galerii se skicákem.…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-v-galerii-se-skicakem-1796-1918-umeni-dlouheho-stoleti/szdutmy/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-18T10:00",
+     "end": "2026-12-18T23:59"
+    }
+   ],
+   "venue": "Veletržní palác",
+   "area": "Praha 7",
+   "lat": 50.1012,
+   "lng": 14.4328,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9574867",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Silák Herakles"
+   },
+   "summary": {
+    "cs": "Už jste někdy číhali skrytí v přírodě s nastraženýma ušima a očima na stopkách? V takových chvílích vnímáme i ty nejtišší zvuky z okolí a naše představivost pracuje naplno. Zveme vás na výpravu do starověkého Řecka, plného mýtů a pověstí. Setkáme se s velkým hrdinou Heraklem ve chvíli nejhlubšího soustředění. Jaký je jeho příběh a cesta? Co asi v dálce pozoruje? A kdo nebo co pozoruje jeho?…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-silak-herakles/szrttmy/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-18T10:00",
+     "end": "2026-12-18T23:59"
+    }
+   ],
+   "venue": "Veletržní palác",
+   "area": "Praha 7",
+   "lat": 50.1012,
+   "lng": 14.4328,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9574820",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Proč slavíme Vánoce?"
+   },
+   "summary": {
+    "cs": "Při povídání o nejkrásnějších svátcích v roce budeme hledat odpovědi na otázky, proč se Bůh rozhodl poslat na svět svého jediného Syna, jak se Panna Maria dozvěděla, že se jí narodí Ježíšek, z čeho mu sv. Josef ušil plenku a mnoho dalšího. Pokusíme se porozumět symbolům ve výtvarných dílech tak, jak jim rozuměli lidé v době středověku a porovnáme, jak se slavily Vánoce v dávných dobách, a jak je…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-proc-slavime-vanoce/szurtmy/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-18T10:00",
+     "end": "2026-12-18T23:59"
+    }
+   ],
+   "venue": "Anežský klášter",
+   "area": "Praha 1 – Staré Město",
+   "lat": 50.092,
+   "lng": 14.4235,
+   "cat": "kids",
+   "free": true,
+   "also": [
+    "goout"
+   ]
+  },
+  {
+   "id": "goout:9533531",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – V krystalu"
+   },
+   "summary": {
+    "cs": "Posviťme si na krystal a objevme v malém blýskavém pokladu možnosti pro velké experimenty. Inspirováni dílem Wenzela Hablika pojďme navrhovat a stavět „vzdušné“ zámky. Jako stavební prvek nám poslouží princip krystalické struktury. Tvar nám bude narůstat pomocí razítek a kaleidoskopu. Vytvoříme zářivou krystalickou stavbu. **Cíl programu:** - Vnímat přírodu jako umělecký inspirační zdroj:…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-v-krystalu/szgqdky/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-18T10:00",
+     "end": "2026-12-18T23:59"
+    }
+   ],
+   "venue": "Veletržní palác",
+   "area": "Praha 7",
+   "lat": 50.1012,
+   "lng": 14.4328,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9533466",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Dialogická prohlídka: Umění dlouhého století"
+   },
+   "summary": {
+    "cs": "Jak se dnes díváme na ikonická díla 19. století? Co nám říkají o světě včerejška a o nás samotných? V expozici 1796–1918: Umění dlouhého století se studenti rozdělí do menších týmů a s pomocí indicií se ponoří do jednoho vybraného díla. Útržky textů, fotografie, kresby i haptické stopy je povedou od detailů obrazu a života autora až k širším otázkám dějin a společnosti. Výsledkem není jediná…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-dialogicka-prohlidka-umeni-dlouheho-stoleti/szqndky/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-18T10:00",
+     "end": "2026-12-18T23:59"
+    }
+   ],
+   "venue": "Veletržní palác",
+   "area": "Praha 7",
+   "lat": 50.1012,
+   "lng": 14.4328,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9533463",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Blízkost sochy"
+   },
+   "summary": {
+    "cs": "Co si představíme, když se řekne SOCHA? Společně se ponoříme do světa soch, objektů a instalací. Může socha svítit, hýbat se či hořet? Prozkoumáme různé sochařské materiály a vytvoříme si vlastní 3D otisk. Program je realizován v expozici 1939–2021: Konec černobílé doby, která je bohatá na sochařská díla předních českých umělců 20. a 21. století. Společně se budeme mezi sochami procházet, dívat…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-blizkost-sochy/sznndky/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-18T10:00",
+     "end": "2026-12-18T23:59"
+    }
+   ],
+   "venue": "Veletržní palác",
+   "area": "Praha 7",
+   "lat": 50.1012,
+   "lng": 14.4328,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9533421",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Co si šeptají andělé"
+   },
+   "summary": {
+    "cs": "S postavami andělů se mezi „Starými mistry“ setkáváme velmi často. O čem si povídají, jací jsou a jak vypadají? Porozumíme němé řeči jejich gest a výrazů? V ateliéru stvoříme své vlastní andělské bytosti. Program je možné rozšířit o vánoční tématiku. **Cíl programu:** - Cílem programu je nalézt andělské bytosti v jednotlivých slohových obdobích a rozpoznat jejích charakteristické znaky. -…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-co-si-septaji-andele/szvldky/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-18T10:00",
+     "end": "2026-12-18T23:59"
+    }
+   ],
+   "venue": "Schwarzenberský palác",
+   "area": "Praha 1",
+   "lat": 50.0891,
+   "lng": 14.3969,
+   "cat": "kids",
+   "free": true,
+   "also": [
+    "goout"
+   ]
+  },
+  {
+   "id": "goout:9533473",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Komentovaná prohlídka: 1796–1918: Umění dlouhého století"
+   },
+   "summary": {
+    "cs": "Komentovaná prohlídka představuje umění 19. a počátku 20. století v tematických souvislostech. V kapitolách expozice nazvaných Člověk, Svět a Ideje vstupují díla do dialogu napříč časem, směry i médii. Vedle sebe objevíme práce klasiků českého umění, jako jsou Josef Mánes, Jakub Schikaneder nebo František Ženíšek, a průkopníků moderny, jakými byli Emil Filla, František Kupka či Pablo Picasso.…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-komentovana-prohlidka-1796-1918-umeni-dlouheho-stoleti/szxndky/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-18T12:00",
+     "end": "2026-12-18T23:59"
+    }
+   ],
+   "venue": "Veletržní palác",
+   "area": "Praha 7",
+   "lat": 50.1012,
+   "lng": 14.4328,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9533437",
+   "source": "goout",
+   "name": {
+    "cs": "Školy – Ozvěny antiky"
+   },
+   "summary": {
+    "cs": "Vypravte se s námi do světa proměn. Vládne zde nejvyšší z olympských bohů Zeus, slávu sklízí hrdina Perseus, krásou oslňuje bohyně Afrodita a vše živé i neživé harmonizuje zpěv Orfeův. Proč byl tento svět tak populární i v době křesťanského renesančního a barokního umění? Zkusme to objevit při prohlídce Schwarzenberského paláce i během výtvarné aktivity. Svět dávné antiky budeme objevovat na…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/skoly-ozveny-antiky/szmmdky/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-18T12:00",
+     "end": "2026-12-18T23:59"
+    }
+   ],
+   "venue": "Schwarzenberský palác",
+   "area": "Praha 1",
+   "lat": 50.0891,
+   "lng": 14.3969,
+   "cat": "kids",
+   "free": true
+  },
+  {
+   "id": "goout:9590678",
+   "source": "goout",
+   "name": {
+    "cs": "Příběhy staroměstských domů"
+   },
+   "summary": {
+    "cs": "Komentovaná vycházka Starým Městem. Její účastníci se projdou spolu s průvodcem uličkami v okolí Uhelného trhu a Staroměstského náměstí a odhalí příběhy, které se skrývají za fasádami zdejších domů. Dozvědí, jak dopadla vážná známost slavného cestovatele, kde stávala oblíbená Mozartova vinárna a jakým sportem se v minulosti bavili Pražané. Uvidí také dům, kde se za okupace ukrýval jeden z…"
+   },
+   "url": {
+    "cs": "https://goout.net/cs/pribehy-staromestskych-domu/szdcuny/"
+   },
+   "dates": [
+    {
+     "start": "2026-12-18T17:00",
+     "end": "2026-12-18T23:59"
+    }
+   ],
+   "venue": "Uhelný trh",
+   "area": "Praha 1",
+   "lat": 50.084,
+   "lng": 14.4205,
+   "cat": "city",
    "free": true
   },
   {
